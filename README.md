@@ -1,17 +1,17 @@
 # Book Writing Style
 
-This repository preserves raw multilingual drafts that may contain cipher-like phrasing, mixed tone, and layered context. The editorial objective is to preserve the original signal while publishing readable, audience-aware versions.
+This repository preserves raw multilingual drafts that may contain cipher-like phrasing, mixed tone, and layered context. The editorial goal is to preserve the original signal while publishing readable, audience-aware versions.
 
 ## Editorial Principles
 
 1. Preserve the source.
 2. Improve readability.
-3. Clarify context without flattening author voice.
+3. Clarify context without flattening the author's voice.
 4. Deliver multiple narrative layers for different readers.
 
 ## Required Chapter Structure
 
-Each transformed chapter should be published in four sections:
+Each transformed chapter should be published in four sections, in this order:
 
 1. `Index`
 	- Clear chapter map
@@ -69,26 +69,24 @@ This is your roadmap. It lists every chapter in the book.
 
 ### 2. Enigma Codex (Deciphered)
 
-We are including the original, complex "raw code" in this section. To help you, we have deciphered it, fixed the typos, and added context to reveal the hidden messages.
+This section preserves the difficult source material while making it readable. It includes typo fixes, grammar cleanup, and the contextual clues needed to reveal hidden meaning.
 
 ### 3. English Mysterious Style
 
-This version is written in clear English but keeps the magical, cryptic feel of the original.
+This version is written in clear English while preserving the magical, cryptic feel of the original.
 
 ### 4. Fairy Tale Version
 
-This is the simplest version. It retells the story like a fairy tale. It’s perfect for new students and normal readers.
+This is the simplest version. It retells the material as a fairy tale and is best suited for new students and general readers.
 
 ---
 
 ## Transformation Example
 
-To show you how it works, let’s transform just one small part of a chapter.
+The table below shows how one small piece of difficult source material can be transformed across the three narrative layers.
 
-| Version | Original Code |
-| --- | --- |
-| **Enigma Codex (Deciphered)** | // Chapter 1: The Cypher Key // <br>
-
-<br> hardest if not impossible to read undrestand DeBug & FixTypos Grammer // |
-| **English Mysterious Style** | A key was found, hidden. It was harder than any mystery to read or solve. |
-| **Fairy Tale Version** | Once upon a time, a beautiful princess found a secret key. It was the hardest puzzle in the whole kingdom. |
+| Version | Example |  
+| --- | --- |  
+| **Enigma Codex (Deciphered)** | `Chapter 1: The Cypher Key. The passage is extremely difficult to read, understand, debug, and correct.` |  
+| **English Mysterious Style** | `A hidden key was found, but it resisted every easy attempt to read, repair, or fully understand it.` |  
+| **Fairy Tale Version** | `Once upon a time, people found a secret key so difficult that even wise readers had to work carefully to understand it.` |  
