@@ -1,5 +1,7 @@
 # Book Writing Style (Advanced)
 
+![Advanced Editorial Protocol](images/COMPLICATED.png)
+
 This document defines the advanced editorial protocol for transforming raw multilingual drafts into publishable, multi-audience chapter artifacts.
 
 ## 1. Purpose

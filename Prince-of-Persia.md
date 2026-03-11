@@ -3,6 +3,36 @@
 **Author:** Bamdad Fakhran  
 **Date:** February 9, 2026
 
+## Visual References
+
+![Yahoo Cafe](<images/ YAHOO-CAFE.png>)
+
+![Riot Games Team](images/RIOT-GAMES-TEAM.png)
+
+![Foundation Medicine](images/FOUNDATION-MEDICINE.png)
+
+![Life Science](images/LIFE-SCIENCE.png)
+
+![Self-Driving Car](images/SELF-DRIVING-CAR.png)
+
+![Auto Failover](images/AUTO-FAILOVER.png)
+
+![Chapter 7 and 8](images/CHAPTER-7-8.png)
+
+![Legacy Code Refactor](images/LEGACY-CODE-REFACTOR.png)
+
+![Media Entertainment Tech Stack](images/MEDIA-ENTERTAINMENT-TECH-STACK.png)
+
+![Global Tech](images/GLOBAL-TECH.png)
+
+![Friends and Family Tree](images/FRIENDS-N-FAMILY-TREE.png)
+
+![Dr Fakhran Bahman Pars Maryam Fakhran](images/DR-FAKHRAN-BAHMAN-PARS-MARYAM-FAKHRAN.png)
+
+![Eli An-Danian Insight](images/ELI-AN-DANIAN-INSIGHT.png)
+
+![Reflection on Technology and Life](images/REFLECTION-ON-TECHNOLOGY-N-LIFE.png)
+
 ## Index
 
 ### The Tech and Culture Years

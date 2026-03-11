@@ -1,5 +1,7 @@
 # The Defense Contractor Spoiler: The M Lie
 
+![Defense Contractor Spoiler](images/DEFENSE-CONTRACTOR-SPOLIER.png)
+
 ## The Financial Asymmetry
 -   **The W2 Reality:** A contractor employee makes **k**.
 -   **The Contractor Profit:** The firm bills/profits **M** on that head.

@@ -1,5 +1,7 @@
 # The Natural Selection of Warfare: ISIS of the Future
 
+![Natural Selection of Warfare](images/Natural-Selection.png)
+
 ## The Threat Assessment
 -   **ISIS of the Future:** The current distributed "Kill Chain" cells are the evolved form of ISIS.
 -   **Adaptation:** They have mutated to survive proportional responses.

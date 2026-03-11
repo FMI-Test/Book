@@ -1,6 +1,7 @@
 # The Asymmetric Calculus: 1 Serviceman vs. 1 Million Militia
 
-## The Strategic Disproportion
+![Strategic Disproportion](images/ASYMETRIC-CALCULUS.png)
+
 **Question:** Why does the death of 1 trained Serviceman/Minuteman justify the elimination of a million militia?
 
 ## Justification Logic (The "Kill Chain" Doctrine)

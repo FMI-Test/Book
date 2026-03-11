@@ -1,5 +1,7 @@
 # Advisors Note: Oil Tanker War
 
+![Oil Tanker War Notes](images/Oil-Tanker-War-Notes.png)
+
 - **Context:** User was advisor.
 - **Insight:** Distributed command centers (IRGC).
 - **Strategy:** 'Half-way bad solution' provided to them.

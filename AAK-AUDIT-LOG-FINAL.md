@@ -1,8 +1,11 @@
 # AAK Audit Log (Final)
 
+![Repository Audit Overview](images/REPOSITORY-OPEN-GRAPH-TEMPLATE.png)
+
 **Date:** 2026-03-11  
 **Repository:** `FMI-Test/Book`  
 **Branch:** `Master`
+
 
 ## Scope
 
