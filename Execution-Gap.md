@@ -1,6 +1,6 @@
 # The Execution Doctrine: 500-Year Vision, Instant Execution
 
-![The Execution Doctrine: 500-Year Vision, Instant Execution](images/REFACTORING-CODEBASE.png)
+![The Execution Doctrine: 500-Year Vision, Instant Execution](images/EXECUTION-GAP.png)
 
 ## The Strategic Correction
 **Correction:** We do not stop planning. We plan for **500 years**.
