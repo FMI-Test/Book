@@ -1,6 +1,6 @@
 # Advisors Note: Oil Tanker War
 
-![Advisors Note: Oil Tanker War](images/Oil-Tanker-War-Notes.png)
+![Advisors Note: Oil Tanker War](images/OIL-TANKER-WAR-NOTES.png)
 
 - **Context:** User was advisor.
 - **Insight:** Distributed command centers (IRGC).
