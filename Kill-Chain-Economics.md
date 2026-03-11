@@ -1,6 +1,6 @@
 # The Kill Chain Economic Solution: Eliminate Friction
 
-![Kill Chain Economics](images/Kill-Chain-Economics)
+![The Kill Chain Economic Solution](images/Kill-Chain-Economics)
 
 ## The New Math
 -   **Old Model:** Gov pays M → Contractor keeps 98% (Friction/Lobby) → Doer gets k.

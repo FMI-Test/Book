@@ -1,11 +1,11 @@
 # Prince of Persia
 
+![Prince of Persia](images/YAHOO-CAFE.png)
+
 **Author:** Bamdad Fakhran  
 **Date:** February 9, 2026
 
 ## Visual References
-
-![Yahoo Cafe](<images/ YAHOO-CAFE.png>)
 
 ![Riot Games Team](images/RIOT-GAMES-TEAM.png)
 

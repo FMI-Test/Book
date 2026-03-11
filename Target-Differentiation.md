@@ -1,5 +1,7 @@
 # Target Differentiation: The Hardcore vs. The Rest
 
+![Target Differentiation: The Hardcore vs. The Rest](images/TARGET-DIFFERENTIATION.png)
+
 ## The Fundamental Asymmetry
 -   **The Enemy:** Kills millions indiscriminately.
 -   **The Kill Chain:** May kill 100 or 1,000,000, but the *target* is specific.

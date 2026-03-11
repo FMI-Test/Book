@@ -1,6 +1,6 @@
 # The Asymmetric Calculus: 1 Serviceman vs. 1 Million Militia
 
-![Strategic Disproportion](images/ASYMETRIC-CALCULUS.png)
+![The Asymmetric Calculus: 1 Serviceman vs. 1 Million Militia](images/ASYMETRIC-CALCULUS.png)
 
 **Question:** Why does the death of 1 trained Serviceman/Minuteman justify the elimination of a million militia?
 

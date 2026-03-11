@@ -1,4 +1,6 @@
 # Kill Chain Doctrine: End-to-End R&D Analysis
+
+![Kill Chain Doctrine: End-to-End R&D Analysis](images/KILL-CHAIN-DOCTORINE.png)
 > **Classification:** Theoretical R&D | Human Review Only | Not Operational
 > **Date:** 2026-03-03 | **Status:** Draft for Policy Review
 

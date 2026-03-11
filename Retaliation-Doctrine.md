@@ -1,5 +1,7 @@
 # The Retaliation Doctrine: x100
 
+![The Retaliation Doctrine: x100](images/RETALIATION-DOCTORINE.png)
+
 ## The Escalation Matrix
 -   **The Enemy:** Escalate by x10.
 -   **The Response:** Retaliate by x100.
