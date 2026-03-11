@@ -1,8 +1,50 @@
 # Book Writing Style
-Multi-liguistic raw full of cypher and codex which makes it hardest if not impossible in many instances to read undrestand DeBug & FixTypos Grammer and so on and so forth.
 
-## HuMan Writing Style
-In order to publish an easy to read and undrestand very complex aqnd layered context we need to publish the raw coded version with Enigma to decypher it. We need a probable to read for Architectets CS practitioner and applied AI/ML resarchers still tehy would have a hard time and author has his revenge being jelous why AI Lab researchers having huge vocabulary which requires dictionary and wikipedia to undrestand them even when they are not talking technical but just plain English but academia language and litreature which each world crafted to form a short simple elegant sentence like shespier or hemingway and such.
+This repository preserves raw multilingual drafts that may contain cipher-like phrasing, mixed tone, and layered context. The editorial objective is to preserve the original signal while publishing readable, audience-aware versions.
 
-## Ddecypher Prince of Percia
-Read Book repo merge and remove Book.worktree then generate typo fixed, context provided explicit or implicitly or a side story to reveal the Enigma codex then English Mysterious Style and finaly a Fary Tale story for a normal Joe and CS AI ML Practiotionur in genral and student or noraml Jane & Joe.
+## Editorial Principles
+
+1. Preserve the source.
+2. Improve readability.
+3. Clarify context without flattening author voice.
+4. Deliver multiple narrative layers for different readers.
+
+## Required Chapter Structure
+
+Each transformed chapter should be published in four sections:
+
+1. `Index`
+	- Clear chapter map
+	- Logical thematic grouping
+
+2. `Enigma Codex (Deciphered)`
+	- Typo and grammar repair
+	- Explicit restoration of implied context
+	- Short, faithful interpretation of dense passages
+
+3. `English Mysterious Style`
+	- Literary, atmospheric retelling
+	- Suitable for architects and advanced technical readers
+
+4. `Fairy Tale Version`
+	- Plain-language narrative
+	- Suitable for general readers, students, and first-time audiences
+
+## Audience Targets
+
+- Architects and CS practitioners
+- Applied AI/ML researchers
+- General readers and students
+
+## Quality Checklist
+
+- Is the original context preserved?
+- Are typos and grammar corrected?
+- Are all four required sections present?
+- Is each section clearly labeled?
+- Is the result understandable across audience levels?
+
+## Repository Hygiene
+
+- Remove obsolete temporary folders such as `Book.worktrees/` after merge completion.
+- Keep chapter files consistent in headings, ordering, and formatting.
