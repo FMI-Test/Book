@@ -15,6 +15,9 @@ The source material in this repository may contain:
 
 The objective is not to simplify by deletion. The objective is to decode, stabilize, and publish the material with high fidelity while improving readability.
 
+### Core Case Study: Prince of Persia
+Currently processing the *Prince of Persia* artifacts: a dense tapestry correlating hyper-scale tech architecture (AWS, Azure failovers) with systemic social architectures (LAPD encounters, trauma-induced criminality pipelines, DOJ loopholes). The text oscillates between high-society Silicon Valley culture and grounded biomedical crisis management (e.g., managing 260+ BP spikes via extreme hydrotherapy).
+
 ## 2. Editorial Goals
 
 1. Preserve the semantic intent of the source text.
