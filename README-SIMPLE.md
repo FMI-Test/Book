@@ -8,6 +8,8 @@ This repository contains raw multilingual writing that can be difficult to read 
 
 Keep the original text, but publish a clean version that is easier to understand.
 
+**Current Focus:** *The Prince of Persia* story. A tale of a builder navigating giant tech castles (Yahoo, biotech), dealing with intense pressure, and surviving wild encounters with authorities by using a clever hot/cold water trick to calm down.
+
 ## 4-Step Chapter Rewrite
 
 1. Keep the raw source text.

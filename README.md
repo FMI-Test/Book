@@ -69,6 +69,8 @@ To help you, we have organized the book into four clear steps.
 
 This is your roadmap. It lists every chapter in the book.
 
+**Latest Module Context (Prince of Persia)**: Examines the intersection of high-end Silicon Valley architectures (Yahoo, Foundation Medicine), intense personal memory, and systemic encounters with law enforcement and medical crises (LAPD, BP management, psych holds).
+
 ### 2. Enigma Codex (Deciphered)
 
 This section preserves the difficult source material while making it readable. It includes typo fixes, grammar cleanup, and the contextual clues needed to reveal hidden meaning.
