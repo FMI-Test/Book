@@ -1,3 +1,5 @@
+> **Reading Level:** 🟡 Moderate  |  **Grade:** 9  |  **Words:** 93
+
 # The Execution Doctrine: 500-Year Vision, Instant Execution
 
 ![The Execution Doctrine: 500-Year Vision, Instant Execution](images/EXECUTION-GAP.png)
@@ -22,4 +24,3 @@ When the **Engagement Command** is issued:
 ## Conclusion
 -   **Plan:** Like a civilization (500 years).
 -   **Strike:** Like a lightning bolt (0 delay).
-

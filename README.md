@@ -1,3 +1,5 @@
+> **Reading Level:** 🟠 Advanced  |  **Grade:** 10  |  **Words:** 397
+
 # Book Writing Style
 
 ![Book Writing Style](images/COVER.png)

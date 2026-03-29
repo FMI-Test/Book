@@ -1,3 +1,5 @@
+> **Reading Level:** 🟠 Advanced  |  **Grade:** 12  |  **Words:** 528
+
 # Book Writing Style (Advanced)
 
 ![Book Writing Style (Advanced)](images/COMPLICATED.png)

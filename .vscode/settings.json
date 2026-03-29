@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^where bash 2>\\$null; Get-Command bash -ErrorAction SilentlyContinue \\| Select-Object -ExpandProperty Source$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}

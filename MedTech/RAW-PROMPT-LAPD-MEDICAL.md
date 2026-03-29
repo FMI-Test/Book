@@ -1,3 +1,5 @@
+> **Reading Level:** 🔴 Expert  |  **Grade:** 14  |  **Words:** 977
+
 # MedTech & Justice Meta-Analysis: LAPD, BP Crisis, and Systemic Criminalization
 
 **Date:** March 11, 2026

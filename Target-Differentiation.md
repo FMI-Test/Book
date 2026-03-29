@@ -1,3 +1,5 @@
+> **Reading Level:** 🟢 Easy  |  **Grade:** 6  |  **Words:** 92
+
 # Target Differentiation: The Hardcore vs. The Rest
 
 ![Target Differentiation: The Hardcore vs. The Rest](images/TARGET-DIFFERENTIATION.png)

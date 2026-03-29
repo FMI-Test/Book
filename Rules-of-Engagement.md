@@ -1,3 +1,5 @@
+> **Reading Level:** 🔴 Expert  |  **Grade:** 13  |  **Words:** 521
+
 # Policy Doctrine: Rules of Engagement (RoE)
 
 ![Policy Doctrine: Rules of Engagement (RoE)](images/RULES-OF-ENGAGEMENT.png)

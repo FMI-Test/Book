@@ -1,3 +1,5 @@
+> **Reading Level:** 🟠 Advanced  |  **Grade:** 10  |  **Words:** 307
+
 # BookMin
 
 ![BookMin](images/TRANSFORMATIONS.png)

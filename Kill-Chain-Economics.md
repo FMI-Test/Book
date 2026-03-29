@@ -1,3 +1,5 @@
+> **Reading Level:** 🟢 Easy  |  **Grade:** 5  |  **Words:** 108
+
 # The Kill Chain Economic Solution: Eliminate Friction
 
 ![The Kill Chain Economic Solution](images/KILL-CHAIN-ECONOMICS.png)

@@ -1,3 +1,5 @@
+> **Reading Level:** 🟢 Easy  |  **Grade:** 6  |  **Words:** 84
+
 # Security Policy
 
 ![Security Policy](images/SECURITY-POLICY.png)

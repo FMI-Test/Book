@@ -1,3 +1,5 @@
+> **Reading Level:** 🟡 Moderate  |  **Grade:** 8  |  **Words:** 126
+
 # Book Writing Style (Simple)
 
 ![Book Writing Style (Simple)](images/COMPLEMENTARY.png)

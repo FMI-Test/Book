@@ -1,3 +1,5 @@
+> **Reading Level:** 🟢 Easy  |  **Grade:** 5  |  **Words:** 108
+
 # The Retaliation Doctrine: x100
 
 ![The Retaliation Doctrine: x100](images/RETALIATION-DOCTORINE.png)

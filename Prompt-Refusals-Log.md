@@ -1,3 +1,5 @@
+> **Reading Level:** 🔴 Expert  |  **Grade:** 13  |  **Words:** 261
+
 # Prompt Refusals Log
 
 ![Prompt Refusals Log](images/BACK-COVER.png)

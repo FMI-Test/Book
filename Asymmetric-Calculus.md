@@ -1,3 +1,5 @@
+> **Reading Level:** 🟡 Moderate  |  **Grade:** 7  |  **Words:** 152
+
 # The Asymmetric Calculus: 1 Serviceman vs. 1 Million Militia
 
 ![The Asymmetric Calculus: 1 Serviceman vs. 1 Million Militia](images/ASYMETRIC-CALCULUS.png)

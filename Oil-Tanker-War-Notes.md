@@ -1,3 +1,5 @@
+> **Reading Level:** 🟢 Easy  |  **Grade:** 4  |  **Words:** 31
+
 # Advisors Note: Oil Tanker War
 
 ![Advisors Note: Oil Tanker War](images/OIL-TANKER-WAR-NOTES.png)

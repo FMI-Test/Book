@@ -1,3 +1,5 @@
+> **Reading Level:** 🟡 Moderate  |  **Grade:** 9  |  **Words:** 111
+
 # The Natural Selection of Warfare: ISIS of the Future
 
 ![The Natural Selection of Warfare: ISIS of the Future](images/NATURAL-SELECTION.png)

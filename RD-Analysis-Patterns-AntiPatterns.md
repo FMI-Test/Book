@@ -1,3 +1,5 @@
+> **Reading Level:** 🟡 Moderate  |  **Grade:** 9  |  **Words:** 640
+
 # Kill Chain Doctrine: End-to-End R&D Analysis
 
 ![Kill Chain Doctrine: End-to-End R&D Analysis](images/KILL-CHAIN-DOCTORINE.png)

@@ -1,3 +1,5 @@
+> **Reading Level:** 🟠 Advanced  |  **Grade:** 10  |  **Words:** 138
+
 # AAK Audit Log (Final)
 
 ![AAK Audit Log (Final)](images/REPOSITORY-OPEN-GRAPH-TEMPLATE.png)

@@ -1,3 +1,5 @@
+> **Reading Level:** 🟢 Easy  |  **Grade:** 6  |  **Words:** 109
+
 # The Defense Contractor Spoiler: The M Lie
 
 ![The Defense Contractor Spoiler: The M Lie](images/DEFENSE-CONTRACTOR-SPOILER.png)
