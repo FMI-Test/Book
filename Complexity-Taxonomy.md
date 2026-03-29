@@ -398,3 +398,80 @@ For people near the bottom: the tangle is the floor they are trapped under.
 That is not an accident. That is the system working exactly as tuned.
 
 ---
+
+![COMPLEX](./images/COMPLEX.png)
+
+
+![The-Complexity-Tax-of-the-Crowd](./images/The-Complexity-Tax-of-the-Crowd.png)
+
+
+![The-Sovereign-Complexity-Game](./images/The-Sovereign-Complexity-Game.png)
+
+
+![Type-I-Complexity](./images/Type-I-Complexity.png)
+
+
+![Type-II-Complexity](./images/Type-II-Complexity.png)
+
+
+![COMPLEX](./images/COMPLEX.png)
+
+
+![The-Complexity-Tax-of-the-Crowd](./images/The-Complexity-Tax-of-the-Crowd.png)
+
+
+![The-Sovereign-Complexity-Game](./images/The-Sovereign-Complexity-Game.png)
+
+
+![Type-I-Complexity](./images/Type-I-Complexity.png)
+
+
+![Type-II-Complexity](./images/Type-II-Complexity.png)
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/COMPLEX.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for COMPLEX]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/COMPLEX.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for COMPLEX]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/The-Complexity-Tax-of-the-Crowd.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for The-Complexity-Tax-of-the-Crowd]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/The-Sovereign-Complexity-Game.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for The-Sovereign-Complexity-Game]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/Type-I-Complexity.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for Type-I-Complexity]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/Type-II-Complexity.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for Type-II-Complexity]*

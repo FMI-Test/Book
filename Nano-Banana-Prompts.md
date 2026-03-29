@@ -204,3 +204,526 @@ These prompts are designed for use in:
 The banana is always obvious in retrospect. The trick is seeing it in the room before everyone else does.
 
 ---
+
+![AUTO-FAILOVER](./images/AUTO-FAILOVER.png)
+
+
+![BACK-COVER](./images/BACK-COVER.png)
+
+
+![Bodhi-Tree](./images/Bodhi-Tree.png)
+
+
+![CHAPTER-7-8](./images/CHAPTER-7-8.png)
+
+
+![Compartmentalization](./images/Compartmentalization.png)
+
+
+![COMPLEMENTARY](./images/COMPLEMENTARY.png)
+
+
+![COVER-BACK](./images/COVER-BACK.png)
+
+
+![COVER](./images/COVER.png)
+
+
+![Do-unto-others](./images/Do-unto-others.png)
+
+
+![DR-FAKHRAN-BAHMAN-PARS-MARYAM-FAKHRAN](./images/DR-FAKHRAN-BAHMAN-PARS-MARYAM-FAKHRAN.png)
+
+
+![ELI-AN-DANIAN-INSIGHT](./images/ELI-AN-DANIAN-INSIGHT.png)
+
+
+![Failed-Programs](./images/Failed-Programs.png)
+
+
+![FOUNDATION-MEDICINE](./images/FOUNDATION-MEDICINE.png)
+
+
+![FRIENDS-N-FAMILY-TREE](./images/FRIENDS-N-FAMILY-TREE.png)
+
+
+![GLOBAL-TECH](./images/GLOBAL-TECH.png)
+
+
+![Job-Silence](./images/Job-Silence.png)
+
+
+![LEGACY-CODE-REFACTOR](./images/LEGACY-CODE-REFACTOR.png)
+
+
+![LIFE-SCIENCE](./images/LIFE-SCIENCE.png)
+
+
+![MEDIA-ENTERTAINMENT-TECH-STACK](./images/MEDIA-ENTERTAINMENT-TECH-STACK.png)
+
+
+![Prevent-Faliure](./images/Prevent-Faliure.png)
+
+
+![Prometheus](./images/Prometheus.png)
+
+
+![REFLECTION-ON-TECHNOLOGY-N-LIFE](./images/REFLECTION-ON-TECHNOLOGY-N-LIFE.png)
+
+
+![REPOSITORY-OPEN-GRAPH-TEMPLATE](./images/REPOSITORY-OPEN-GRAPH-TEMPLATE.png)
+
+
+![RIOT-GAMES-TEAM](./images/RIOT-GAMES-TEAM.png)
+
+
+![SELF-DRIVING-CAR](./images/SELF-DRIVING-CAR.png)
+
+
+![The-Bomb-Doesnt-Tick](./images/The-Bomb-Doesnt-Tick.png)
+
+
+![The-Civilization-Barrier](./images/The-Civilization-Barrier.png)
+
+
+![The-Crossing-Problem](./images/The-Crossing-Problem.png)
+
+
+![The-Destruction-Cases](./images/The-Destruction-Cases.png)
+
+
+![The-Divergence-Case](./images/The-Divergence-Case.png)
+
+
+![The-Reconstruction-Miracles](./images/The-Reconstruction-Miracles.png)
+
+
+![The-Ticking-Bomb-Architecture](./images/The-Ticking-Bomb-Architecture.png)
+
+
+![TRANSFORMATIONS](./images/TRANSFORMATIONS.png)
+
+
+![YAHOO-CAFE](./images/YAHOO-CAFE.png)
+
+
+![AUTO-FAILOVER](./images/AUTO-FAILOVER.png)
+
+
+![BACK-COVER](./images/BACK-COVER.png)
+
+
+![Bodhi-Tree](./images/Bodhi-Tree.png)
+
+
+![CHAPTER-7-8](./images/CHAPTER-7-8.png)
+
+
+![Compartmentalization](./images/Compartmentalization.png)
+
+
+![COMPLEMENTARY](./images/COMPLEMENTARY.png)
+
+
+![COVER-BACK](./images/COVER-BACK.png)
+
+
+![COVER](./images/COVER.png)
+
+
+![Do-unto-others](./images/Do-unto-others.png)
+
+
+![DR-FAKHRAN-BAHMAN-PARS-MARYAM-FAKHRAN](./images/DR-FAKHRAN-BAHMAN-PARS-MARYAM-FAKHRAN.png)
+
+
+![ELI-AN-DANIAN-INSIGHT](./images/ELI-AN-DANIAN-INSIGHT.png)
+
+
+![Failed-Programs](./images/Failed-Programs.png)
+
+
+![FOUNDATION-MEDICINE](./images/FOUNDATION-MEDICINE.png)
+
+
+![FRIENDS-N-FAMILY-TREE](./images/FRIENDS-N-FAMILY-TREE.png)
+
+
+![GLOBAL-TECH](./images/GLOBAL-TECH.png)
+
+
+![Job-Silence](./images/Job-Silence.png)
+
+
+![LEGACY-CODE-REFACTOR](./images/LEGACY-CODE-REFACTOR.png)
+
+
+![LIFE-SCIENCE](./images/LIFE-SCIENCE.png)
+
+
+![MEDIA-ENTERTAINMENT-TECH-STACK](./images/MEDIA-ENTERTAINMENT-TECH-STACK.png)
+
+
+![Prevent-Faliure](./images/Prevent-Faliure.png)
+
+
+![Prometheus](./images/Prometheus.png)
+
+
+![REFLECTION-ON-TECHNOLOGY-N-LIFE](./images/REFLECTION-ON-TECHNOLOGY-N-LIFE.png)
+
+
+![REPOSITORY-OPEN-GRAPH-TEMPLATE](./images/REPOSITORY-OPEN-GRAPH-TEMPLATE.png)
+
+
+![RIOT-GAMES-TEAM](./images/RIOT-GAMES-TEAM.png)
+
+
+![SELF-DRIVING-CAR](./images/SELF-DRIVING-CAR.png)
+
+
+![The-Bomb-Doesnt-Tick](./images/The-Bomb-Doesnt-Tick.png)
+
+
+![The-Civilization-Barrier](./images/The-Civilization-Barrier.png)
+
+
+![The-Crossing-Problem](./images/The-Crossing-Problem.png)
+
+
+![The-Destruction-Cases](./images/The-Destruction-Cases.png)
+
+
+![The-Divergence-Case](./images/The-Divergence-Case.png)
+
+
+![The-Reconstruction-Miracles](./images/The-Reconstruction-Miracles.png)
+
+
+![The-Ticking-Bomb-Architecture](./images/The-Ticking-Bomb-Architecture.png)
+
+
+![TRANSFORMATIONS](./images/TRANSFORMATIONS.png)
+
+
+![YAHOO-CAFE](./images/YAHOO-CAFE.png)
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/AUTO-FAILOVER.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for AUTO-FAILOVER]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/BACK-COVER.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for BACK-COVER]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/Bodhi-Tree.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for Bodhi-Tree]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/CHAPTER-7-8.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for CHAPTER-7-8]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/Compartmentalization.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for Compartmentalization]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/COMPLEMENTARY.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for COMPLEMENTARY]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/AUTO-FAILOVER.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for AUTO-FAILOVER]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/BACK-COVER.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for BACK-COVER]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/Bodhi-Tree.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for Bodhi-Tree]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/CHAPTER-7-8.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for CHAPTER-7-8]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/Compartmentalization.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for Compartmentalization]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/COMPLEMENTARY.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for COMPLEMENTARY]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/COVER-BACK.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for COVER-BACK]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/COVER.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for COVER]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/Do-unto-others.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for Do-unto-others]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/DR-FAKHRAN-BAHMAN-PARS-MARYAM-FAKHRAN.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for DR-FAKHRAN-BAHMAN-PARS-MARYAM-FAKHRAN]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/ELI-AN-DANIAN-INSIGHT.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for ELI-AN-DANIAN-INSIGHT]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/Failed-Programs.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for Failed-Programs]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/FOUNDATION-MEDICINE.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for FOUNDATION-MEDICINE]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/FRIENDS-N-FAMILY-TREE.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for FRIENDS-N-FAMILY-TREE]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/GLOBAL-TECH.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for GLOBAL-TECH]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/Job-Silence.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for Job-Silence]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/LEGACY-CODE-REFACTOR.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for LEGACY-CODE-REFACTOR]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/LIFE-SCIENCE.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for LIFE-SCIENCE]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/MEDIA-ENTERTAINMENT-TECH-STACK.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for MEDIA-ENTERTAINMENT-TECH-STACK]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/Prevent-Faliure.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for Prevent-Faliure]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/Prometheus.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for Prometheus]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/REFLECTION-ON-TECHNOLOGY-N-LIFE.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for REFLECTION-ON-TECHNOLOGY-N-LIFE]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/REPOSITORY-OPEN-GRAPH-TEMPLATE.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for REPOSITORY-OPEN-GRAPH-TEMPLATE]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/RIOT-GAMES-TEAM.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for RIOT-GAMES-TEAM]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/SELF-DRIVING-CAR.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for SELF-DRIVING-CAR]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/The-Bomb-Doesnt-Tick.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for The-Bomb-Doesnt-Tick]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/The-Civilization-Barrier.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for The-Civilization-Barrier]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/The-Crossing-Problem.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for The-Crossing-Problem]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/The-Destruction-Cases.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for The-Destruction-Cases]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/The-Divergence-Case.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for The-Divergence-Case]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/The-Reconstruction-Miracles.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for The-Reconstruction-Miracles]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/The-Ticking-Bomb-Architecture.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for The-Ticking-Bomb-Architecture]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/TRANSFORMATIONS.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for TRANSFORMATIONS]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/YAHOO-CAFE.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for YAHOO-CAFE]*

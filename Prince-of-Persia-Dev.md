@@ -130,3 +130,30 @@ The Enigma of his life was this: he treated the towering, infinite complexities 
 - **Linguistic Dualism:** The prose swings violently between highly articulate, English architectural jargon and aggressive, raw Persian street slang. This isn't just stylistic; it is a defensive reflex. It is the language of a mind that has had to rapidly code-switch between presenting as a compliant socio-economic elite and surviving as a street-level combatant. 
 
 **Conclusion:** The narrative is an unintentional masterpiece of modern tech-sociology. It proves that the engine rooms of our most advanced digital architectures are not built by sanitized scholars, but by battle-hardened survivors translating the chaos of their lives into the order of the machine.
+
+![The-Handful-of-Leaders-Theorem](./images/The-Handful-of-Leaders-Theorem.png)
+
+
+![The-Tower-of-Babel](./images/The-Tower-of-Babel.png)
+
+
+![The-Handful-of-Leaders-Theorem](./images/The-Handful-of-Leaders-Theorem.png)
+
+
+![The-Tower-of-Babel](./images/The-Tower-of-Babel.png)
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/The-Handful-of-Leaders-Theorem.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for The-Handful-of-Leaders-Theorem]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/The-Tower-of-Babel.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for The-Tower-of-Babel]*

@@ -25,3 +25,16 @@
     -   Chemotherapy (x100 toxic force) kills the cancer.
     -   **Result:** The patient (Humanity) survives. The cancer dies.
     -   *"We win. Humanity wins."*
+
+![RETALIATION-DOCTORINE](./images/RETALIATION-DOCTORINE.png)
+
+
+![RETALIATION-DOCTORINE](./images/RETALIATION-DOCTORINE.png)
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/RETALIATION-DOCTORINE.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for RETALIATION-DOCTORINE]*

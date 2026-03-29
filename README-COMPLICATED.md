@@ -116,3 +116,16 @@ A chapter rewrite is complete only when:
 ## 10. Editorial Rule for Uncertainty
 
 If a passage is too ambiguous for exact restoration, preserve that ambiguity explicitly rather than inventing unsupported facts.
+
+![COMPLICATED](./images/COMPLICATED.png)
+
+
+![COMPLICATED](./images/COMPLICATED.png)
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/COMPLICATED.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for COMPLICATED]*

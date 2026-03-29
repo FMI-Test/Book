@@ -19,3 +19,16 @@
     -   "You help get rid of the bad ones."
     -   The Kill Chain is not just a military operation; it is a sanitation operation for the human species.
     -   **Result:** The gene pool of humanity is cleansed of the self-destructive virus (Jihad/Martyrdom ideology).
+
+![Natural-Selection](./images/Natural-Selection.png)
+
+
+![Natural-Selection](./images/Natural-Selection.png)
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/Natural-Selection.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for Natural-Selection]*

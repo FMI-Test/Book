@@ -53,3 +53,30 @@ Immediately following any engagement, the following protocol is mandatory:
 3.  **Reset:** Return to a state of readiness and continue monitoring for the next high-value opportunity.
 
 This RoE is not a static document. It is a living framework that will be updated based on the analysis of operational data to ensure continuous improvement and adaptation. All personnel are expected to know and operate within these rules at all times.
+
+![RULES-OF-ENGAGEMENT-INFO](./images/RULES-OF-ENGAGEMENT-INFO.png)
+
+
+![RULES-OF-ENGAGEMENT](./images/RULES-OF-ENGAGEMENT.png)
+
+
+![RULES-OF-ENGAGEMENT-INFO](./images/RULES-OF-ENGAGEMENT-INFO.png)
+
+
+![RULES-OF-ENGAGEMENT](./images/RULES-OF-ENGAGEMENT.png)
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/RULES-OF-ENGAGEMENT-INFO.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for RULES-OF-ENGAGEMENT-INFO]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/RULES-OF-ENGAGEMENT.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for RULES-OF-ENGAGEMENT]*

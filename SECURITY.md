@@ -23,3 +23,16 @@ Use this section to tell people how to report a vulnerability.
 Tell them where to go, how often they can expect to get an update on a
 reported vulnerability, what to expect if the vulnerability is accepted or
 declined, etc.
+
+![SECURITY-POLICY](./images/SECURITY-POLICY.png)
+
+
+![SECURITY-POLICY](./images/SECURITY-POLICY.png)
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/SECURITY-POLICY.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for SECURITY-POLICY]*

@@ -22,3 +22,30 @@
     -   Doer is rich and loyal.
     -   Gov saves billions.
     -   Execution happens now (Kill Chain speed), not in 50 years.
+
+![KILL-CHAIN-DOCTORINE](./images/KILL-CHAIN-DOCTORINE.png)
+
+
+![KILL-CHAIN-ECONOMICS](./images/KILL-CHAIN-ECONOMICS.png)
+
+
+![KILL-CHAIN-DOCTORINE](./images/KILL-CHAIN-DOCTORINE.png)
+
+
+![KILL-CHAIN-ECONOMICS](./images/KILL-CHAIN-ECONOMICS.png)
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/KILL-CHAIN-DOCTORINE.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for KILL-CHAIN-DOCTORINE]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/KILL-CHAIN-ECONOMICS.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for KILL-CHAIN-ECONOMICS]*

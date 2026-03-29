@@ -69,7 +69,7 @@ In software engineering, a mature release process looks something like this:
 - **Prod:** Live deployment at scale
 - **Scaling:** Can it handle the full load?
 
-Each stage is a filter. Code that cannot pass UAT does not reach pre-prod. Code that fails the smoke test does not reach UAT. The filter exists to protect the production environment from failures that can be caught earlier at lower cost.
+Each stage is a filter. Code that cannot pass UAT does not reach Pre-Prod. Code that fails the Pre-Prod test does not reach Prod. The filter exists to protect the production environment from failures that can be caught earlier at lower cost.
 
 Now map this onto a human life trajectory:
 - **Idea:** Birth / genetic endowment
