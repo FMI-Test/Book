@@ -335,3 +335,84 @@ Index:
   Prompt: The AI that passes the test by understanding what the test is testing. GPT-4
     in its first week.
 Usage Notes: []
+
+# Ali Yar Fakhran — Biographical Image Prompts
+# These prompts generate images for Aliyar-Fakhran-FA.md and Aliyar-Fakhran-EN.md
+# Run: python src/nano_banana_api.py -f inputs/nano-prompts-full.yml --format yaml --section Fakhran
+# Skip existing: default behavior. Regenerate: add --overwrite
+
+Fakhran:
+- Title: Ali-Yar-Fakhran-Qajar-Diplomat
+  Prompt: A dignified Qajar-era Iranian diplomat in formal frock coat and military
+    decorations, standing before a grand European embassy. Oil painting aesthetic,
+    warm candlelight, late 19th century St. Petersburg architecture in background.
+    Persian calligraphy border. Photorealistic historical portrait.
+
+- Title: Ali-Yar-Fakhran-Dar-Al-Fonun
+  Prompt: Interior of Dar al-Fonun school Tehran 1870s. Young Persian students in
+    Qajar dress studying with European instructors. Maps of Iran and Russia on walls.
+    Ornate Persian tilework. Historical illustration style, sepia tones.
+
+- Title: Ali-Yar-Fakhran-Tbilisi-Consulate
+  Prompt: The General Consulate of Iran in Tbilisi (Tiflis) circa 1890. Grand Caucasian
+    architecture, Persian flag, officials in formal dress. Mountain backdrop, Georgian
+    and Persian architectural fusion. Refined oil painting style.
+
+- Title: Ali-Yar-Fakhran-Lion-Sun-Medal
+  Prompt: Close-up of the Persian Imperial Order of the Lion and Sun medal on velvet.
+    Gold and enamel, intricate Persian craftsmanship, 19th century. Museum display
+    lighting. Photorealistic macro photograph.
+
+- Title: Ali-Yar-Fakhran-Petersburg-Embassy
+  Prompt: The Imperial Russian capital St. Petersburg 1900s. Iranian embassy building,
+    Persian and Russian flags side by side, horse-drawn carriages, snow. Qajar diplomat
+    descending embassy steps in full regalia. Cinematic historical painting.
+
+- Title: Ali-Yar-Fakhran-Batumi-Consulate
+  Prompt: Port city of Batumi on the Black Sea circa 1905. Iranian consulate building
+    with Persian architectural accents. Shipping vessels in harbor, busy trade port.
+    Atmospheric watercolor style, golden hour light.
+
+- Title: Ali-Yar-Fakhran-Bujnurd-Governor
+  Prompt: The walled city of Bujnurd in Khorasan province, Iran, early 20th century.
+    Governor's compound, mud-brick architecture, desert landscape, Alborz foothills.
+    Ink and watercolor illustration, warm earthy tones.
+
+- Title: Ali-Yar-Fakhran-Reza-Shah-Era
+  Prompt: Iran modernization era 1920s under Reza Shah. Split scene — traditional
+    Qajar turbans on left, new Pahlavi bowler hats and military uniforms on right.
+    Symbol of institutional transformation. Graphic history illustration style.
+
+- Title: Ali-Yar-Fakhran-Leningrad-Ambassador
+  Prompt: Soviet Leningrad 1930s. Iranian ambassador in diplomatic dress standing
+    before the Winter Palace. Persian flag, Soviet iconography. Tension and dignity
+    coexisting. Cinematic oil painting, cold blue light.
+
+- Title: Ali-Yar-Fakhran-Calligraphy-Wall
+  Prompt: Traditional Persian courtyard with freshly whitewashed walls. Young man
+    secretly writing Persian calligraphy in charcoal. Caught mid-stroke. The master
+    approaches from the gate. Moment of discipline and recognition. Persian miniature
+    painting style with rich lapis and gold.
+
+- Title: Ali-Yar-Fakhran-Dinner-Protocol
+  Prompt: Formal Persian dinner gathering, early 20th century Khorasan. Head of table
+    occupied by distinguished elder in military decorations. Guests arranged by rank
+    and lineage. Children standing awaiting permission to sit. Lantern light, ornate
+    rugs. Realistic historical illustration.
+
+- Title: Ali-Yar-Fakhran-Fakhran-Sara-Villa
+  Prompt: Elegant two-story Caspian seaside villa 1960s Iran. Lush garden, tennis
+    court, tiled terrace overlooking the sea at dusk. Warm summer evening, family
+    silhouettes on the upper balcony. Nostalgic Iranian summer painting.
+
+- Title: Ali-Yar-Fakhran-Bamdad-Heritage
+  Prompt: Split portrait — left side shows a Qajar-era Iranian diplomat in full
+    military decorations, right side shows a modern Iranian-American tech architect
+    at a whiteboard covered in system diagrams. Mirrored posture, different centuries,
+    same sharp eyes. Conceptual diptych illustration.
+
+- Title: Ali-Yar-Fakhran-Genealogy-Tree
+  Prompt: Persian family tree illuminated manuscript style. Ornate gold calligraphy
+    branches connecting generations from Qajar diplomat to modern descendants.
+    Lapis lazuli background, Persian floral borders, names in elegant Naskh script.
+    Museum-quality manuscript illustration.

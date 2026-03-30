@@ -19,31 +19,43 @@ if os.path.exists(API_KEY_PATH):
 
 def format_filename(title, ext=".png"):
     """
-    Format prompt into Capital-Camel-Case with dashes.
+    Format prompt title into Capital-Camel-Case with dashes.
+    If the title already looks like a dash-separated filename (e.g. Ali-Yar-Fakhran-X),
+    preserve it as-is (with capitalisation). Otherwise convert spaces to dashes.
     """
-    clean_title = re.sub(r'[^a-zA-Z0-9\s]', '', title)
-    words = clean_title.split()
-    capitalized_words = [word.capitalize() for word in words]
+    # If title already contains dashes and no spaces, treat each segment as a word
+    if '-' in title and ' ' not in title:
+        words = title.split('-')
+    else:
+        # Strip non-alphanumeric except spaces and dashes, then split on spaces/dashes
+        clean_title = re.sub(r'[^a-zA-Z0-9\s\-]', '', title)
+        words = re.split(r'[\s\-]+', clean_title)
+
+    capitalized_words = [word.capitalize() for word in words if word]
     filename_base = "-".join(capitalized_words)
 
     if not filename_base:
         filename_base = str(uuid.uuid4())
 
-    if len(filename_base) > 50:
-        filename_base = filename_base[:50].rsplit('-', 1)[0]
+    if len(filename_base) > 80:
+        filename_base = filename_base[:80].rsplit('-', 1)[0]
 
     return f"{filename_base}{ext}"
 
-def generate_image(item, output_dir="images"):
+def generate_image(item, output_dir="images", overwrite=False):
     # Ensure item is a dictionary
     if isinstance(item, str):
         item = {"Title": item, "Prompt": item}
-        
+
     title = item.get("Title", item.get("Prompt", str(uuid.uuid4())))
     prompt = item.get("Prompt", title)
-    
+
     filename = format_filename(title)
     filepath = os.path.join(output_dir, filename)
+
+    if os.path.exists(filepath) and not overwrite:
+        print(f"Skipping (exists): {filename}  — use --overwrite to regenerate")
+        return title
 
     print(f"Generating image for: {title}...")
     time.sleep(1)
@@ -54,10 +66,10 @@ def generate_image(item, output_dir="images"):
 
     return title
 
-def process_prompts(prompts, output_dir, max_workers):
+def process_prompts(prompts, output_dir, max_workers, overwrite=False):
     os.makedirs(output_dir, exist_ok=True)
     with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
-        futures = {executor.submit(generate_image, p, output_dir): p for p in prompts}
+        futures = {executor.submit(generate_image, p, output_dir, overwrite): p for p in prompts}
         for future in concurrent.futures.as_completed(futures):
             p = futures[future]
             try:
@@ -76,12 +88,14 @@ def parse_double_colon_file(filepath):
                 prompts.append({"Title": title, "Prompt": prompt})
     return prompts
 
-def parse_yaml_file(filepath):
+def parse_yaml_file(filepath, section=None):
     prompts = []
     with open(filepath, "r", encoding="utf-8") as f:
         data = yaml.safe_load(f)
         if isinstance(data, dict):
             for group, items in data.items():
+                if section and group != section:
+                    continue
                 if isinstance(items, list):
                     for item in items:
                         if isinstance(item, dict) and ("Title" in item or "Prompt" in item):
@@ -97,12 +111,21 @@ def parse_yaml_file(filepath):
     return prompts
 
 def main():
-    parser = argparse.ArgumentParser(formatter_class=argparse.RawTextHelpFormatter)
-    parser.add_argument("-p", "--prompt", type=str)
-    parser.add_argument("-f", "--file", type=str)
+    parser = argparse.ArgumentParser(
+        formatter_class=argparse.RawTextHelpFormatter,
+        description="Generate images from nano prompts.\n"
+                    "By default, skips images that already exist.\n"
+                    "Use --overwrite to regenerate existing images.\n"
+                    "Use --section to process only a named YAML section (e.g. --section Fakhran).")
+    parser.add_argument("-p", "--prompt", type=str, help="Single prompt string")
+    parser.add_argument("-f", "--file", type=str, help="Prompt file (.yml or delimited)")
     parser.add_argument("--format", type=str, choices=["yaml", "delimited"], default="delimited")
     parser.add_argument("-o", "--output", type=str, default="../images")
     parser.add_argument("-w", "--workers", type=int, default=5)
+    parser.add_argument("--overwrite", action="store_true",
+                        help="Overwrite existing images (default: skip if image file exists)")
+    parser.add_argument("--section", type=str, default=None,
+                        help="Process only this named YAML section (e.g. --section Fakhran)")
 
     args = parser.parse_args()
     prompts = []
@@ -112,7 +135,7 @@ def main():
 
     if args.file and os.path.exists(args.file):
         if args.format == "yaml" or args.file.endswith((".yaml", ".yml")):
-            prompts.extend(parse_yaml_file(args.file))
+            prompts.extend(parse_yaml_file(args.file, section=args.section))
         else:
             prompts.extend(parse_double_colon_file(args.file))
 
@@ -120,8 +143,8 @@ def main():
         print("No prompts found.")
         return
 
-    print(f"Loaded {len(prompts)} prompts. Starting generation...")
-    process_prompts(prompts, args.output, args.workers)
+    print(f"Loaded {len(prompts)} prompts. Starting generation (overwrite={args.overwrite})...")
+    process_prompts(prompts, args.output, args.workers, overwrite=args.overwrite)
     print("Done!")
 
 if __name__ == "__main__":
