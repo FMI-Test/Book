@@ -1,8 +1,10 @@
 import os
 import re
 
-images = [f for f in os.listdir("images") if f.endswith(".png")]
-md_files = [f for f in os.listdir(".") if f.endswith(".md") and f != "distribute_images.py"]
+ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
+
+images = [f for f in os.listdir(os.path.join(ROOT, "images")) if f.endswith(".png")]
+md_files = [f for f in os.listdir(ROOT) if f.endswith(".md")]
 
 def norm(x):
     return re.sub(r'[^a-z0-9]', '', x.lower())
@@ -35,5 +37,5 @@ for img in images:
             best_file = md
 
     print(f"Adding {img} to {best_file} (score: {best_score})")
-    with open(best_file, "a", encoding="utf-8") as f:
+    with open(os.path.join(ROOT, best_file), "a", encoding="utf-8") as f:
         f.write(f"\n\n![{img_name}](./images/{img})\n")

@@ -1,8 +1,11 @@
+import os
 import re
 import yaml
 
-input_file = "Nano-Banana-Prompts-CP.md"
-output_file = "inputs/nano-prompts-full.yml"
+ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
+
+input_file = os.path.join(ROOT, "Nano-Banana-Prompts-CP.md")
+output_file = os.path.join(ROOT, "inputs", "nano-prompts-full.yml")
 
 try:
     with open(input_file, "r", encoding="utf-8") as f:

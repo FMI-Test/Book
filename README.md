@@ -48,6 +48,23 @@ Each transformed chapter should be published in four sections, in this order:
 - Is each section clearly labeled?
 - Is the result understandable across audience levels?
 
+## Tools & Scripts
+
+All automation scripts live in the `src/` directory:
+
+| Script | Purpose |
+| --- | --- |
+| `src/nano_banana_api.py` | Bulk/parallel AI image generation from prompts |
+| `src/nano_banana.sh` | Shell wrapper for nano banana batch runs |
+| `src/generate_yaml.py` | Convert `::` delimited prompts to YAML |
+| `src/distribute_images.py` | Auto-match generated images to markdown files |
+| `src/distribute_videos.py` | Auto-match generated videos to markdown files |
+| `src/gemini_yt_creator.py` | Generate YouTube video content via Gemini |
+| `src/generate_videos_api.py` | API-based video generation |
+| `src/youtube_uploader.py` | Bulk upload videos to YouTube |
+
+> See [src/README.md](src/README.md) for detailed usage and [Quick-Start.md](Quick-Start.md) for setup instructions.
+
 ## Repository Hygiene
 
 - Remove obsolete temporary folders such as `Book.worktrees/` after merge completion.

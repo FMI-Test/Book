@@ -1,8 +1,10 @@
 import os
 import re
 
-videos = [f for f in os.listdir("media/videos") if f.endswith(".mp4")]
-md_files = [f for f in os.listdir(".") if f.endswith(".md") and f not in ["distribute_images.py", "distribute_videos.py", "YOUTUBE-AUTOMATION.md"]]
+ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
+
+videos = [f for f in os.listdir(os.path.join(ROOT, "media/videos")) if f.endswith(".mp4")]
+md_files = [f for f in os.listdir(ROOT) if f.endswith(".md") and f != "YOUTUBE-AUTOMATION.md"]
 
 def norm(x):
     return re.sub(r'[^a-z0-9]', '', x.lower())
@@ -35,5 +37,5 @@ for vid in videos:
             best_file = md
 
     print(f"Adding {vid} to {best_file} (score: {best_score})")
-    with open(best_file, "a", encoding="utf-8") as f:
+    with open(os.path.join(ROOT, best_file), "a", encoding="utf-8") as f:
         f.write(f"\n\n<!-- 16:9 Video Generation Match -->\n<video width=\"100%\" controls>\n  <source src=\"./media/videos/{vid}\" type=\"video/mp4\">\n  Your browser does not support the video tag.\n</video>\n*[Generated 16:9 Short Film mapped for {vid_name}]*\n")
