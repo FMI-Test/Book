@@ -10,17 +10,21 @@ This directory contains a standalone script `nano_banana_api.py` designed to man
 ## Running the Script
 
 ### Single Prompt Generation
+
 Execute a single prompt via the command line:
+
 ```bash
 python nano_banana_api.py --prompt "Prometheus on the rock" --output "../images"
 ```
 
 ### Multi Prompt via Text File (:: Delimited)
+
 ```bash
 python nano_banana_api.py --file "../Nano-Banana-Prompts-CP.md" --format "delimited"
 ```
 
 ### Multi Prompt via YAML File
+
 ```bash
 ./nano_banana.sh --file "../inputs/nano-prompts.yml" --format "yaml"
 ```
