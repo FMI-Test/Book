@@ -1,4 +1,8 @@
+> **Reading Level:** 🟢 Easy  |  **Grade:** 6  |  **Words:** 109
+
 # The Defense Contractor Spoiler: The M Lie
+
+![The Defense Contractor Spoiler: The M Lie](images/DEFENSE-CONTRACTOR-SPOILER.png)
 
 ## The Financial Asymmetry
 -   **The W2 Reality:** A contractor employee makes **k**.
@@ -16,3 +20,16 @@
 -   **Direct Command:** Cut the middlemen (the Contractor Firm). 
 -   **Value:** Pay the talent (the k guy) directly or execute via smaller, leaner Kill Chain cells.
 -   **Truth:** This financial bloat is why we have the "Execution Gap".
+
+![DEFENSE-CONTRACTOR-SPOILER](./images/DEFENSE-CONTRACTOR-SPOILER.png)
+
+
+![DEFENSE-CONTRACTOR-SPOILER](./images/DEFENSE-CONTRACTOR-SPOILER.png)
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/DEFENSE-CONTRACTOR-SPOILER.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for DEFENSE-CONTRACTOR-SPOILER]*

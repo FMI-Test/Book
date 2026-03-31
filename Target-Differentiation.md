@@ -1,4 +1,8 @@
+> **Reading Level:** 🟢 Easy  |  **Grade:** 6  |  **Words:** 92
+
 # Target Differentiation: The Hardcore vs. The Rest
+
+![Target Differentiation: The Hardcore vs. The Rest](images/TARGET-DIFFERENTIATION.png)
 
 ## The Fundamental Asymmetry
 -   **The Enemy:** Kills millions indiscriminately.
@@ -19,3 +23,16 @@
 -   Violence is not the goal; it is the tool to remove the cancer (the hardcore).
 -   Once the hardcore are removed, the violence ends. This distinguishes the Service Member from the Terrorist.
 -   *"This is the real me."*
+
+![TARGET-DIFFERENTIATION](./images/TARGET-DIFFERENTIATION.png)
+
+
+![TARGET-DIFFERENTIATION](./images/TARGET-DIFFERENTIATION.png)
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/TARGET-DIFFERENTIATION.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for TARGET-DIFFERENTIATION]*

@@ -1,6 +1,9 @@
+> **Reading Level:** 🟡 Moderate  |  **Grade:** 7  |  **Words:** 152
+
 # The Asymmetric Calculus: 1 Serviceman vs. 1 Million Militia
 
-## The Strategic Disproportion
+![The Asymmetric Calculus: 1 Serviceman vs. 1 Million Militia](images/ASYMETRIC-CALCULUS.png)
+
 **Question:** Why does the death of 1 trained Serviceman/Minuteman justify the elimination of a million militia?
 
 ## Justification Logic (The "Kill Chain" Doctrine)
@@ -20,3 +23,24 @@
 
 ## Moral Implication
 -   The decision to kill is not about the individual target, but about verifying the **Sanctity of the Serviceman**. Protection of the few requires the destruction of the many if the many threaten the few.
+
+![ASYMETRIC-CALCULUS](./images/ASYMETRIC-CALCULUS.png)
+
+
+![ASYMETRIC-CALCULUS](./images/ASYMETRIC-CALCULUS.png)
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/ASYMETRIC-CALCULUS.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for ASYMETRIC-CALCULUS]*
+
+
+<!-- 16:9 Video Generation Match -->
+<video width="100%" controls>
+  <source src="./media/videos/ASYMETRIC-CALCULUS.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*[Generated 16:9 Short Film mapped for ASYMETRIC-CALCULUS]*

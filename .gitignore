@@ -1,0 +1,8 @@
+*.pyc
+__pycache__/
+images/
+.env
+*KEY
+*.key
+.DS_Store
+token.json\n*.mp4\n

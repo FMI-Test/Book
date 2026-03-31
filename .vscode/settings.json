@@ -1,0 +1,7 @@
+{
+    "python.defaultInterpreterPath": "C:\\Users\\bamda\\AppData\\Local\\Python\\pythoncore-3.14-64\\python.exe",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.analysis.extraPaths": ["./src"]
+}
