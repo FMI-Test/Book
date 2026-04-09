@@ -163,7 +163,7 @@ This keeps the repo cleaner and makes it easier to publish the family-history si
 
 ## 10) Next evidence steps
 
-- [ ] verify names from `FRIENDS-N-FAMILY-TREE.png` and `Ali-Yar-Fakhran-Genealogy-Tree.png`
+- [ ] verify names from `FRIENDS-N-FAMILY-TREE.png` and `Aliyar-Fakhran-Genealogy-Tree.png`
 - [ ] place **Maryam / Pars / Bamdad / Bahman / Kambiz / Dariush** into a clean forward tree
 - [ ] confirm whether **Sakineh Sultan** should be treated as a direct daughter of the Kargozar in the canonical version
 - [ ] identify Aliyar Fakhran’s **father / mother / grandparents** from archival or family evidence
