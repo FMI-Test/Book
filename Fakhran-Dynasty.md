@@ -10,10 +10,10 @@
 
 The main Aliyar Fakhran files already contain rich memoir material, family names, and vivid episodes such as:
 
-- **Dariush and the calligraphy wall**;
+- **Dariush Teymortash and the calligraphy wall**;
 - **the Kargozar dinner protocol**;
-- **Dr. Bahman and Fakhran Sara**;
-- **later-generation figures such as Bamdad, Maryam, Pars, and related branches**.
+- **Dr. Bahman Fakhran and his Mazandaran Fakhran Sara Villa**;
+- **later-generation figures such as Maris Fakhran Washington D.C. USA, Maryam Fakhran I Washington D.C. USA, Bamdad Fakhran LOs Angeles CA USA, Maryam Fakhran II Vienna Austria, Saeed Fakhran Washington D.C., Mohammad Fakhran II, Pars Hospital Founded by Bahman Fakhran John Hopkins USA Graduate, and some co-founders Keshavarz Blvd Theran Iran, and related branches**.
 
 What was missing was a single place for the **"Fakhran Dynasty"** view: a forward/backward family map, a research agenda, and a clean separation between:
 
@@ -42,21 +42,21 @@ In the repo, this figure anchors the transition from:
 | Name | Role / branch | Current status |
 | --- | --- | --- |
 | **Aliyar Fakhran / Kargozar** | core ancestor, diplomat-administrator | anchored / central |
-| **Sakineh Sultan** | appears in notes as a daughter of the Kargozar | needs formal source check |
-| **Bagher Khan** | later family branch | present in memoir notes |
-| **Hassan Khan** | later family branch | present in memoir notes |
-| **Hussain Khan** | later family branch | present in memoir notes |
-| **Dr. Karim Khan Fakhran** | physician in Jajarm, son of the Kargozar line | strongly present in notes |
-| **Zeenat Khanum** | wife of Karim Khan | strongly present in notes |
-| **Firuz** | Karim Khan branch | strongly present in notes |
-| **Mojgan** | Karim Khan branch | strongly present in notes |
-| **Dariush** | remembered through the calligraphy story | strongly present in notes |
-| **Dr. Bahman** | later-generation notable; cardiologist / court physician in family memory | strongly present in notes |
-| **Pars** | later-generation figure in family image/tree | present; needs structured placement |
+| **Sakineh Sultan Fakhran** | appears in notes as a daughter of the Kargozar | needs formal source check |
+| **Bagher Khan Fakhran** | later family branch | present in memoir notes |
+| **Genral Hassan Khan Fakhran** | later family branch | present in memoir notes |
+| **Genral Hussain Khan Fakhran** | later family branch | present in memoir notes |
+| **Dr. Karim Khan Fakhran M.D.** | physician in Jajarm, son of the Kargozar line | strongly present in notes |
+| **Zeenat** | wife of Karim Khan | strongly present in notes |
+| **Firuz Fakhran** | Karim Khan branch | strongly present in notes |
+| **Mojgan Fakhran** | Karim Khan branch | strongly present in notes |
+| **Dariush Teymourtash** | remembered through the calligraphy story | strongly present in notes |
+| **Dr. Bahman Fakhran Cardio Surgon** | later-generation notable; cardiologist / court physician in family memory | strongly present in notes |
+| **Pars Hosital** | later-generation figure in family image/tree | present; needs structured placement |
 | **Maryam Fakhran** | later-generation figure in family image/tree | present; needs structured placement |
 | **Bamdad Fakhran** | contemporary narrator / descendant | strongly present |
-| **Kambiz** | mentioned in later-generation branch | needs structured placement |
-| **Namdar / Saeed / other branch names** | mentioned by the user for possible inclusion | verify before canonizing |
+| **Kambiz Fakhran** | mentioned in later-generation branch | needs structured placement |
+| **Namdar  Fakhran/ Saeed  Fakhran / Anoush Spilberg (Fakhran) / Azadeh Fakhran / Diana Fakhran / other branch names** | mentioned by the user for possible inclusion | verify before canonizing |
 
 > Rule: **do not force uncertain names into the canonical tree until each relationship is verified.**
 
