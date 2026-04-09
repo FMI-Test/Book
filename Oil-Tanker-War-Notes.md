@@ -2,7 +2,7 @@
 
 # Advisors Note: Oil Tanker War
 
-![Advisors Note: Oil Tanker War](images/OIL-TANKER-WAR-NOTES.png)
+![Advisors Note: Oil Tanker War](images/OIL-TANKER-WAR-NOTES.webp)
 
 - **Context:** User was advisor.
 - **Insight:** Distributed command centers (IRGC).
@@ -10,10 +10,10 @@
 - **Outcome:** They built them all.
 - **Connection:** Basis for the 'Kill Chain' concept.
 
-![Oil-Tanker-War-Notes](./images/Oil-Tanker-War-Notes.png)
+![Oil-Tanker-War-Notes](./images/Oil-Tanker-War-Notes.webp)
 
 
-![Oil-Tanker-War-Notes](./images/Oil-Tanker-War-Notes.png)
+![Oil-Tanker-War-Notes](./images/Oil-Tanker-War-Notes.webp)
 
 
 <!-- 16:9 Video Generation Match -->

@@ -18,7 +18,7 @@ To set up your local environment and begin processing these prompts to generate 
      ```
 
 2. **Quick Single Generation**
-   You can easily invoke the API passing a single specific prompt through via inline options:
+   You can invoke the API by passing a single prompt via inline options:
    ```bash
    cd src/
    python nano_banana_api.py --prompt "Do unto others"
@@ -33,6 +33,7 @@ To set up your local environment and begin processing these prompts to generate 
 
    # Using a standard YAML format file from the inputs directory:
    ./src/nano_banana.sh --file "inputs/nano-prompts.yml" --format "yaml"
+   ```
 
 Outputs will, by default, be stored locally in the `images/` directory at the project root. The script dynamically names the generated image outputs based on your initial prompt input string.
 

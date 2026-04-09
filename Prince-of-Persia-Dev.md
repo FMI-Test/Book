@@ -2,38 +2,38 @@
 
 # Prince of Persia
 
-![Prince of Persia](images/YAHOO-CAFE.png)
+![Prince of Persia](images/YAHOO-CAFE.webp)
 
 **Author:** Bamdad Fakhran  
 **Date:** February 9, 2026
 
 ## Visual References
 
-![Riot Games Team](images/RIOT-GAMES-TEAM.png)
+![Riot Games Team](images/RIOT-GAMES-TEAM.webp)
 
-![Foundation Medicine](images/FOUNDATION-MEDICINE.png)
+![Foundation Medicine](images/FOUNDATION-MEDICINE.webp)
 
-![Life Science](images/LIFE-SCIENCE.png)
+![Life Science](images/LIFE-SCIENCE.webp)
 
-![Self-Driving Car](images/SELF-DRIVING-CAR.png)
+![Self-Driving Car](images/SELF-DRIVING-CAR.webp)
 
-![Auto Failover](images/AUTO-FAILOVER.png)
+![Auto Failover](images/AUTO-FAILOVER.webp)
 
-![Chapter 7 and 8](images/CHAPTER-7-8.png)
+![Chapter 7 and 8](images/CHAPTER-7-8.webp)
 
-![Legacy Code Refactor](images/LEGACY-CODE-REFACTOR.png)
+![Legacy Code Refactor](images/LEGACY-CODE-REFACTOR.webp)
 
-![Media Entertainment Tech Stack](images/MEDIA-ENTERTAINMENT-TECH-STACK.png)
+![Media Entertainment Tech Stack](images/MEDIA-ENTERTAINMENT-TECH-STACK.webp)
 
-![Global Tech](images/GLOBAL-TECH.png)
+![Global Tech](images/GLOBAL-TECH.webp)
 
-![Friends and Family Tree](images/FRIENDS-N-FAMILY-TREE.png)
+![Friends and Family Tree](images/FRIENDS-N-FAMILY-TREE.webp)
 
-![Dr Fakhran Bahman Pars Maryam Fakhran](images/DR-FAKHRAN-BAHMAN-PARS-MARYAM-FAKHRAN.png)
+![Dr Fakhran Bahman Pars Maryam Fakhran](images/DR-FAKHRAN-BAHMAN-PARS-MARYAM-FAKHRAN.webp)
 
-![Eli An-Danian Insight](images/ELI-AN-DANIAN-INSIGHT.png)
+![Eli An-Danian Insight](images/ELI-AN-DANIAN-INSIGHT.webp)
 
-![Reflection on Technology and Life](images/REFLECTION-ON-TECHNOLOGY-N-LIFE.png)
+![Reflection on Technology and Life](images/REFLECTION-ON-TECHNOLOGY-N-LIFE.webp)
 
 ## Index
 
@@ -131,16 +131,16 @@ The Enigma of his life was this: he treated the towering, infinite complexities 
 
 **Conclusion:** The narrative is an unintentional masterpiece of modern tech-sociology. It proves that the engine rooms of our most advanced digital architectures are not built by sanitized scholars, but by battle-hardened survivors translating the chaos of their lives into the order of the machine.
 
-![The-Handful-of-Leaders-Theorem](./images/The-Handful-of-Leaders-Theorem.png)
+![The-Handful-of-Leaders-Theorem](./images/The-Handful-of-Leaders-Theorem.webp)
 
 
-![The-Tower-of-Babel](./images/The-Tower-of-Babel.png)
+![The-Tower-of-Babel](./images/The-Tower-of-Babel.webp)
 
 
-![The-Handful-of-Leaders-Theorem](./images/The-Handful-of-Leaders-Theorem.png)
+![The-Handful-of-Leaders-Theorem](./images/The-Handful-of-Leaders-Theorem.webp)
 
 
-![The-Tower-of-Babel](./images/The-Tower-of-Babel.png)
+![The-Tower-of-Babel](./images/The-Tower-of-Babel.webp)
 
 
 <!-- 16:9 Video Generation Match -->

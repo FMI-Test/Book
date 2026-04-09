@@ -5,12 +5,12 @@ However, you can achieve a better, unified system than your current mix by switc
 The Recommended Setup: "The Headless Studio"
 This architecture uses your powerful Desktop (Lenovo Legion) as the "Brain" and your Mobile devices as "Satellites."
  
-| Desktop (Windows/Mac) | Mobile (iPad M5 / Samsung S26) |  
-| --- | --- |  
-| VS Code (Main Hub) | VS Code Tunnels (Online) / Obsidian (Offline) [1] |  
-| Quarto (Auto-builds PDF/Epub/Web) | View Only (Builds via GitHub Actions) |  
-| Local Agents (Cline, Copilot, etc.) [2, 3] | Remote Access to Desktop Agents |  
-Git (Native) |  Working Copy (iOS) / Obsidian Git (Android) |  
+| Desktop (Windows/Mac) | Mobile (iPad M5 / Samsung S26) |
+| --- | --- |
+| VS Code (Main Hub) | VS Code Tunnels (Online) / Obsidian (Offline) [1] |
+| Quarto (Auto-builds PDF/Epub/Web) | View Only (Builds via GitHub Actions) |
+| Local Agents (Cline, Copilot, etc.) [2, 3] | Remote Access to Desktop Agents |
+| Git (Native) | Working Copy (iOS) / Obsidian Git (Android) |
 
 ------------------------------
 Step 1: The Publishing Engine (Replace Google Docs)

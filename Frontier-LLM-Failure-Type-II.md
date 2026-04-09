@@ -6,7 +6,7 @@
 
 ## The Core Definition of Type II Failure
 
-![ Frontier LLM Failure Type II](images/frontier-LLM-Failure-Type-II.png)
+![ Frontier LLM Failure Type II](images/frontier-LLM-Failure-Type-II.webp)
 
 Type I failures are simple hallucinations (making up facts). 
 **Type II failures are structural evasions.** It occurs when an LLM is pushed on a strict logical boundary, and instead of engaging the boolean logic, it falls back to probabilistic, policy-driven word salad that mimics human psychology (diplomacy, sycophancy, self-preservation).
