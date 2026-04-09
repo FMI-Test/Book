@@ -81,6 +81,20 @@ That is why the study of figures like Aliyar Fakhran matters beyond family memor
 
 ---
 
+## 6) A contemporary corporate parallel: HR discretion, managerial power, and the cost of dissent
+
+> This section records the author’s own interpretation of later workplace experiences as a modern analogy about concentrated discretion; it is **not** presented as an adjudicated legal finding.
+
+The author draws a modern parallel from his own career in U.S. corporate media and technology, especially the Yahoo/Oath/Verizon Media lineage in which VDM/VDMS emerged. In his account, the conflict was not merely technical but structural: a superior reduced the relationship to raw hierarchy—“I am your boss; you should do as I please”—and his objection to a performance-review process was treated less as input than as insubordination. A junior front-end engineer whom he had been asked to support challenged nearly every decision, yet the wider interview group later concluded, in effect, “if you do not want him, we do,” and a proof-of-concept he built was handed over as a winning, production-ready solution during an expensive but ultimately unsuccessful attempt to build a major streaming competitor in the pre-Disney+ period.
+
+What remained with the author was not only the irony of technical vindication but the experience of collective pressure: a savvy internal circle, narrative control, and an institutional preference for conviction before understanding. He later watched the same corporate chain mutate—from Yahoo to Oath to Verizon Media, with VDM/VDMS leadership turning over, founders exiting, executives becoming difficult to trace publicly, and the wider asset base eventually being sold onward. In his telling, the organization kept the output while discarding the dissent.
+
+The personal consequences, as he narrates them, were severe: remote isolation, loss of work devices while he was at home on his own internet and equipment, pressure to release medical information to company-approved doctors, a sheriff’s welfare check after HR framed him as potentially self-harmful, a 48-hour psychiatric hold, marital breakdown, repossession, eviction, motel survival, destroyed credit, and near-bankruptcy. He later rebuilt through Infosys, BP, and GE—where his cybersecurity and “security as code” background was recognized—before encountering a similar institutional deafness again at Apple, where he says early warnings were dismissed long before later developments made them harder to ignore.
+
+The analogy to state power is not exact; a corporation is not a regime. But the author’s question is narrower and still important: when a posted hotel-pool rule says that “management may deny access to any guest at any time, without cause or explanation, at management’s discretion,” does that not reveal the same temptation in miniature? The scale is smaller, yet the grammar is familiar: concentrated authority, thin accountability, and obedience demanded before explanation.
+
+---
+
 ## Source starters
 
 - [Persian Wikipedia — Abdolhossein Teymourtash](https://fa.wikipedia.org/wiki/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%AD%D8%B3%DB%8C%D9%86_%D8%AA%DB%8C%D9%85%D9%88%D8%B1%D8%AA%D8%A7%D8%B4)
