@@ -5,6 +5,8 @@
 Author: Bamdad Fakhran
 Date: March 28, 2026
 
+> Related note: [`Parthenogenesis-and-the-Nativity.md`](Parthenogenesis-and-the-Nativity.md) — a companion reflection on biological variance, single-parent reproduction, and the nativity question.
+
 ---
 
 ## Index

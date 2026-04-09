@@ -79,6 +79,13 @@ For the diplomatic-history module and archive workflow, see:
 - [`Aliyar-Fakhran-Workflow-Summary.md`](Aliyar-Fakhran-Workflow-Summary.md) — TODO / WIP / DONE tracker and multilingual map
 - [`Aliyar-Fakhran-Media-Collateral.md`](Aliyar-Fakhran-Media-Collateral.md) — media usage index, sync rules, tooling notes, and publication plan
 
+## Selected Reflection Modules
+
+- [`Evolution-Sexual-Dimorphism.md`](Evolution-Sexual-Dimorphism.md) — biological variance, reproduction, and evolutionary framing
+- [`Parthenogenesis-and-the-Nativity.md`](Parthenogenesis-and-the-Nativity.md) — a personal reflection on miracle narratives, earthly causality, and scientific possibility
+- [`Not-Anger.md`](Not-Anger.md) — institutional misnaming, dignity, and refusal
+- [`Baede-Az-To.md`](Baede-Az-To.md) — grief, fracture, and survival through art
+
 ## Repository Hygiene
 
 - Remove obsolete temporary folders such as `Book.worktrees/` after merge completion.
