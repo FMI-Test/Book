@@ -5,7 +5,7 @@
 
 ---
 
-> **A Note on Images:** Due to the scarcity of surviving original photographs from this era, only a handful of authentic portraits remain from family archives (prefixed `Ali-Yar-Fakhran-*`). The remaining illustrations were generated using AI (Nano Banana) to provide visual context for key moments in Aliyar Fakhran's life and career. Efforts to locate additional original photographs through Iranian and Russian diplomatic archives are ongoing.
+> **A Note on Images and Footnotes:** Because only a limited number of original photographs from this era survive, this chapter combines a small set of family/archive visuals with **AI-generated reconstructions** used strictly for historical context. Images of **orders, medals, and state insignia** are included as visual references only and should not be treated as substitute proof of conferment. Efforts to locate additional archival photographs and documents through Iranian, Russian, and Spanish sources are ongoing.
 
 ---
 
@@ -61,7 +61,6 @@ In the 20th century, "Aqa" took on specific significance within religious and cl
 | **Nuance** | Heavily tied to feudal and class structures. | Became more "democratized" as a general "Mr." |
 | **Spelling Note** | Sometimes interchanged with [آغا (Agha)](https://en.wiktionary.org/wiki/%D8%A2%D8%BA%D8%A7), though the latter often referred to eunuchs in the Qajar court. | "Aqa" became the standard for men; "Agha" became less common in general speech. |
 
-Would you like me to look into how other titles like "Khan" or "Bakhtiar" evolved during the Pahlavi transition?
 ### Khan (خان)
 
 During the **Qajar era** (1789–1925), *Khan* was an extremely common title for **noblemen, courtiers, and tribal leaders**:
@@ -290,8 +289,8 @@ Once, my father took me to visit Dariush. He told this story about the Kargozar:
 
 After the scolding was done, the Kargozar looked at what had been written on the wall and said: *"You have beautiful handwriting!"* Then he gave him a substantial coin as a reward. That was his character — discipline first, then recognition. Encouragement and punishment, each in its proper place.
 
-![The Calligraphy Wall](images/Aliyar-Fakhran-Calligraphy-Wall.png)
-*AI illustration: Young Dariush caught writing calligraphy on the freshly whitewashed courtyard wall*
+![The Calligraphy Wall](images/Ali-Yar-Fakhran-Calligraphy-Wall.png)
+*AI illustration: Young Dariush writing calligraphy on the freshly whitewashed courtyard wall*
 
 ### The Dinner Protocol
 
@@ -301,8 +300,8 @@ Until he had arranged everyone according to the rank and title of their forefath
 
 My father inherited the Kargozar's discipline — but with an extra dose of fussiness. When we built a building, he would collect my cigarette butts from the foundation pit — half an hour before they were to pour concrete over it — and announce: *"There isn't a single cigarette butt in this building!"* My Afghan workers and I would laugh, knowing we'd been burying butts in the mortar and plaster all day. A few had even poked through the whitewash. We dug them out, patched the wall. Dad came, asked why the wall had stains. And the workers, like sheep, said: *"Yes, yes, Mr. Bamdad is right."*
 
-![The Dinner Protocol](images/AliYar-Fakhran-Dinner-Protocol.png)
-*AI illustration: The Kargozar's formal dinner — arrangement by rank and lineage*
+![The Dinner Protocol](images/Ali-Yar-Fakhran-Dinner-Protocol.png)
+*AI illustration: The Kargozar's formal dinner — arranged by rank and lineage*
 
 ---
 
@@ -318,15 +317,15 @@ My language was always good — and long! When I was leaving for America, the co
 
 As Bahman Joon would honestly say: *"Mammadjan, Bamdad's tongue and his way with words are just like the Kargozar's — God rest his soul."*
 
-![Bamdad Heritage](images/AliYar-Fakhran-Bamdad-Heritage.png)
-*AI illustration: The Fakhran heritage — generations of statesmen, from Kargozar to the modern era*
+![Bamdad Heritage](images/Ali-Yar-Fakhran-Bamdad-Heritage.png)
+*AI illustration: The Fakhran heritage — generations of public service, from the Kargozar to the modern era*
 
 ---
 
 ## Bagher Khan, Hassan Khan, Hussain Khan, and Karim Khan
 
-![Kargozar Childrens](images/Kargozar-Children.png)
-*AI illustration: Kargozar Childrens:Bagher Khan, Hassan Khan, Hussain Khan, and Karim Khan *
+![The Kargozar's Children](images/Kargozar-Children.png)
+*AI illustration: The Kargozar's children — Bagher Khan, Hassan Khan, Hussain Khan, and Karim Khan*
 
 ### Dr. Karim Khan Fakhran — The Village Doctor
 
@@ -402,9 +401,8 @@ Bahman Joon had pride and dignity. He was the Shah's court physician. Later Dr. 
 
 ## The Grandmother's Curse
 
-![Grandma Curse](images/Grandmother-Curse.png)
-*AI illustration: Paternal grandmother used to say to my mother: *"May the desert wolf take you! What blind, bald, wretched man wants you?!"*
-*
+![Grandmother's Curse](images/Grandmother-Curse.png)
+*AI illustration: A family-memory rendering of the grandmother's sharp curse — “May the desert wolf take you! What blind, bald, wretched man wants you?!”*
 
 Their sister — my father's grandmother — used to say to my mother: *"May the desert wolf take you! What blind, bald, wretched man wants you?!"*
 
@@ -428,6 +426,8 @@ As Bahman Joon would honestly say: *"Mammadjan, Bamdad's tongue and literature a
 
 ![Dr. Fakhran, Bahman, Pars, Maryam Fakhran](images/DR-FAKHRAN-BAHMAN-PARS-MARYAM-FAKHRAN.png)
 *The Fakhran family — Dr. Fakhran, Bahman, Pars, and Maryam Fakhran*
+
+> For a cleaner forward/backward lineage map and open research questions, see [`Fakhran-Dynasty.md`](Fakhran-Dynasty.md).
 
 ---
 
