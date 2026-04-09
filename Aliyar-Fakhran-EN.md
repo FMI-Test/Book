@@ -300,7 +300,7 @@ Until he had arranged everyone according to the rank and title of their forefath
 
 My father inherited the Kargozar's discipline — but with an extra dose of fussiness. When we built a building, he would collect my cigarette butts from the foundation pit — half an hour before they were to pour concrete over it — and announce: *"There isn't a single cigarette butt in this building!"* My Afghan workers and I would laugh, knowing we'd been burying butts in the mortar and plaster all day. A few had even poked through the whitewash. We dug them out, patched the wall. Dad came, asked why the wall had stains. And the workers, like sheep, said: *"Yes, yes, Mr. Bamdad is right."*
 
-![The Dinner Protocol](images/Ali-Yar-Fakhran-Dinner-Protocol.png)
+![The Dinner Protocol](images/Aliyar-Fakhran-Dinner-Protocol.png)
 *AI illustration: The Kargozar's formal dinner — arranged by rank and lineage*
 
 ---
