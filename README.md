@@ -65,6 +65,20 @@ All automation scripts live in the `src/` directory:
 
 > See [src/README.md](src/README.md) for detailed usage and [Quick-Start.md](Quick-Start.md) for setup instructions.
 
+## Aliyar Fakhran Research Index
+
+For the diplomatic-history module and archive workflow, see:
+
+- [`Aliyar-Fakhran-FA.md`](Aliyar-Fakhran-FA.md) — Persian biography
+- [`Aliyar-Fakhran-EN.md`](Aliyar-Fakhran-EN.md) — English biography
+- [`Aliyar-Fakhran-Comparative-Context-FA.md`](Aliyar-Fakhran-Comparative-Context-FA.md) — Persian comparative note on concentrated power, security, and historical memory
+- [`Aliyar-Fakhran-Comparative-Context-EN.md`](Aliyar-Fakhran-Comparative-Context-EN.md) — English companion note for the comparative module
+- [`Fakhran-Dynasty.md`](Fakhran-Dynasty.md) — structured dynasty, family-tree, and forward/backward research map
+- [`Aliyar-Fakhran-Todo.md`](Aliyar-Fakhran-Todo.md) — ongoing research notes
+- [`Aliyar-Fakhran-Official-Request-Kit.md`](Aliyar-Fakhran-Official-Request-Kit.md) — official archive request letters
+- [`Aliyar-Fakhran-Workflow-Summary.md`](Aliyar-Fakhran-Workflow-Summary.md) — TODO / WIP / DONE tracker and multilingual map
+- [`Aliyar-Fakhran-Media-Collateral.md`](Aliyar-Fakhran-Media-Collateral.md) — media usage index, sync rules, tooling notes, and publication plan
+
 ## Repository Hygiene
 
 - Remove obsolete temporary folders such as `Book.worktrees/` after merge completion.
