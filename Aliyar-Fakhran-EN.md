@@ -317,7 +317,7 @@ My language was always good — and long! When I was leaving for America, the co
 
 As Bahman Joon would honestly say: *"Mammadjan, Bamdad's tongue and his way with words are just like the Kargozar's — God rest his soul."*
 
-![Bamdad Heritage](images/Ali-Yar-Fakhran-Bamdad-Heritage.png)
+![Bamdad Heritage](images/Aliyar-Fakhran-Bamdad-Heritage.png)
 *AI illustration: The Fakhran heritage — generations of public service, from the Kargozar to the modern era*
 
 ---
