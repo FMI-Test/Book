@@ -42,3 +42,14 @@ Finalization pass for README consistency, naming hygiene, and documentation stru
 ## Status
 
 **AAK FINALIZE:** Completed for naming and README variant integrity.
+
+## 2026-04-10 Sync Addendum
+
+Follow-up alignment pass completed for the automation layer:
+
+1. Added a shared `requirements.txt` for repo-level dependency install.
+2. Synced `Quick-Start.md`, `README.md`, and `src/README.md` to the current script set and canonical YAML path.
+3. Fixed wrapper/script path handling so repo-root execution is consistent.
+4. Restored the missing `youtube_uploader.sh` wrapper body and aligned options/help text.
+
+**AAK REVIEW SYNC:** Documentation and dependency guidance are now aligned with the current repo state.

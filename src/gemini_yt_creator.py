@@ -12,10 +12,18 @@ import sys
 import yaml
 import time
 import argparse
-import google.generativeai as genai
 
-# Try to load API key securely
-GEMINI_KEY_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", ".GEMINI_KEY")
+try:
+    import google.generativeai as genai
+except ImportError:
+    genai = None
+
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+REPO_ROOT = os.path.abspath(os.path.join(SCRIPT_DIR, ".."))
+WORKSPACE_PARENT = os.path.abspath(os.path.join(REPO_ROOT, ".."))
+
+# Try to load API key securely from outside the repo root.
+GEMINI_KEY_PATH = os.path.join(WORKSPACE_PARENT, ".GEMINI_KEY")
 API_KEY = os.environ.get("GEMINI_API_KEY")
 
 if os.path.exists(GEMINI_KEY_PATH):
@@ -23,13 +31,22 @@ if os.path.exists(GEMINI_KEY_PATH):
         API_KEY = f.read().strip()
 
 if not API_KEY:
-    print("Warning: No Gemini API Key found in env or ../../.GEMINI_KEY")
+    print("Warning: No Gemini API key found in env or ../.GEMINI_KEY (workspace parent).")
+elif genai is None:
+    print("Warning: `google-generativeai` is not installed. Falling back to dry-run mode.")
 
-if API_KEY:
+if API_KEY and genai is not None:
     genai.configure(api_key=API_KEY)
 
+
+def resolve_repo_path(path_value):
+    if os.path.isabs(path_value):
+        return path_value
+    return os.path.join(REPO_ROOT, path_value.lstrip("./"))
+
+
 def generate_16_9_image(prompt_text, output_path, dry_run=False):
-    if dry_run or not API_KEY:
+    if dry_run or not API_KEY or genai is None:
         print(f"[DRY RUN/NO KEY] Would generate using Gemini/Imagen for: {prompt_text}")
         if not os.path.exists(output_path):
             with open(output_path, 'wb') as f:
@@ -72,14 +89,17 @@ def main():
     parser.add_argument("-o", "--output", default="media/images_16_9", help="Output directory")
     parser.add_argument("--auto-allow", action="store_true", help="Auto process all prompts without asking")
     args = parser.parse_args()
-    
-    os.makedirs(args.output, exist_ok=True)
-    
-    if not os.path.exists(args.yaml):
-        print(f"File not found: {args.yaml}")
+
+    yaml_path = resolve_repo_path(args.yaml)
+    output_dir = resolve_repo_path(args.output)
+
+    os.makedirs(output_dir, exist_ok=True)
+
+    if not os.path.exists(yaml_path):
+        print(f"File not found: {yaml_path}")
         return
-        
-    with open(args.yaml, "r", encoding="utf-8") as f:
+
+    with open(yaml_path, "r", encoding="utf-8") as f:
         data = yaml.safe_load(f)
         
     prompts = []
@@ -100,7 +120,7 @@ def main():
     for p in prompts:
         if not p: continue
         filename = standardize_name(p) + ".jpg"
-        out_path = os.path.join(args.output, filename)
+        out_path = os.path.join(output_dir, filename)
         
         # Skip if already exists to save API credits
         if os.path.exists(out_path):

@@ -17,13 +17,15 @@ Options:
   -p, --prompt TEXT        Generate a single image from this specific text prompt
   -f, --file PATH          Process multiple prompts from this file (.yaml or delimited by ::)
   -t, --format FORMAT      Specify file format: 'yaml' or 'delimited' (default: delimited)
-  -o, --output PATH        Target directory for generated outputs (default: ../images)
+  -o, --output PATH        Target directory for generated outputs (default: images)
   -w, --workers NUM        Number of parallel workers for processing (default: 5)
+      --overwrite          Regenerate files even if they already exist
+      --section NAME       Process only one YAML section
 
 Examples:
-  ./nano_banana.sh --prompt "Prometheus on the rock"
-  ./nano_banana.sh --file ../Nano-Banana-Prompts-CP.md --workers 10
-  ./nano_banana.sh --file inputs.yaml --format yaml
+  ./src/nano_banana.sh --prompt "Prometheus on the rock"
+  ./src/nano_banana.sh --file Nano-Banana-Prompts-CP.md --workers 10
+  ./src/nano_banana.sh --file inputs/nano-prompts-full.yml --format yaml --section Fakhran
 EOF
 }
 
@@ -31,8 +33,10 @@ EOF
 PROMPT=""
 FILE=""
 FORMAT="delimited"
-OUTPUT="../images"
+OUTPUT="images"
 WORKERS=5
+OVERWRITE=""
+SECTION=""
 
 if [[ $# -eq 0 ]]; then
     show_help
@@ -65,6 +69,14 @@ while [[ $# -gt 0 ]]; do
             WORKERS="$2"
             shift 2
             ;;
+        --overwrite)
+            OVERWRITE="--overwrite"
+            shift
+            ;;
+        --section)
+            SECTION="$2"
+            shift 2
+            ;;
         *)
             echo "Unknown option: $1"
             echo "For usage instructions, run: $0 --help"
@@ -89,6 +101,14 @@ fi
 
 if [[ -n "$WORKERS" ]]; then
     CMD+=("--workers" "$WORKERS")
+fi
+
+if [[ -n "$OVERWRITE" ]]; then
+    CMD+=("$OVERWRITE")
+fi
+
+if [[ -n "$SECTION" ]]; then
+    CMD+=("--section" "$SECTION")
 fi
 
 # Execute the constructed python command

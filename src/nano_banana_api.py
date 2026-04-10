@@ -9,13 +9,37 @@ import time
 import re
 import uuid
 
-# Load API key from adjacent directory to keep it out of repo path
-API_KEY_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", ".NANO_BANANA_KEY")
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+REPO_ROOT = os.path.abspath(os.path.join(SCRIPT_DIR, ".."))
+WORKSPACE_PARENT = os.path.abspath(os.path.join(REPO_ROOT, ".."))
+
+# Load API key from the parent workspace directory to keep it out of the repo.
+API_KEY_PATH = os.path.join(WORKSPACE_PARENT, ".NANO_BANANA_KEY")
 NANO_BANANA_API_KEY = os.environ.get("NANO_BANANA_KEY")
 
 if os.path.exists(API_KEY_PATH):
     with open(API_KEY_PATH, "r") as f:
         NANO_BANANA_API_KEY = f.read().strip()
+
+
+def resolve_input_path(path_value):
+    if not path_value:
+        return path_value
+    if os.path.isabs(path_value):
+        return path_value
+
+    cwd_candidate = os.path.abspath(path_value)
+    if os.path.exists(cwd_candidate):
+        return cwd_candidate
+
+    return os.path.join(REPO_ROOT, path_value.lstrip("./"))
+
+
+def resolve_output_path(path_value):
+    if os.path.isabs(path_value):
+        return path_value
+    return os.path.join(REPO_ROOT, path_value.lstrip("./"))
+
 
 def format_filename(title, ext=".png"):
     """
@@ -120,7 +144,7 @@ def main():
     parser.add_argument("-p", "--prompt", type=str, help="Single prompt string")
     parser.add_argument("-f", "--file", type=str, help="Prompt file (.yml or delimited)")
     parser.add_argument("--format", type=str, choices=["yaml", "delimited"], default="delimited")
-    parser.add_argument("-o", "--output", type=str, default="../images")
+    parser.add_argument("-o", "--output", type=str, default="images")
     parser.add_argument("-w", "--workers", type=int, default=5)
     parser.add_argument("--overwrite", action="store_true",
                         help="Overwrite existing images (default: skip if image file exists)")
@@ -129,22 +153,24 @@ def main():
 
     args = parser.parse_args()
     prompts = []
+    output_dir = resolve_output_path(args.output)
+    prompt_file = resolve_input_path(args.file) if args.file else None
 
     if args.prompt:
         prompts.append({"Title": args.prompt, "Prompt": args.prompt})
 
-    if args.file and os.path.exists(args.file):
-        if args.format == "yaml" or args.file.endswith((".yaml", ".yml")):
-            prompts.extend(parse_yaml_file(args.file, section=args.section))
+    if prompt_file and os.path.exists(prompt_file):
+        if args.format == "yaml" or prompt_file.endswith((".yaml", ".yml")):
+            prompts.extend(parse_yaml_file(prompt_file, section=args.section))
         else:
-            prompts.extend(parse_double_colon_file(args.file))
+            prompts.extend(parse_double_colon_file(prompt_file))
 
     if not prompts:
         print("No prompts found.")
         return
 
     print(f"Loaded {len(prompts)} prompts. Starting generation (overwrite={args.overwrite})...")
-    process_prompts(prompts, args.output, args.workers, overwrite=args.overwrite)
+    process_prompts(prompts, output_dir, args.workers, overwrite=args.overwrite)
     print("Done!")
 
 if __name__ == "__main__":

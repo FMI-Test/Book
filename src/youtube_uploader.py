@@ -13,6 +13,12 @@ import time
 import yaml
 import re
 
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+REPO_ROOT = os.path.abspath(os.path.join(SCRIPT_DIR, ".."))
+WORKSPACE_PARENT = os.path.abspath(os.path.join(REPO_ROOT, ".."))
+
+GOOGLE_CLIENT_LIBS_AVAILABLE = True
+
 try:
     from googleapiclient.discovery import build
     from googleapiclient.http import MediaFileUpload
@@ -20,16 +26,28 @@ try:
     from google.auth.transport.requests import Request
     from google.oauth2.credentials import Credentials
 except ImportError:
+    GOOGLE_CLIENT_LIBS_AVAILABLE = False
+    build = MediaFileUpload = InstalledAppFlow = Request = Credentials = None
     print("Warning: Google API client libraries not installed.")
     print("Please run: pip install google-api-python-client google-auth-oauthlib google-auth-httplib2")
 
 # OAuth 2 Scopes to push video
 SCOPES = ["https://www.googleapis.com/auth/youtube.upload"]
 
+
+def resolve_repo_path(path_value):
+    if os.path.isabs(path_value):
+        return path_value
+    return os.path.join(REPO_ROOT, path_value.lstrip("./"))
+
+
 def authenticate_youtube():
+    if not GOOGLE_CLIENT_LIBS_AVAILABLE:
+        return None
+
     creds = None
-    token_path = "token.json"
-    client_secrets_path = "../../client_secret.json" # Kept outside repo
+    token_path = os.path.join(SCRIPT_DIR, "token.json")
+    client_secrets_path = os.path.join(WORKSPACE_PARENT, "client_secret.json")  # Kept outside repo
     
     if os.path.exists(token_path):
         from google.oauth2.credentials import Credentials
@@ -127,17 +145,20 @@ def main():
     parser.add_argument("-y", "--yaml", default="inputs/nano-prompts-full.yml", help="YAML file for metadata extraction")
     args = parser.parse_args()
     
-    if not os.path.exists(args.dir):
-        print(f"Error: {args.dir} not found.")
+    videos_dir = resolve_repo_path(args.dir)
+    yaml_path = resolve_repo_path(args.yaml)
+
+    if not os.path.exists(videos_dir):
+        print(f"Error: {videos_dir} not found.")
         return
-        
-    videos = [f for f in os.listdir(args.dir) if f.endswith(".mp4")]
+
+    videos = [f for f in os.listdir(videos_dir) if f.endswith(".mp4")]
     if not videos:
         print("No videos found to upload.")
         return
         
-    print(f"Found {len(videos)} videos. Loading metadata from {args.yaml}...")
-    metadata_map = load_metadata_map(args.yaml)
+    print(f"Found {len(videos)} videos. Loading metadata from {yaml_path}...")
+    metadata_map = load_metadata_map(yaml_path)
     
     print("Setting up YouTube API...")
     youtube = authenticate_youtube()
@@ -159,7 +180,7 @@ def main():
         return
         
     for vid in videos:
-        path = os.path.join(args.dir, vid)
+        path = os.path.join(videos_dir, vid)
         base_name = os.path.splitext(vid)[0]
         
         meta = metadata_map.get(base_name, {})
