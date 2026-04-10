@@ -360,6 +360,18 @@ Index:
   Prompt: | 
    Close-up of the Persian Imperial Order of the Lion and Sun medal on velvet.mGold and enamel, intricate Persian craftsmanship, 19th century. Museum display lighting. Photorealistic macro photograph.
 
+- Title: La-Orden-de-Isabel-la-Catolica
+  Prompt: |
+   Spanish Order of Isabella the Catholic medal and star displayed on deep velvet,
+   gold and enamel heraldic detail, royal Spanish decoration, museum lighting,
+   crisp documentary realism, historically accurate reference image.
+
+- Title: La-Orden-de-Isabel-la-Catolica-Banner
+  Prompt: |
+   Ceremonial sash and badge of the Spanish Order of Isabella the Catholic,
+   crimson-and-gold ribbon banner draped elegantly with polished insignia,
+   archival museum presentation, soft gallery lighting, ultra-detailed reference photograph.
+
 - Title: Aliyar-Fakhran-Petersburg-Embassy
   Prompt: | 
    The Imperial Russian capital St. Petersburg 1900s. Iranian embassy building, Persian and Russian flags side by side, horse-drawn carriages, snow. Reze Shah diplomat descending embassy steps in full regalia. Cinematic historical painting.
@@ -387,6 +399,13 @@ Index:
 - Title: Aliyar-Fakhran-Dinner-Protocol
   Prompt: | 
    Formal Persian dinner gathering, early 20th century Khorasan. Head of table occupied by distinguished elder in military decorations. Guests arranged by rank and lineage. Children standing awaiting permission to sit. Lantern light, ornate rugs. Realistic historical illustration. Formal Persian dinner gathering, early 20th century Khorasan. Head of table occupied by distinguished elder in military decorations. Guests arranged by rank and lineage. Children standing awaiting permission to sit. Lantern light, ornate rugs. Realistic historical illustration.
+
+- Title: Aliyar-Fakhran-Office
+  Prompt: |
+   A formal late-Qajar / early-Pahlavi Iranian official seated at a polished wooden
+   desk covered with papers, seals, and correspondence. Bookshelves, maps, and diplomatic
+   ledgers behind him. Dignified administrative portrait, warm window light, refined
+   historical realism.
 
 - Title: Fakhran-Sara-Villa
   Prompt: | 
