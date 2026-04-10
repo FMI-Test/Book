@@ -1,6 +1,6 @@
 # Biography and Legacy of Mirza Agha Khan Mumtahen-ul-Mulk Aliyar Fakhran
 
-![Mirza Agha Khan Mumtahen-ul-Mulk — Diplomatic Service in Russia](images/Ali-Yar-Fakhran-Russia.png)
+![Mirza Agha Khan Mumtahen-ul-Mulk — Diplomatic Service in Russia](images/Ali-Yar-Fakhran-Russia.webp)
 *Mirza Agha Khan Mumtahen-ul-Mulk Aliyar Fakhran — During Diplomatic Service in Russia*
 
 ---
@@ -11,7 +11,7 @@
 
 ## Deciphering the Name and Titles
 
-![Mirza Agha Khan Mumtahen-ul-Mulk — Deciphering the Name and Titles](images/Kargozar-Titles.png)
+![Mirza Agha Khan Mumtahen-ul-Mulk — Deciphering the Name and Titles](images/Kargozar-Titles.webp)
 *Mirza Agha Khan Mumtahen-ul-Mulk Aliyar Fakhran — Deciphering the Name and Titles*
 
 The full name and title — **Mirza Agha Khan Mumtahen-ul-Mulk Aliyar Fakhran** — is a layered artifact of Qajar-era Persian nomenclature. Each element carried specific meaning in 19th- and early 20th-century Iran.
@@ -52,7 +52,7 @@ In the 20th century, "Aqa" took on specific significance within religious and cl
 
 ### Comparison of Eras
 
-![Comparison of Qajar Era (Early 20th C.) | Pahlavi Era (Mid-Late 20th C.)](images/Qajar-vs-Pahlavi-Era.png)
+![Comparison of Qajar Era (Early 20th C.) | Pahlavi Era (Mid-Late 20th C.)](images/Qajar-vs-Pahlavi-Era.webp)
 *Mirza Agha Khan Mumtahen-ul-Mulk Aliyar Fakhran — Deciphering the Name and Titles*
 
 | Feature | Qajar Era (Early 20th C.) | Pahlavi Era (Mid-Late 20th C.) |
@@ -94,7 +94,7 @@ A name of Turkic-Persian origin meaning **"Friend of Ali"** or **"Helper of Ali"
 
 Derived from *Fakhr* (فخر), meaning **"Pride"** or **"Honor."** Adopted as a permanent family surname during the 1935 reforms, marking a lineage of established noble standing. The name signifies "The Proud Ones" or "The Honored Ones."
 
-![Mirza Agha Khan — Qajar Diplomat](images/Kargozar-Titles.png)
+![Mirza Agha Khan — Qajar Diplomat](images/Kargozar-Titles.webp)
 *AI illustration: Mirza Agha Khan in formal Qajar diplomatic attire*
 
 ---
@@ -111,7 +111,7 @@ Reza Shah's 1935 decree was a radical break: all men became *Agha* (Mr.), all wo
 
 The reform's promise, however, diverged sharply from practice. Economic inequality persisted. The landlord-peasant structure remained largely intact. Mohammad Reza Shah's later reforms — land redistribution, industrialization, currency stabilization — accelerated development but deepened internal contradictions. By 1979, these erupted in the Iranian Revolution, overthrowing a monarchy tracing its lineage 2,500 years through civilizations spanning 7,000 years. The irony: Reza Shah's egalitarian vision of "all Iranians as equals" could not survive the very modernization that birthed it.
 
-![Reza Shah Era](images/Ali-Yar-Fakhran-Reza-Shah-Era.png)
+![Reza Shah Era](images/Ali-Yar-Fakhran-Reza-Shah-Era.webp)
 *AI illustration: The transition from Qajar to Pahlavi era*
 
 ---
@@ -122,7 +122,7 @@ The reform's promise, however, diverged sharply from practice. Economic inequali
 
 He had one daughter and four sons. His eldest son, **Bagher Khan Fakhran**, studied at Dar al-Fonun and died at the age of twenty-seven. **Malikeh Fakhran** was Bagher Khan's daughter.
 
-![Dar al-Fonun](images/Ali-Yar-Fakhran-Dar-Al-Fonun.png)
+![Dar al-Fonun](images/Ali-Yar-Fakhran-Dar-Al-Fonun.webp)
 *AI illustration: Dar al-Fonun, Iran's first modern institution of higher learning*
 
 ### The "Bridge" Statesman
@@ -140,7 +140,7 @@ His nickname **"Kargozar"** (کارگزار) — meaning **Governor/Agent** — 
 
 > **Translation Note:** *Kargozar* is frequently mistranslated as "clerk," "waiter," or "broker." In Qajar-era administrative terminology, it specifically denoted a **Governor** or **Agent** — a senior official with broad judicial and executive powers representing the central government. The closest modern equivalent would be "Governor" or "Regional Agent of the State."
 
-![Governor of Bojnourd](images/Ali-Yar-Fakhran-Bujnurd-Governor.png)
+![Governor of Bojnourd](images/Ali-Yar-Fakhran-Bujnurd-Governor.webp)
 *AI illustration: The Governor's office in Bojnourd, Khorasan*
 
 ---
@@ -172,10 +172,10 @@ Based on the family genealogy document (*shajare-nameh*):
 | **1333 AH / 1914 AD** | Consul of the Caucasus | Caucasus Region |
 | **Final post** | **Ambassador Plenipotentiary (*Sefir Kabir*)** | **Leningrad, Soviet Union** |
 
-![Order of Isabella the Catholic — Spain](images/Ali-Yar-Fakhran-Full-Spain.png)
+![Order of Isabella the Catholic — Spain](images/Ali-Yar-Fakhran-Full-Spain.webp)
 *Mirza Agha Khan Mumtahen-ul-Mulk — After receiving the Order of Isabella the Catholic from Spain (1319 AH / 1901 AD)*
 
-![Lion and Sun Medal](images/Ali-Yar-Fakhran-Lion-Sun-Medal.png)
+![Lion and Sun Medal](images/Ali-Yar-Fakhran-Lion-Sun-Medal.webp)
 *AI illustration: The Lion and Sun Medal — one of Iran's highest state honors*
 
 ---
@@ -191,10 +191,10 @@ His final and highest diplomatic posting was as **Ambassador Plenipotentiary** (
 - **Protection of Iranians:** As a trained *Kargozar*, he was responsible for the legal protection of thousands of Iranian merchants and workers in the Caucasus and Russia.
 - **Multilingualism:** To serve as Ambassador in Leningrad, he was fluent in **Russian**, **French** (the language of international diplomacy), and likely **Turkic dialects** from his years in Tbilisi and Batumi.
 
-![Leningrad Ambassador](images/Ali-Yar-Fakhran-Leningrad-Ambassador.png)
+![Leningrad Ambassador](images/Ali-Yar-Fakhran-Leningrad-Ambassador.webp)
 *AI illustration: The Iranian Ambassador's residence in Leningrad*
 
-![Petersburg Embassy](images/Ali-Yar-Fakhran-Petersburg-Embassy.png)
+![Petersburg Embassy](images/Ali-Yar-Fakhran-Petersburg-Embassy.webp)
 *AI illustration: The Iranian Embassy in St. Petersburg/Leningrad*
 
 ### Connection to Dar al-Fonun
@@ -215,25 +215,25 @@ Specific diplomatic records for his Leningrad tenure are likely held in the rest
 
 ## Gallery: Portraits
 
-![Aliyar Fakhran — Full Portrait](images/Ali-Yar-Fakhran-Full.png)
+![Aliyar Fakhran — Full Portrait](images/Ali-Yar-Fakhran-Full.webp)
 *Mirza Agha Khan Mumtahen-ul-Mulk — Full-length portrait*
 
-![Aliyar Fakhran — European Mission](images/Ali-Yar-Fakhran-Full-France.png)
+![Aliyar Fakhran — European Mission](images/Ali-Yar-Fakhran-Full-France.webp)
 *Mirza Agha Khan Mumtahen-ul-Mulk — During European diplomatic service*
 
-![Aliyar Fakhran — At His Office](images/Ali-Yar-Fakhran-Office.png)
+![Aliyar Fakhran — At His Office](images/Ali-Yar-Fakhran-Office.webp)
 *Mirza Agha Khan Mumtahen-ul-Mulk — At the place of service*
 
-![Portrait of Aliyar Fakhran](images/Ali-Yar-Fakhran.png)
+![Portrait of Aliyar Fakhran](images/Ali-Yar-Fakhran.webp)
 *Mirza Agha Khan Mumtahen-ul-Mulk — Formal portrait*
 
-![Mirza Agha Khan Mumtahen-ul-Mulk — Presentation of Credentials in Tsarist Russia](images/Ali-Yar-Fakhran-Credentials-in-Tsarist.png)
+![Mirza Agha Khan Mumtahen-ul-Mulk — Presentation of Credentials in Tsarist Russia](images/Ali-Yar-Fakhran-Credentials-in-Tsarist.webp)
 *Mirza Agha Khan Mumtahen-ul-Mulk during the presentation of credentials in Tsarist Russia*
 
-![Tbilisi Consulate](images/Ali-Yar-Fakhran-Tbilisi-Consulate.png)
+![Tbilisi Consulate](images/Ali-Yar-Fakhran-Tbilisi-Consulate.webp)
 *AI illustration: The Iranian Consulate in Tbilisi, Georgia*
 
-![Batumi Consulate](images/Ali-Yar-Fakhran-Batumi-Consulate.png)
+![Batumi Consulate](images/Ali-Yar-Fakhran-Batumi-Consulate.webp)
 *AI illustration: The Iranian Consulate in Batumi — a vital Black Sea port for trade and oil*
 
 ---
@@ -256,7 +256,7 @@ Specific diplomatic records for his Leningrad tenure are likely held in the rest
 
 ## Garmeh, Jajarm, Ivar, Darq
 
-![Garmeh, Jajarm, Ivar, Darqe](images/Garmeh-Jajarm-Ivar-Darq.png)
+![Garmeh, Jajarm, Ivar, Darqe](images/Garmeh-Jajarm-Ivar-Darq.webp)
 *AI illustration: Garmeh, Jajarm, Ivar, Darq*
 
 Garmeh and Jajarm are two towns approximately 10 kilometers apart, situated along the road that cuts through the Golestan Forest from Gorgan toward Bojnourd. Fifty years ago, several kilometers past the Golestan Forest on the right side of the Gorgan-Bojnourd-Mashhad road, there stood a ruined historical fortress — an Achaemenid postal relay station (*Chapar-khaneh*) with a history stretching back 2,500 years, and a gas station shortly after.
@@ -289,7 +289,7 @@ Once, my father took me to visit Dariush. He told this story about the Kargozar:
 
 After the scolding was done, the Kargozar looked at what had been written on the wall and said: *"You have beautiful handwriting!"* Then he gave him a substantial coin as a reward. That was his character — discipline first, then recognition. Encouragement and punishment, each in its proper place.
 
-![The Calligraphy Wall](images/Ali-Yar-Fakhran-Calligraphy-Wall.png)
+![The Calligraphy Wall](images/Ali-Yar-Fakhran-Calligraphy-Wall.webp)
 *AI illustration: Young Dariush writing calligraphy on the freshly whitewashed courtyard wall*
 
 ### The Dinner Protocol
@@ -300,7 +300,7 @@ Until he had arranged everyone according to the rank and title of their forefath
 
 My father inherited the Kargozar's discipline — but with an extra dose of fussiness. When we built a building, he would collect my cigarette butts from the foundation pit — half an hour before they were to pour concrete over it — and announce: *"There isn't a single cigarette butt in this building!"* My Afghan workers and I would laugh, knowing we'd been burying butts in the mortar and plaster all day. A few had even poked through the whitewash. We dug them out, patched the wall. Dad came, asked why the wall had stains. And the workers, like sheep, said: *"Yes, yes, Mr. Bamdad is right."*
 
-![The Dinner Protocol](images/Aliyar-Fakhran-Dinner-Protocol.png)
+![The Dinner Protocol](images/Aliyar-Fakhran-Dinner-Protocol.webp)
 *AI illustration: The Kargozar's formal dinner — arranged by rank and lineage*
 
 ---
@@ -317,14 +317,14 @@ My language was always good — and long! When I was leaving for America, the co
 
 As Bahman Joon would honestly say: *"Mammadjan, Bamdad's tongue and his way with words are just like the Kargozar's — God rest his soul."*
 
-![Bamdad Heritage](images/Aliyar-Fakhran-Bamdad-Heritage.png)
+![Bamdad Heritage](images/Aliyar-Fakhran-Bamdad-Heritage.webp)
 *AI illustration: The Fakhran heritage — generations of public service, from the Kargozar to the modern era*
 
 ---
 
 ## Bagher Khan, Hassan Khan, Hussain Khan, and Karim Khan
 
-![The Kargozar's Children](images/Kargozar-Children.png)
+![The Kargozar's Children](images/Kargozar-Children.webp)
 *AI illustration: The Kargozar's children — Bagher Khan, Hassan Khan, Hussain Khan, and Karim Khan*
 
 ### Dr. Karim Khan Fakhran — The Village Doctor
@@ -381,7 +381,7 @@ Later, my father find **Colonel Dadras** — head of the Mashhad and Bojnourd Ge
 
 When we visited Bojnourd, I discovered that my father bore the nickname "The Prophet" — because he was a man of prayer and fasting, touched neither alcohol nor women. For a while, he half-heartedly smoked cigarettes; under my influence, he even drank with me once. Until he went to Mecca and declared: *"I've become a Hajji and that's that, my son."* My father never drank not with me not ever.
 
-![Reza Shah Diplomat](images/Aliyar-Fakhran-Reze-Shah-Diplomat.png)
+![Reza Shah Diplomat](images/Aliyar-Fakhran-Reze-Shah-Diplomat.webp)
 *AI illustration: The diplomatic world of the Reza Shah era*
 
 ---
@@ -394,14 +394,14 @@ I have beautiful nights and happy memories from that place. Sometimes we'd get t
 
 Bahman Joon had pride and dignity. He was the Shah's court physician. Later Dr. Ardebili came and opinions varied, but Bahman Joon was a cardiologist, and as a physician he made no distinction between patients. It was not in the interest of *Pars-Sara* to antagonize the established regime, and I understood that well. He had no pretensions — spoke frankly — and his diagnostic skill was extraordinary.
 
-![Fakhransara Villa](images/Fakhran-Sara-Villa.png)
+![Fakhransara Villa](images/Fakhran-Sara-Villa.webp)
 *AI illustration: Fakhransara — the Fakhran family villa on the Caspian shore*
 
 ---
 
 ## The Grandmother's Curse
 
-![Grandmother's Curse](images/Grandmother-Curse.png)
+![Grandmother's Curse](images/Grandmother-Curse.webp)
 *AI illustration: A family-memory rendering of the grandmother's sharp curse — “May the desert wolf take you! What blind, bald, wretched man wants you?!”*
 
 Their sister — my father's grandmother — used to say to my mother: *"May the desert wolf take you! What blind, bald, wretched man wants you?!"*
@@ -418,13 +418,13 @@ As Bahman Joon would honestly say: *"Mammadjan, Bamdad's tongue and literature a
 
 ## Family Tree
 
-![Family Tree of Fakhran's Friends and Family](images/FRIENDS-N-FAMILY-TREE.png)
+![Family Tree of Fakhran's Friends and Family](images/FRIENDS-N-FAMILY-TREE.webp)
 *Family tree and connections — Fakhran Family*
 
-![Genealogy Tree](images/Ali-Yar-Fakhran-Genealogy-Tree.png)
+![Genealogy Tree](images/Ali-Yar-Fakhran-Genealogy-Tree.webp)
 *AI illustration: The Fakhran genealogy — spanning generations from Qajar diplomacy to the modern era*
 
-![Dr. Fakhran, Bahman, Pars, Maryam Fakhran](images/DR-FAKHRAN-BAHMAN-PARS-MARYAM-FAKHRAN.png)
+![Dr. Fakhran, Bahman, Pars, Maryam Fakhran](images/DR-FAKHRAN-BAHMAN-PARS-MARYAM-FAKHRAN.webp)
 *The Fakhran family — Dr. Fakhran, Bahman, Pars, and Maryam Fakhran*
 
 > For a cleaner forward/backward lineage map and open research questions, see [`Fakhran-Dynasty.md`](Fakhran-Dynasty.md).

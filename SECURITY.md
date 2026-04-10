@@ -2,7 +2,7 @@
 
 # Security Policy
 
-![Security Policy](images/SECURITY-POLICY.png)
+![Security Policy](images/SECURITY-POLICY.webp)
 
 ## Supported Versions
 
@@ -24,10 +24,10 @@ Tell them where to go, how often they can expect to get an update on a
 reported vulnerability, what to expect if the vulnerability is accepted or
 declined, etc.
 
-![SECURITY-POLICY](./images/SECURITY-POLICY.png)
+![SECURITY-POLICY](./images/SECURITY-POLICY.webp)
 
 
-![SECURITY-POLICY](./images/SECURITY-POLICY.png)
+![SECURITY-POLICY](./images/SECURITY-POLICY.webp)
 
 
 <!-- 16:9 Video Generation Match -->

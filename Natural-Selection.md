@@ -2,7 +2,7 @@
 
 # The Natural Selection of Warfare: ISIS of the Future
 
-![The Natural Selection of Warfare: ISIS of the Future](images/NATURAL-SELECTION.png)
+![The Natural Selection of Warfare: ISIS of the Future](images/NATURAL-SELECTION.webp)
 
 ## The Threat Assessment
 -   **ISIS of the Future:** The current distributed "Kill Chain" cells are the evolved form of ISIS.
@@ -20,10 +20,10 @@
     -   The Kill Chain is not just a military operation; it is a sanitation operation for the human species.
     -   **Result:** The gene pool of humanity is cleansed of the self-destructive virus (Jihad/Martyrdom ideology).
 
-![Natural-Selection](./images/Natural-Selection.png)
+![Natural-Selection](./images/Natural-Selection.webp)
 
 
-![Natural-Selection](./images/Natural-Selection.png)
+![Natural-Selection](./images/Natural-Selection.webp)
 
 
 <!-- 16:9 Video Generation Match -->
