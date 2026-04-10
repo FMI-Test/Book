@@ -50,6 +50,12 @@ Each transformed chapter should be published in four sections, in this order:
 
 ## Tools & Scripts
 
+Install shared Python dependencies before using the automation tooling:
+
+```bash
+pip install -r requirements.txt
+```
+
 All automation scripts live in the `src/` directory:
 
 | Script | Purpose |
