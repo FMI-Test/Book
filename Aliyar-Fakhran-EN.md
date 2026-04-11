@@ -112,7 +112,7 @@ Reza Shah's 1935 decree was a radical break: all men became *Agha* (Mr.), all wo
 
 The reform's promise, however, diverged sharply from practice. Economic inequality persisted. The landlord-peasant structure remained largely intact. Mohammad Reza Shah's later reforms — land redistribution, industrialization, currency stabilization — accelerated development but deepened internal contradictions. By 1979, these erupted in the Iranian Revolution, overthrowing a monarchy tracing its lineage 2,500 years through civilizations spanning 7,000 years. The irony: Reza Shah's egalitarian vision of "all Iranians as equals" could not survive the very modernization that birthed it.
 
-![Reza Shah Era](images/Ali-Yar-Fakhran-Reza-Shah-Era.png)
+![Reza Shah Era](images/Aliyar-Fakhran-Reze-Shah-Diplomat.png)
 *AI illustration: The transition from Qajar to Pahlavi era*
 
 ---
@@ -123,7 +123,7 @@ The reform's promise, however, diverged sharply from practice. Economic inequali
 
 He had one daughter and four sons. His eldest son, **Bagher Khan Fakhran**, studied at Dar al-Fonun and died at the age of twenty-seven. **Malikeh Fakhran** was Bagher Khan's daughter.
 
-![Dar al-Fonun](images/Ali-Yar-Fakhran-Dar-Al-Fonun.png)
+![Dar al-Fonun](images/Aliyar-Fakhran-Dar-Al-Fonun.png)
 *AI illustration: Dar al-Fonun, Iran's first modern institution of higher learning*
 
 ### The "Bridge" Statesman
@@ -141,7 +141,7 @@ His nickname **"Kargozar"** (کارگزار) — meaning **Governor/Agent** — 
 
 > **Translation Note:** *Kargozar* is frequently mistranslated as "clerk," "waiter," or "broker." In Qajar-era administrative terminology, it specifically denoted a **Governor** or **Agent** — a senior official with broad judicial and executive powers representing the central government. The closest modern equivalent would be "Governor" or "Regional Agent of the State."
 
-![Governor of Bojnourd](images/Ali-Yar-Fakhran-Bujnurd-Governor.png)
+![Governor of Bojnourd](images/Aliyar-Fakhran-Bujnurd-Governor.png)
 *AI illustration: The Governor's office in Bojnourd, Khorasan*
 
 ---
@@ -176,7 +176,7 @@ Based on the family genealogy document (*shajare-nameh*):
 ![Order of Isabella the Catholic — Spain](images/Ali-Yar-Fakhran-Full-Spain.png)
 *Mirza Agha Khan Mumtahen-ul-Mulk — After receiving the Order of Isabella the Catholic from Spain (1319 AH / 1901 AD)*
 
-![Lion and Sun Medal](images/Ali-Yar-Fakhran-Lion-Sun-Medal.png)
+![Lion and Sun Medal](images/Aliyar-Fakhran-Lion-Sun-Medal.png)
 *AI illustration: The Lion and Sun Medal — one of Iran's highest state honors*
 
 ---
@@ -192,10 +192,10 @@ His final and highest diplomatic posting was as **Ambassador Plenipotentiary** (
 - **Protection of Iranians:** As a trained *Kargozar*, he was responsible for the legal protection of thousands of Iranian merchants and workers in the Caucasus and Russia.
 - **Multilingualism:** To serve as Ambassador in Leningrad, he was fluent in **Russian**, **French** (the language of international diplomacy), and likely **Turkic dialects** from his years in Tbilisi and Batumi.
 
-![Leningrad Ambassador](images/Ali-Yar-Fakhran-Leningrad-Ambassador.png)
+![Leningrad Ambassador](images/Aliyar-Fakhran-Leningrad-Ambassador.png)
 *AI illustration: The Iranian Ambassador's residence in Leningrad*
 
-![Petersburg Embassy](images/Ali-Yar-Fakhran-Petersburg-Embassy.png)
+![Petersburg Embassy](images/Aliyar-Fakhran-Petersburg-Embassy.png)
 *AI illustration: The Iranian Embassy in St. Petersburg/Leningrad*
 
 ### Connection to Dar al-Fonun
@@ -423,7 +423,7 @@ As Bahman Joon would honestly say: *"Mammadjan, Bamdad's tongue and literature a
 ![Family Tree of Fakhran's Friends and Family](images/FRIENDS-N-FAMILY-TREE.png)
 *Family tree and connections — Fakhran Family*
 
-![Genealogy Tree](images/Ali-Yar-Fakhran-Genealogy-Tree.png)
+![Genealogy Tree](images/Aliyar-Fakhran-Genealogy-Tree.png)
 *AI illustration: The Fakhran genealogy — spanning generations from Qajar diplomacy to the modern era*
 
 ![Dr. Fakhran, Bahman, Pars, Maryam Fakhran](images/DR-FAKHRAN-BAHMAN-PARS-MARYAM-FAKHRAN.png)
