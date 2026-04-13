@@ -84,3 +84,20 @@ User-provided Persian content was ingested for log tracking under AAK sync workf
 - No policy validation or factual adjudication performed in this log step.
 
 **AAK LOG UPDATE SYNC:** Completed for FA disclosure intake and archival traceability.
+
+## 2026-04-13 Image Consolidation Addendum
+
+Repository image intake was normalized under the AAK review workflow.
+
+### Actions Completed
+
+1. Consolidated all assets from `img.new/` into the canonical `images/` directory.
+2. Removed legacy `img.new/` after transfer.
+3. Ran a markdown image-link audit to confirm references resolve against the current repo tree.
+
+### Verification
+
+- No `img.new` string references remain in repository files.
+- Markdown image-link audit reported zero missing image targets.
+
+**AAK IMAGE REVIEW SYNC:** Completed for image directory consolidation and link integrity.
