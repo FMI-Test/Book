@@ -52,13 +52,13 @@ Use these normalization rules to keep Persian and English versions aligned.
 | `images/Ali-Yar-Fakhran-Russia.png` | FA + EN intro | Diplomatic service in Russia | `Qajar-era Iranian diplomat in imperial Russia, formal attire, archival portrait realism, dignified pose` |
 | `images/Kargozar-Titles.png` | FA + EN titles section | Decoding titles and identity | `Qajar statesman in formal court/diplomatic clothing, studio portrait, high-detail historical realism` |
 | `images/Qajar-vs-Pahlavi-Era.png` | FA + EN historical context | Transition from Qajar to Pahlavi | `split composition, late Qajar vs early Pahlavi modernization, historical contrast panel` |
-| `images/Ali-Yar-Fakhran-Reza-Shah-Era.png` | FA + EN | Reza Shah reform era | `Iran transition era, Reza Shah modernization atmosphere, archival-style civic scene` |
-| `images/Ali-Yar-Fakhran-Dar-Al-Fonun.png` | FA + EN | Dar al-Fonun education | `Dar al-Fonun courtyard, 19th-century Tehran, scholarly atmosphere, historic educational institution` |
-| `images/Ali-Yar-Fakhran-Bujnurd-Governor.png` | FA + EN | Governor / Kargozar office | `governor office in Bojnourd, Qajar-Pahlavi administrative room, border province ambiance` |
+| `images/Aliyar-Fakhran-Reze-Shah-Diplomat.png` | FA + EN | Reza Shah reform era | `Iran transition era, Reza Shah modernization atmosphere, archival-style civic scene` |
+| `images/Aliyar-Fakhran-Dar-Al-Fonun.png` | FA + EN | Dar al-Fonun education | `Dar al-Fonun courtyard, 19th-century Tehran, scholarly atmosphere, historic educational institution` |
+| `images/Aliyar-Fakhran-Bujnurd-Governor.png` | FA + EN | Governor / Kargozar office | `governor office in Bojnourd, Qajar-Pahlavi administrative room, border province ambiance` |
 | `images/Ali-Yar-Fakhran-Full-Spain.png` | FA + EN | Spain-related honor period | `Iranian diplomat after receiving Spanish distinction, full-length ceremonial portrait` |
-| `images/Ali-Yar-Fakhran-Lion-Sun-Medal.png` | FA + EN | Lion and Sun decoration | `Lion and Sun state medal, heraldic detail, Persian national honor, museum lighting` |
-| `images/Ali-Yar-Fakhran-Leningrad-Ambassador.png` | FA + EN | Leningrad ambassador mission | `Iranian embassy residence in Leningrad, winter light, early Soviet diplomatic setting` |
-| `images/Ali-Yar-Fakhran-Petersburg-Embassy.png` | FA + EN | St. Petersburg embassy | `Iranian embassy in St. Petersburg, Tsarist-era cityscape, diplomatic facade` |
+| `images/Aliyar-Fakhran-Lion-Sun-Medal.png` | FA + EN | Lion and Sun decoration | `Lion and Sun state medal, heraldic detail, Persian national honor, museum lighting` |
+| `images/Aliyar-Fakhran-Leningrad-Ambassador.png` | FA + EN | Leningrad ambassador mission | `Iranian embassy residence in Leningrad, winter light, early Soviet diplomatic setting` |
+| `images/Aliyar-Fakhran-Petersburg-Embassy.png` | FA + EN | St. Petersburg embassy | `Iranian embassy in St. Petersburg, Tsarist-era cityscape, diplomatic facade` |
 | `images/Ali-Yar-Fakhran-Full.png` | FA + EN gallery | Full portrait | `formal full-length portrait of Iranian diplomat, museum-grade restoration style` |
 | `images/Ali-Yar-Fakhran-Full-France.png` | FA + EN gallery | European mission tone | `European diplomatic-era portrait, Persian envoy, early 20th-century formal wear` |
 | `images/Ali-Yar-Fakhran-Office.png` | FA + EN gallery | Office / service setting | `official desk portrait, papers, Qajar diplomatic office, polished realism` |
@@ -67,13 +67,13 @@ Use these normalization rules to keep Persian and English versions aligned.
 | `images/Ali-Yar-Fakhran-Tbilisi-Consulate.png` | FA + EN | Tbilisi consulate context | `Iranian consulate in Tbilisi, Caucasus streetscape, late imperial period` |
 | `images/Ali-Yar-Fakhran-Batumi-Consulate.png` | FA + EN | Batumi consulate context | `Batumi Black Sea port consulate, trade hub, diplomatic building, moody coastal light` |
 | `images/Garmeh-Jajarm-Ivar-Darq.png` | FA + EN | Homeland geography and memory | `Khorasan desert-road landscape, Garmeh and Jajarm, warm light, memory-map composition` |
-| `images/Ali-Yar-Fakhran-Calligraphy-Wall.png` | FA + EN memoir | Dariush and the wall | `child writing calligraphy on fresh white wall, strict elder appears, courtyard scene` |
-| `images/Ali-Yar-Fakhran-Dinner-Protocol.png` | FA + EN memoir | Rank/order at dinner table | `formal Persian family dinner arranged by lineage and rank, indoor evening scene` |
-| `images/Ali-Yar-Fakhran-Bamdad-Heritage.png` | FA + EN memoir/reflection | Heritage across generations | `multi-generational Fakhran lineage, visual bridge from diplomacy to modern era` |
+| `images/Aliyar-Fakhran-Calligraphy-Wall.png` | FA + EN memoir | Dariush and the wall | `child writing calligraphy on fresh white wall, strict elder appears, courtyard scene` |
+| `images/Aliyar-Fakhran-Dinner-Protocol.png` | FA + EN memoir | Rank/order at dinner table | `formal Persian family dinner arranged by lineage and rank, indoor evening scene` |
+| `images/Aliyar-Fakhran-Bamdad-Heritage.png` | FA + EN memoir/reflection | Heritage across generations | `multi-generational Fakhran lineage, visual bridge from diplomacy to modern era` |
 | `images/FRIENDS-N-FAMILY-TREE.png` | FA + EN | Family/friends tree | diagram / family network asset |
-| `images/Ali-Yar-Fakhran-Genealogy-Tree.png` | FA + EN | Genealogy visualization | `stylized family tree, Persian genealogy, archival parchment aesthetic` |
+| `images/Aliyar-Fakhran-Genealogy-Tree.png` | FA + EN | Genealogy visualization | `stylized family tree, Persian genealogy, archival parchment aesthetic` |
 | `images/DR-FAKHRAN-BAHMAN-PARS-MARYAM-FAKHRAN.png` | FA + EN | Later generations | family continuity photo / composite asset |
-| `images/Ali-Yar-Fakhran-Fakhran-Sara-Villa.png` | FA + EN | Fakhran Sara villa | `Caspian villa, terrace view, elegant family retreat, nostalgic coastal atmosphere` |
+| `images/Fakhran-Sara-Villa.png` | FA + EN | Fakhran Sara villa | `Caspian villa, terrace view, elegant family retreat, nostalgic coastal atmosphere` |
 | `images/Aliyar-Fakhran-Reze-Shah-Diplomat.png` | FA + EN late memoir | Broader Reza Shah diplomatic era | `Reza Shah-era diplomat, transitional modern state identity, formal portrait` |
 
 ---

@@ -2,7 +2,7 @@
 
 # Book Writing Style (Advanced)
 
-![Book Writing Style (Advanced)](images/COMPLICATED.webp)
+![Book Writing Style (Advanced)](images/COMPLICATED.png)
 
 This document defines the advanced editorial protocol for transforming raw multilingual drafts into publishable, multi-audience chapter artifacts.
 
@@ -117,10 +117,10 @@ A chapter rewrite is complete only when:
 
 If a passage is too ambiguous for exact restoration, preserve that ambiguity explicitly rather than inventing unsupported facts.
 
-![COMPLICATED](./images/COMPLICATED.webp)
+![COMPLICATED](./images/COMPLICATED.png)
 
 
-![COMPLICATED](./images/COMPLICATED.webp)
+![COMPLICATED](./images/COMPLICATED.png)
 
 
 <!-- 16:9 Video Generation Match -->

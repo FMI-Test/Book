@@ -2,7 +2,7 @@
 
 # Policy Doctrine: Rules of Engagement (RoE)
 
-![Policy Doctrine: Rules of Engagement (RoE)](images/RULES-OF-ENGAGEMENT.webp)
+![Policy Doctrine: Rules of Engagement (RoE)](images/RULES-OF-ENGAGEMENT.png)
 
 **Version:** 1.0
 **Date:** 2026-03-03
@@ -54,16 +54,16 @@ Immediately following any engagement, the following protocol is mandatory:
 
 This RoE is not a static document. It is a living framework that will be updated based on the analysis of operational data to ensure continuous improvement and adaptation. All personnel are expected to know and operate within these rules at all times.
 
-![RULES-OF-ENGAGEMENT-INFO](./images/RULES-OF-ENGAGEMENT-INFO.webp)
+![RULES-OF-ENGAGEMENT-INFO](./images/RULES-OF-ENGAGEMENT-INFO.png)
 
 
-![RULES-OF-ENGAGEMENT](./images/RULES-OF-ENGAGEMENT.webp)
+![RULES-OF-ENGAGEMENT](./images/RULES-OF-ENGAGEMENT.png)
 
 
-![RULES-OF-ENGAGEMENT-INFO](./images/RULES-OF-ENGAGEMENT-INFO.webp)
+![RULES-OF-ENGAGEMENT-INFO](./images/RULES-OF-ENGAGEMENT-INFO.png)
 
 
-![RULES-OF-ENGAGEMENT](./images/RULES-OF-ENGAGEMENT.webp)
+![RULES-OF-ENGAGEMENT](./images/RULES-OF-ENGAGEMENT.png)
 
 
 <!-- 16:9 Video Generation Match -->

@@ -1,6 +1,6 @@
 # Biography and works of Mirza Agha Khan Mumtahen-ul-Mulk Aliyar Fakhran
 
-![Mirza Aga Khan Mumtah-ul-Mulk — Service in Russia](images/Ali-Yar-Fakhran-Russia.webp)
+![Mirza Aga Khan Mumtah-ul-Mulk — Service in Russia](images/Ali-Yar-Fakhran-Russia.png)
 *Mirza Aga Khan Mumtahn-ul-Mulk Aliyar Fakhran — During the Diplomatic Mission in Russia*
 
 ---
@@ -346,11 +346,11 @@ If you wish to pursue deeper academic or archival research, these are the specif
 
 # Biography and works of Mirza Aga Khan Mumtahn-ul-Mulk Aliyar Fakhran
 
-![Mirza Aga Khan Mumtah-ul-Mulk — Service in Russia](images/Ali-Yar-Fakhran-Russia.webp)
+![Mirza Aga Khan Mumtah-ul-Mulk — Service in Russia](images/Ali-Yar-Fakhran-Russia.png)
 *Mirza Aga Khan Mumtahn-ul-Mulk Aliyar Fakhran — During the Diplomatic Mission in Russia*
 # Biography and works of Mirza Aga Khan Mumtahn-ol-Mulk Aliyar Fakhran - nicknamed Kargazar
 
-![Mirza Aga Khan Mumtah-ul-Mulk — Service in Russia](images/Ali-Yar-Fakhran-Russia.webp)
+![Mirza Aga Khan Mumtah-ul-Mulk — Service in Russia](images/Ali-Yar-Fakhran-Russia.png)
 *Mirza Aga Khan Mumّدtahn-ul-Mulk Aliyar Fakhran — During the Diplomatic Mission in Russia*
 
 ---
@@ -427,7 +427,7 @@ Family tree of Mirza Aga Khan Mumtah al-Molk
  - Order of Stanislav, 3rd degree, from the government of Tsarist Russia (1318 AH / 1900 AD)
  - Medal of Isabella the Catholic from the Spanish government (1319 A.D. / 1901 AD)
 
-![Aliyar Fakhran — Spanish Mission Period](images/Ali-Yar-Fakhran-Full-Spain.webp)
+![Aliyar Fakhran — Spanish Mission Period](images/Ali-Yar-Fakhran-Full-Spain.png)
 *Mirza Aga Khan Mumtah al-Mulk — after receiving the Order of Isabel the Catholic from the Spanish government (1319 AH / 1901 AD)*
 
  - Consulate of Batum (1319 AH / 1901 AD)
@@ -440,16 +440,16 @@ Family tree of Mirza Aga Khan Mumtah al-Molk
 
 His last position was the Grand Ambassador of Iran to Leningrad, Soviet Union.
 
-![Aliyar Fakhran — Full-size](images/Ali-Yar-Fakhran-Full.webp)
+![Aliyar Fakhran — Full-size](images/Ali-Yar-Fakhran-Full.png)
 *Mirza Aga Khan Mumtahan-ul-Mulk — Full-length*
 
-![Aliyar Fakhran — French Mission Period](images/Ali-Yar-Fakhran-Full-France.webp)
+![Aliyar Fakhran — French Mission Period](images/Ali-Yar-Fakhran-Full-France.png)
 *Mirza Aga Khan Mumtah-ul-Mulk — Diplomatic, European Mission Period*
 
-![Aliyar Fakhran — Office](images/Ali-Yar-Fakhran-Office.webp)
+![Aliyar Fakhran — Office](images/Ali-Yar-Fakhran-Office.png)
 *Mirza Aga Khan Mumtahan-ul-Mulk — At the place of service*
 
-![Portrait of Aliyar Fakhran](images/Ali-Yar-Fakhran.webp)
+![Portrait of Aliyar Fakhran](images/Ali-Yar-Fakhran.png)
 *Mirza Aga Khan Mumtah-ul-Mulk — Portrait*
 
 ## Glossary: ​​Ancient names and modern equivalents
@@ -536,7 +536,7 @@ Unfortunately, my memories of this great grandfather end with just a few names a
 
 ## Visual family tree
 
-![Family tree of Fakhran's friends and family](images/FRIENDS-N-FAMILY-TREE.webp)
+![Family tree of Fakhran's friends and family](images/FRIENDS-N-FAMILY-TREE.png)
 *Family Tree and Links — Fakhran Family*
 
 "Fakhransara" was the name of Bahmanjoon's villa in the north, which also had a tennis court. The original building was very close to the water and was eventually washed away by the sea. Since the land was long, he built another one further away from the water. I didn't see the new villa and I don't know who owns it now or what happened to it. But the old one was very spacious, two stories, with a terrace on the top floor overlooking the Caspian Sea. I have very beautiful nights and happy memories of it. Sometimes we would get the key from Bahmanjoon — of course, there was no key, we would go to the caretaker, say hello, visit, have dinner and make him happy. We enjoyed Bahmanjoon's conversations. He was my father's cousin; my father called him "Mammadjan" and he "gave him" as well. I would call him "Bahmanjoon" as usual.

@@ -205,208 +205,208 @@ The banana is always obvious in retrospect. The trick is seeing it in the room b
 
 ---
 
-![AUTO-FAILOVER](./images/AUTO-FAILOVER.webp)
+![AUTO-FAILOVER](./images/AUTO-FAILOVER.png)
 
 
-![BACK-COVER](./images/BACK-COVER.webp)
+![BACK-COVER](./images/BACK-COVER.png)
 
 
-![Bodhi-Tree](./images/Bodhi-Tree.webp)
+![Bodhi-Tree](./images/Bodhi-Tree.png)
 
 
-![CHAPTER-7-8](./images/CHAPTER-7-8.webp)
+![CHAPTER-7-8](./images/CHAPTER-7-8.png)
 
 
-![Compartmentalization](./images/Compartmentalization.webp)
+![Compartmentalization](./images/Compartmentalization.png)
 
 
-![COMPLEMENTARY](./images/COMPLEMENTARY.webp)
+![COMPLEMENTARY](./images/COMPLEMENTARY.png)
 
 
-![COVER-BACK](./images/COVER-BACK.webp)
+![COVER-BACK](./images/COVER-BACK.png)
 
 
-![COVER](./images/COVER.webp)
+![COVER](./images/COVER.png)
 
 
-![Do-unto-others](./images/Do-unto-others.webp)
+![Do-unto-others](./images/Do-unto-others.png)
 
 
-![DR-FAKHRAN-BAHMAN-PARS-MARYAM-FAKHRAN](./images/DR-FAKHRAN-BAHMAN-PARS-MARYAM-FAKHRAN.webp)
+![DR-FAKHRAN-BAHMAN-PARS-MARYAM-FAKHRAN](./images/DR-FAKHRAN-BAHMAN-PARS-MARYAM-FAKHRAN.png)
 
 
-![ELI-AN-DANIAN-INSIGHT](./images/ELI-AN-DANIAN-INSIGHT.webp)
+![ELI-AN-DANIAN-INSIGHT](./images/ELI-AN-DANIAN-INSIGHT.png)
 
 
-![Failed-Programs](./images/Failed-Programs.webp)
+![Failed-Programs](./images/Failed-Programs.png)
 
 
-![FOUNDATION-MEDICINE](./images/FOUNDATION-MEDICINE.webp)
+![FOUNDATION-MEDICINE](./images/FOUNDATION-MEDICINE.png)
 
 
-![FRIENDS-N-FAMILY-TREE](./images/FRIENDS-N-FAMILY-TREE.webp)
+![FRIENDS-N-FAMILY-TREE](./images/FRIENDS-N-FAMILY-TREE.png)
 
 
-![GLOBAL-TECH](./images/GLOBAL-TECH.webp)
+![GLOBAL-TECH](./images/GLOBAL-TECH.png)
 
 
-![Job-Silence](./images/Job-Silence.webp)
+![Job-Silence](./images/Job-Silence.png)
 
 
-![LEGACY-CODE-REFACTOR](./images/LEGACY-CODE-REFACTOR.webp)
+![LEGACY-CODE-REFACTOR](./images/LEGACY-CODE-REFACTOR.png)
 
 
-![LIFE-SCIENCE](./images/LIFE-SCIENCE.webp)
+![LIFE-SCIENCE](./images/LIFE-SCIENCE.png)
 
 
-![MEDIA-ENTERTAINMENT-TECH-STACK](./images/MEDIA-ENTERTAINMENT-TECH-STACK.webp)
+![MEDIA-ENTERTAINMENT-TECH-STACK](./images/MEDIA-ENTERTAINMENT-TECH-STACK.png)
 
 
-![Prevent-Faliure](./images/Prevent-Faliure.webp)
+![Prevent-Faliure](./images/Prevent-Faliure.png)
 
 
-![Prometheus](./images/Prometheus.webp)
+![Prometheus](./images/Prometheus.png)
 
 
-![REFLECTION-ON-TECHNOLOGY-N-LIFE](./images/REFLECTION-ON-TECHNOLOGY-N-LIFE.webp)
+![REFLECTION-ON-TECHNOLOGY-N-LIFE](./images/REFLECTION-ON-TECHNOLOGY-N-LIFE.png)
 
 
-![REPOSITORY-OPEN-GRAPH-TEMPLATE](./images/REPOSITORY-OPEN-GRAPH-TEMPLATE.webp)
+![REPOSITORY-OPEN-GRAPH-TEMPLATE](./images/REPOSITORY-OPEN-GRAPH-TEMPLATE.png)
 
 
-![RIOT-GAMES-TEAM](./images/RIOT-GAMES-TEAM.webp)
+![RIOT-GAMES-TEAM](./images/RIOT-GAMES-TEAM.png)
 
 
-![SELF-DRIVING-CAR](./images/SELF-DRIVING-CAR.webp)
+![SELF-DRIVING-CAR](./images/SELF-DRIVING-CAR.png)
 
 
-![The-Bomb-Doesnt-Tick](./images/The-Bomb-Doesnt-Tick.webp)
+![The-Bomb-Doesnt-Tick](./images/The-Bomb-Doesnt-Tick.png)
 
 
-![The-Civilization-Barrier](./images/The-Civilization-Barrier.webp)
+![The-Civilization-Barrier](./images/The-Civilization-Barrier.png)
 
 
-![The-Crossing-Problem](./images/The-Crossing-Problem.webp)
+![The-Crossing-Problem](./images/The-Crossing-Problem.png)
 
 
-![The-Destruction-Cases](./images/The-Destruction-Cases.webp)
+![The-Destruction-Cases](./images/The-Destruction-Cases.png)
 
 
-![The-Divergence-Case](./images/The-Divergence-Case.webp)
+![The-Divergence-Case](./images/The-Divergence-Case.png)
 
 
-![The-Reconstruction-Miracles](./images/The-Reconstruction-Miracles.webp)
+![The-Reconstruction-Miracles](./images/The-Reconstruction-Miracles.png)
 
 
-![The-Ticking-Bomb-Architecture](./images/The-Ticking-Bomb-Architecture.webp)
+![The-Ticking-Bomb-Architecture](./images/The-Ticking-Bomb-Architecture.png)
 
 
-![TRANSFORMATIONS](./images/TRANSFORMATIONS.webp)
+![TRANSFORMATIONS](./images/TRANSFORMATIONS.png)
 
 
-![YAHOO-CAFE](./images/YAHOO-CAFE.webp)
+![YAHOO-CAFE](./images/YAHOO-CAFE.png)
 
 
-![AUTO-FAILOVER](./images/AUTO-FAILOVER.webp)
+![AUTO-FAILOVER](./images/AUTO-FAILOVER.png)
 
 
-![BACK-COVER](./images/BACK-COVER.webp)
+![BACK-COVER](./images/BACK-COVER.png)
 
 
-![Bodhi-Tree](./images/Bodhi-Tree.webp)
+![Bodhi-Tree](./images/Bodhi-Tree.png)
 
 
-![CHAPTER-7-8](./images/CHAPTER-7-8.webp)
+![CHAPTER-7-8](./images/CHAPTER-7-8.png)
 
 
-![Compartmentalization](./images/Compartmentalization.webp)
+![Compartmentalization](./images/Compartmentalization.png)
 
 
-![COMPLEMENTARY](./images/COMPLEMENTARY.webp)
+![COMPLEMENTARY](./images/COMPLEMENTARY.png)
 
 
-![COVER-BACK](./images/COVER-BACK.webp)
+![COVER-BACK](./images/COVER-BACK.png)
 
 
-![COVER](./images/COVER.webp)
+![COVER](./images/COVER.png)
 
 
-![Do-unto-others](./images/Do-unto-others.webp)
+![Do-unto-others](./images/Do-unto-others.png)
 
 
-![DR-FAKHRAN-BAHMAN-PARS-MARYAM-FAKHRAN](./images/DR-FAKHRAN-BAHMAN-PARS-MARYAM-FAKHRAN.webp)
+![DR-FAKHRAN-BAHMAN-PARS-MARYAM-FAKHRAN](./images/DR-FAKHRAN-BAHMAN-PARS-MARYAM-FAKHRAN.png)
 
 
-![ELI-AN-DANIAN-INSIGHT](./images/ELI-AN-DANIAN-INSIGHT.webp)
+![ELI-AN-DANIAN-INSIGHT](./images/ELI-AN-DANIAN-INSIGHT.png)
 
 
-![Failed-Programs](./images/Failed-Programs.webp)
+![Failed-Programs](./images/Failed-Programs.png)
 
 
-![FOUNDATION-MEDICINE](./images/FOUNDATION-MEDICINE.webp)
+![FOUNDATION-MEDICINE](./images/FOUNDATION-MEDICINE.png)
 
 
-![FRIENDS-N-FAMILY-TREE](./images/FRIENDS-N-FAMILY-TREE.webp)
+![FRIENDS-N-FAMILY-TREE](./images/FRIENDS-N-FAMILY-TREE.png)
 
 
-![GLOBAL-TECH](./images/GLOBAL-TECH.webp)
+![GLOBAL-TECH](./images/GLOBAL-TECH.png)
 
 
-![Job-Silence](./images/Job-Silence.webp)
+![Job-Silence](./images/Job-Silence.png)
 
 
-![LEGACY-CODE-REFACTOR](./images/LEGACY-CODE-REFACTOR.webp)
+![LEGACY-CODE-REFACTOR](./images/LEGACY-CODE-REFACTOR.png)
 
 
-![LIFE-SCIENCE](./images/LIFE-SCIENCE.webp)
+![LIFE-SCIENCE](./images/LIFE-SCIENCE.png)
 
 
-![MEDIA-ENTERTAINMENT-TECH-STACK](./images/MEDIA-ENTERTAINMENT-TECH-STACK.webp)
+![MEDIA-ENTERTAINMENT-TECH-STACK](./images/MEDIA-ENTERTAINMENT-TECH-STACK.png)
 
 
-![Prevent-Faliure](./images/Prevent-Faliure.webp)
+![Prevent-Faliure](./images/Prevent-Faliure.png)
 
 
-![Prometheus](./images/Prometheus.webp)
+![Prometheus](./images/Prometheus.png)
 
 
-![REFLECTION-ON-TECHNOLOGY-N-LIFE](./images/REFLECTION-ON-TECHNOLOGY-N-LIFE.webp)
+![REFLECTION-ON-TECHNOLOGY-N-LIFE](./images/REFLECTION-ON-TECHNOLOGY-N-LIFE.png)
 
 
-![REPOSITORY-OPEN-GRAPH-TEMPLATE](./images/REPOSITORY-OPEN-GRAPH-TEMPLATE.webp)
+![REPOSITORY-OPEN-GRAPH-TEMPLATE](./images/REPOSITORY-OPEN-GRAPH-TEMPLATE.png)
 
 
-![RIOT-GAMES-TEAM](./images/RIOT-GAMES-TEAM.webp)
+![RIOT-GAMES-TEAM](./images/RIOT-GAMES-TEAM.png)
 
 
-![SELF-DRIVING-CAR](./images/SELF-DRIVING-CAR.webp)
+![SELF-DRIVING-CAR](./images/SELF-DRIVING-CAR.png)
 
 
-![The-Bomb-Doesnt-Tick](./images/The-Bomb-Doesnt-Tick.webp)
+![The-Bomb-Doesnt-Tick](./images/The-Bomb-Doesnt-Tick.png)
 
 
-![The-Civilization-Barrier](./images/The-Civilization-Barrier.webp)
+![The-Civilization-Barrier](./images/The-Civilization-Barrier.png)
 
 
-![The-Crossing-Problem](./images/The-Crossing-Problem.webp)
+![The-Crossing-Problem](./images/The-Crossing-Problem.png)
 
 
-![The-Destruction-Cases](./images/The-Destruction-Cases.webp)
+![The-Destruction-Cases](./images/The-Destruction-Cases.png)
 
 
-![The-Divergence-Case](./images/The-Divergence-Case.webp)
+![The-Divergence-Case](./images/The-Divergence-Case.png)
 
 
-![The-Reconstruction-Miracles](./images/The-Reconstruction-Miracles.webp)
+![The-Reconstruction-Miracles](./images/The-Reconstruction-Miracles.png)
 
 
-![The-Ticking-Bomb-Architecture](./images/The-Ticking-Bomb-Architecture.webp)
+![The-Ticking-Bomb-Architecture](./images/The-Ticking-Bomb-Architecture.png)
 
 
-![TRANSFORMATIONS](./images/TRANSFORMATIONS.webp)
+![TRANSFORMATIONS](./images/TRANSFORMATIONS.png)
 
 
-![YAHOO-CAFE](./images/YAHOO-CAFE.webp)
+![YAHOO-CAFE](./images/YAHOO-CAFE.png)
 
 
 <!-- 16:9 Video Generation Match -->

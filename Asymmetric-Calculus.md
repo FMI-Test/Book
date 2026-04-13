@@ -2,7 +2,7 @@
 
 # The Asymmetric Calculus: 1 Serviceman vs. 1 Million Militia
 
-![The Asymmetric Calculus: 1 Serviceman vs. 1 Million Militia](images/ASYMETRIC-CALCULUS.webp)
+![The Asymmetric Calculus: 1 Serviceman vs. 1 Million Militia](images/ASYMETRIC-CALCULUS.png)
 
 **Question:** Why does the death of 1 trained Serviceman/Minuteman justify the elimination of a million militia?
 
@@ -24,10 +24,10 @@
 ## Moral Implication
 -   The decision to kill is not about the individual target, but about verifying the **Sanctity of the Serviceman**. Protection of the few requires the destruction of the many if the many threaten the few.
 
-![ASYMETRIC-CALCULUS](./images/ASYMETRIC-CALCULUS.webp)
+![ASYMETRIC-CALCULUS](./images/ASYMETRIC-CALCULUS.png)
 
 
-![ASYMETRIC-CALCULUS](./images/ASYMETRIC-CALCULUS.webp)
+![ASYMETRIC-CALCULUS](./images/ASYMETRIC-CALCULUS.png)
 
 
 <!-- 16:9 Video Generation Match -->

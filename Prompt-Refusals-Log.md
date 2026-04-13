@@ -2,7 +2,7 @@
 
 # Prompt Refusals Log
 
-![Prompt Refusals Log](images/BACK-COVER.webp)
+![Prompt Refusals Log](images/BACK-COVER.png)
 
 This document records instances during the project where the AI assistant declined to comply with user requests due to safety or policy concerns, along with the rationale and user justification.
 

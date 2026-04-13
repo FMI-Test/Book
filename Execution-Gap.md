@@ -2,7 +2,7 @@
 
 # The Execution Doctrine: 500-Year Vision, Instant Execution
 
-![The Execution Doctrine: 500-Year Vision, Instant Execution](images/EXECUTION-GAP.webp)
+![The Execution Doctrine: 500-Year Vision, Instant Execution](images/EXECUTION-GAP.png)
 
 ## The Strategic Correction
 **Correction:** We do not stop planning. We plan for **500 years**.
@@ -25,7 +25,7 @@ When the **Engagement Command** is issued:
 -   **Plan:** Like a civilization (500 years).
 -   **Strike:** Like a lightning bolt (0 delay).
 
-![EXECUTION-GAP](./images/EXECUTION-GAP.webp)
+![EXECUTION-GAP](./images/EXECUTION-GAP.png)
 
 <!-- 16:9 Video Generation Match -->
 <video width="100%" controls>

@@ -399,34 +399,34 @@ That is not an accident. That is the system working exactly as tuned.
 
 ---
 
-![COMPLEX](./images/COMPLEX.webp)
+![COMPLEX](./images/COMPLEX.png)
 
 
-![The-Complexity-Tax-of-the-Crowd](./images/The-Complexity-Tax-of-the-Crowd.webp)
+![The-Complexity-Tax-of-the-Crowd](./images/The-Complexity-Tax-of-the-Crowd.png)
 
 
-![The-Sovereign-Complexity-Game](./images/The-Sovereign-Complexity-Game.webp)
+![The-Sovereign-Complexity-Game](./images/The-Sovereign-Complexity-Game.png)
 
 
-![Type-I-Complexity](./images/Type-I-Complexity.webp)
+![Type-I-Complexity](./images/Type-I-Complexity.png)
 
 
-![Type-II-Complexity](./images/Type-II-Complexity.webp)
+![Type-II-Complexity](./images/Type-II-Complexity.png)
 
 
-![COMPLEX](./images/COMPLEX.webp)
+![COMPLEX](./images/COMPLEX.png)
 
 
-![The-Complexity-Tax-of-the-Crowd](./images/The-Complexity-Tax-of-the-Crowd.webp)
+![The-Complexity-Tax-of-the-Crowd](./images/The-Complexity-Tax-of-the-Crowd.png)
 
 
-![The-Sovereign-Complexity-Game](./images/The-Sovereign-Complexity-Game.webp)
+![The-Sovereign-Complexity-Game](./images/The-Sovereign-Complexity-Game.png)
 
 
-![Type-I-Complexity](./images/Type-I-Complexity.webp)
+![Type-I-Complexity](./images/Type-I-Complexity.png)
 
 
-![Type-II-Complexity](./images/Type-II-Complexity.webp)
+![Type-II-Complexity](./images/Type-II-Complexity.png)
 
 
 <!-- 16:9 Video Generation Match -->

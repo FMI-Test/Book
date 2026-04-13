@@ -2,7 +2,7 @@
 
 # The Defense Contractor Spoiler: The M Lie
 
-![The Defense Contractor Spoiler: The M Lie](images/DEFENSE-CONTRACTOR-SPOILER.webp)
+![The Defense Contractor Spoiler: The M Lie](images/DEFENSE-CONTRACTOR-SPOILER.png)
 
 ## The Financial Asymmetry
 -   **The W2 Reality:** A contractor employee makes **k**.
@@ -21,10 +21,10 @@
 -   **Value:** Pay the talent (the k guy) directly or execute via smaller, leaner Kill Chain cells.
 -   **Truth:** This financial bloat is why we have the "Execution Gap".
 
-![DEFENSE-CONTRACTOR-SPOILER](./images/DEFENSE-CONTRACTOR-SPOILER.webp)
+![DEFENSE-CONTRACTOR-SPOILER](./images/DEFENSE-CONTRACTOR-SPOILER.png)
 
 
-![DEFENSE-CONTRACTOR-SPOILER](./images/DEFENSE-CONTRACTOR-SPOILER.webp)
+![DEFENSE-CONTRACTOR-SPOILER](./images/DEFENSE-CONTRACTOR-SPOILER.png)
 
 
 <!-- 16:9 Video Generation Match -->
