@@ -87,6 +87,7 @@ For the diplomatic-history module and archive workflow, see:
 
 ## Selected Reflection Modules
 
+- [`Start.md`](Start.md) — cold-start vs. warm-start; context activation and systems initialization
 - [`Evolution-Sexual-Dimorphism.md`](Evolution-Sexual-Dimorphism.md) — biological variance, reproduction, and evolutionary framing
 - [`Parthenogenesis-and-the-Nativity.md`](Parthenogenesis-and-the-Nativity.md) — a personal reflection on miracle narratives, earthly causality, and scientific possibility
 - [`Not-Anger.md`](Not-Anger.md) — institutional misnaming, dignity, and refusal
