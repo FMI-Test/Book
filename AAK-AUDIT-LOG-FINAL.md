@@ -101,3 +101,20 @@ Repository image intake was normalized under the AAK review workflow.
 - Markdown image-link audit reported zero missing image targets.
 
 **AAK IMAGE REVIEW SYNC:** Completed for image directory consolidation and link integrity.
+
+## 2026-04-13 Full Image Context Addendum
+
+Post-consolidation context pass completed to ensure imported assets are documented and usable from markdown.
+
+### Actions Completed
+
+1. Created `AAK-NEW-IMAGES-STORY.md` as the intake narrative and index for newly migrated assets.
+2. Added explicit markdown references for all previously unreferenced images in the canonical `images/` directory.
+3. Re-ran repository markdown link checks after indexing to confirm no broken local image targets.
+
+### Context Note
+
+- Core chapter files remain focused and curated.
+- The new story/index file provides full coverage and traceability for the broader intake set.
+
+**AAK FULL IMAGE CONTEXT SYNC:** Completed for repository-wide markdown usage coverage.
