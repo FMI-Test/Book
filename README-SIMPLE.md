@@ -2,7 +2,7 @@
 
 # Book Writing Style (Simple)
 
-![Book Writing Style (Simple)](images/COMPLEMENTARY.webp)
+![Book Writing Style (Simple)](images/COMPLEMENTARY.png)
 
 This repository contains raw multilingual writing that can be difficult to read in its original form.
 

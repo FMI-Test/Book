@@ -2,7 +2,7 @@
 
 # Book Writing Style
 
-![Book Writing Style](images/COVER.webp)
+![Book Writing Style](images/COVER.png)
 
 This repository preserves raw multilingual drafts that may contain cipher-like phrasing, mixed tone, and layered context. The editorial goal is to preserve the original signal while publishing readable, audience-aware versions.
 

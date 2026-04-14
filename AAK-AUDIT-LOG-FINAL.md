@@ -2,7 +2,7 @@
 
 # AAK Audit Log (Final)
 
-![AAK Audit Log (Final)](images/REPOSITORY-OPEN-GRAPH-TEMPLATE.webp)
+![AAK Audit Log (Final)](images/REPOSITORY-OPEN-GRAPH-TEMPLATE.png)
 
 **Date:** 2026-03-11  
 **Repository:** `FMI-Test/Book`  

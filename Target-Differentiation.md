@@ -2,7 +2,7 @@
 
 # Target Differentiation: The Hardcore vs. The Rest
 
-![Target Differentiation: The Hardcore vs. The Rest](images/TARGET-DIFFERENTIATION.webp)
+![Target Differentiation: The Hardcore vs. The Rest](images/TARGET-DIFFERENTIATION.png)
 
 ## The Fundamental Asymmetry
 -   **The Enemy:** Kills millions indiscriminately.
@@ -24,10 +24,10 @@
 -   Once the hardcore are removed, the violence ends. This distinguishes the Service Member from the Terrorist.
 -   *"This is the real me."*
 
-![TARGET-DIFFERENTIATION](./images/TARGET-DIFFERENTIATION.webp)
+![TARGET-DIFFERENTIATION](./images/TARGET-DIFFERENTIATION.png)
 
 
-![TARGET-DIFFERENTIATION](./images/TARGET-DIFFERENTIATION.webp)
+![TARGET-DIFFERENTIATION](./images/TARGET-DIFFERENTIATION.png)
 
 
 <!-- 16:9 Video Generation Match -->

@@ -2,7 +2,7 @@
 
 # The Retaliation Doctrine: x100
 
-![The Retaliation Doctrine: x100](images/RETALIATION-DOCTORINE.webp)
+![The Retaliation Doctrine: x100](images/RETALIATION-DOCTORINE.png)
 
 ## The Escalation Matrix
 -   **The Enemy:** Escalate by x10.
@@ -26,10 +26,10 @@
     -   **Result:** The patient (Humanity) survives. The cancer dies.
     -   *"We win. Humanity wins."*
 
-![RETALIATION-DOCTORINE](./images/RETALIATION-DOCTORINE.webp)
+![RETALIATION-DOCTORINE](./images/RETALIATION-DOCTORINE.png)
 
 
-![RETALIATION-DOCTORINE](./images/RETALIATION-DOCTORINE.webp)
+![RETALIATION-DOCTORINE](./images/RETALIATION-DOCTORINE.png)
 
 
 <!-- 16:9 Video Generation Match -->
