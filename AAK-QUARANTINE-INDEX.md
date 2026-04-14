@@ -37,3 +37,14 @@ Move from quarantine only when all are true:
 1. Provenance is documented (source, date, rights).
 2. Relation to Aliyar Fakhran narrative is explicit.
 3. Confidence tag is assigned in `AAK-VISUAL-OPS.md`.
+
+## 2026-04-14 Automation Sync
+
+Quarantine registry was reviewed during the all-root AAK auto pass.
+
+### Outcome
+
+- Existing hold set remains in place; no assets were promoted in this pass.
+- Quarantine policy language remains aligned with the visual evidence tag workflow.
+
+**AAK QUARANTINE AUTO SYNC:** Completed with no promotion changes.

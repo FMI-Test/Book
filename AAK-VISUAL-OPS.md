@@ -114,3 +114,15 @@ Required before external publication claim hardening:
 1. Verify class/rank and conferment date.
 2. Attach decree or registry citation metadata.
 3. Keep caption language as "context reference" unless confirmed.
+
+## 2026-04-14 Automation Sync
+
+Visual ops registry was rechecked during the all-root AAK auto workflow.
+
+### Outcome
+
+- Curated promotion set and evidence-tag taxonomy remain unchanged.
+- Provenance requirements for Russia/Caucasus and Spain chapters remain enforced.
+- No confidence-tag promotions were made in this pass.
+
+**AAK VISUAL OPS AUTO SYNC:** Completed with policy continuity preserved.
