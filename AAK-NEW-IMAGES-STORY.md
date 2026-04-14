@@ -84,14 +84,21 @@ This closes the author story as a continuity system: language, discipline, publi
 
 ## AAK TODOs (Gap Check)
 
-1. [ ] Curate 25-40 strongest non-duplicate images from the intake list for chapter-level promotion.
-2. [ ] Add short captions (date, place, confidence level) for each promoted image in FA and EN files.
-3. [ ] Split low-confidence or unknown-origin assets into a dedicated quarantine/index file for later verification.
-4. [ ] Add an archive-evidence tag system: confirmed, inferred, reconstructed, symbolic.
-5. [ ] Normalize naming for near-duplicates where only extension differs (for example .jpg and .png pairs).
-6. [ ] Create a small "hero set" used consistently across README, social cards, and publication cover variants.
-7. [ ] Add source provenance notes for historically sensitive images (Russia/Spain honors and embassy scenes).
-8. [ ] Sync this narrative layer into [Aliyar-Fakhran-Workflow-Summary.md](Aliyar-Fakhran-Workflow-Summary.md) as the official visual arc.
+1. [x] Curated 30 strongest non-duplicate images for chapter-level promotion in `AAK-VISUAL-OPS.md`.
+2. [x] Added short caption set (date, place, confidence level) in FA/EN pages and linked to `AAK-VISUAL-OPS.md`.
+3. [x] Split low-confidence or unknown-origin assets into `AAK-QUARANTINE-INDEX.md`.
+4. [x] Added archive-evidence tag system (`confirmed`, `inferred`, `reconstructed`, `symbolic`) in `AAK-VISUAL-OPS.md`.
+5. [x] Added naming-normalization plan for near-duplicate extensions in `AAK-VISUAL-OPS.md`.
+6. [x] Created an 8-image hero set for cross-channel consistency in `AAK-VISUAL-OPS.md`.
+7. [x] Added provenance notes for sensitive Russia/Spain scenes in `AAK-VISUAL-OPS.md`.
+8. [x] Synced this narrative layer into `Aliyar-Fakhran-Workflow-Summary.md` as the official AAK visual arc.
+
+### AAK Completion Artifacts
+
+- `AAK-VISUAL-OPS.md` (curation, captions, tags, hero set, normalization, provenance)
+- `AAK-QUARANTINE-INDEX.md` (low-confidence and non-biographical hold list)
+- `Aliyar-Fakhran-EN.md` and `Aliyar-Fakhran-FA.md` (caption set integration)
+- `Aliyar-Fakhran-Workflow-Summary.md` (official visual arc sync)
 
 ## Intake Coverage
 

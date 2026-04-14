@@ -9,6 +9,19 @@
 
 ---
 
+## AAK Visual Caption Set (April 2026)
+
+Primary registry: `AAK-VISUAL-OPS.md`
+
+- `images/Kargozar-Titles.webp` - Name/title architecture context; date: c. 1900-1935; place: Iran; confidence: medium; tag: reconstructed.
+- `images/Ali-Yar-Fakhran-Russia.webp` - Diplomatic service in Russia context; date: early 20th c. context; place: Russia; confidence: medium; tag: inferred.
+- `images/Ali-Yar-Fakhran-Petersburg-Embassy.webp` - Embassy-facing diplomatic context; date: early 20th c. context; place: Saint Petersburg; confidence: medium; tag: inferred.
+- `images/Ali-Yar-Fakhran-Leningrad-Ambassador.webp` - Leningrad ambassadorial context; date: early Soviet-era context; place: Leningrad; confidence: medium; tag: inferred.
+- `images/Ali-Yar-Fakhran-Lion-Sun-Medal.webp` - Honors reference context; date: historical order context; place: Iran; confidence: medium; tag: symbolic.
+- `images/Ali-Yar-Fakhran-Full-Spain.webp` - Spain honors period context; date: historical order context; place: Spain; confidence: medium; tag: symbolic.
+- `images/Ali-Yar-Fakhran-Dinner-Protocol.webp` - Family protocol memory context; date: memoir context; place: Iran; confidence: medium; tag: reconstructed.
+- `images/Ali-Yar-Fakhran-Genealogy-Tree.webp` - Lineage continuity context; date: lineage context; place: Iran; confidence: medium; tag: reconstructed.
+
 ## رمزگشایی نام و القاب
 
 ![میرزا آقاخان ممتحن‌الملک — رمزگشایی نام و القاب](images/Kargozar-Titles.webp)

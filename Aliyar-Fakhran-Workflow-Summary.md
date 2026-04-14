@@ -39,6 +39,14 @@ This file tracks the working research flow for public historical documentation o
 
 ## Workflow summary
 
+### AAK visual arc sync (2026-04-13)
+
+- Official visual-ops registry added: `AAK-VISUAL-OPS.md`
+- Quarantine/index for low-confidence and non-biographical assets added: `AAK-QUARANTINE-INDEX.md`
+- Curated promotion set finalized (30 assets) with evidence tags and confidence labels
+- Hero set finalized (8 assets) for cross-channel consistency
+- Caption set integrated into `Aliyar-Fakhran-EN.md` and `Aliyar-Fakhran-FA.md`
+
 ### TODO
 
 - [ ] Send archive requests to **Spain**, **Iran**, **Russia**, and **Türkiye**
