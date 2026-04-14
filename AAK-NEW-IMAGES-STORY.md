@@ -8,7 +8,7 @@
 
 This file is the narrative bridge between raw asset intake and meaningful publication context.
 
-It does two jobs together:
+It serves two functions:
 
 1. Tells the author-centered visual story in a curated sequence.
 2. Guarantees repository-wide usage coverage by indexing all newly imported assets below.
@@ -16,6 +16,7 @@ It does two jobs together:
 ## The Author Story Through Visual Context
 
 Aliyar Fakhran's story is not just a timeline of postings. It is a visual arc from identity, to state service, to border diplomacy, to intergenerational memory. The images are used here as contextual anchors so readers can move through that arc with continuity.
+Aliyar Fakhran's story is not just a timeline of postings. It is a visual arc from identity to state service, border diplomacy, and intergenerational memory. The images are used here as contextual anchors so readers can move through that arc with continuity.
 
 ### 1) Identity and title architecture
 
@@ -24,36 +25,44 @@ The beginning is semantic and political: how one person can carry a full adminis
 ![Mirza Agha Khan Mumtahen-ul-Mulk - Name and Title Context](images/Kargozar-Titles.webp)
 
 This frame complements the naming analysis in [Aliyar-Fakhran-EN.md](Aliyar-Fakhran-EN.md) and [Aliyar-Fakhran-FA.md](Aliyar-Fakhran-FA.md): Mirza, Khan, Mumtahen-ul-Mulk, Aliyar, Fakhran.
+This frame complements the naming analysis in [Aliyar-Fakhran-EN.md](Aliyar-Fakhran-EN.md) and [Aliyar-Fakhran-FA.md](Aliyar-Fakhran-FA.md): Mirza, Khan, Mumtahen-ul-Mulk, Aliyar, and Fakhran.
 
 ### 2) The transition state: Qajar to Pahlavi
 
 The second layer is historical pressure. The author biography lives inside a regime transition, not outside it.
+The second layer is historical pressure. The biography lives within a regime transition, not outside it.
 
 ![Qajar to Pahlavi Transition Context](images/Qajar-vs-Pahlavi-Era.webp)
 ![Reza Shah Reform Era Context](images/Ali-Yar-Fakhran-Reza-Shah-Era.webp)
 
 These visuals support the reform narrative, title collapse, and bureaucratic restructuring discussed in the main biography files.
+These visuals support the reform narrative, title collapse, and bureaucratic restructuring discussed in the core biography files.
 
 ### 3) Formation: education and administrative capability
 
 Before becoming a diplomatic operator, Aliyar had to be shaped by institutions that produced modern statecraft.
+Before becoming a diplomatic operator, Aliyar was shaped by institutions that produced modern statecraft.
 
 ![Dar al-Fonun as Foundational Education Context](images/Ali-Yar-Fakhran-Dar-Al-Fonun.webp)
 
 This image complements the argument that his later posts were built on educational and linguistic preparation.
+This image supports the argument that his later posts were built on educational and linguistic preparation.
 
 ### 4) The Kargozar function: governance in contested zones
 
 The author's office was not symbolic. It was operational and legal.
+The office was not symbolic. It was operational and legal.
 
 ![Governor Role in Bojnourd Context](images/Ali-Yar-Fakhran-Bujnurd-Governor.webp)
 ![Office Service Context](images/Ali-Yar-Fakhran-Office.webp)
 
 Together, these images map to the governance role: legal protection, administrative enforcement, and center-periphery state presence.
+Together, these images map the governance role: legal protection, administrative enforcement, and center-periphery state presence.
 
 ### 5) Diplomatic theater and external legitimacy
 
 Aliyar's trajectory into Russian and Caucasus missions is visualized as ceremony plus hard-state representation.
+Aliyar's trajectory into Russian and Caucasus missions is presented as both ceremonial and hard-state representation.
 
 ![Service in Russia Context](images/Ali-Yar-Fakhran-Russia.webp)
 ![Petersburg Embassy Context](images/Ali-Yar-Fakhran-Petersburg-Embassy.webp)
@@ -64,6 +73,7 @@ These assets complement the chapter sections on Batumi, Tbilisi, St. Petersburg,
 ### 6) Honors and recognition layer
 
 The medal imagery should be treated as visual context and documentary support direction, not standalone proof claims.
+The medal imagery should be treated as visual context and documentary support direction, not as standalone proof.
 
 ![Lion and Sun Medal Context](images/Ali-Yar-Fakhran-Lion-Sun-Medal.webp)
 ![Spain Honor Period Context](images/Ali-Yar-Fakhran-Full-Spain.webp)
