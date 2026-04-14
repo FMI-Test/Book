@@ -34,8 +34,9 @@
 
 ## International/Farsi
 - [پیک نت خط و ربطشو از کجا میگره شوری یا کاگب یا یه سری وطن. فروش مزدودور حمهوری اسلامی من چندیدن سال](https://www.perplexity.ai/search/pykh-nt-kht-w-rbtshw-z-khj-myg-LGK49mLbSYi5Rhuadc6j6A)
+- [چرا تذکرة‌الاولیاء تصحیح دکتر شفیعی کدکنی متفاوت است؟](https://www.independentpersian.com/node/32346/%D9%81%D8%B1%D9%87%D9%86%DA%AF-%D9%88-%D9%87%D9%86%D8%B1/%DA%A9%D8%AA%D8%A7%D8%A8/%DA%86%D8%B1%D8%A7-%D8%AA%D8%B0%DA%A9%D8%B1%D8%A9%E2%80%8C%D8%A7%D9%84%D8%A7%D9%88%D9%84%DB%8C%D8%A7%D8%A1-%D8%AA%D8%B5%D8%AD%DB%8C%D8%AD-%D8%AF%DA%A9%D8%AA%D8%B1-%D8%B4%D9%81%DB%8C%D8%B9%DB%8C-%DA%A9%D8%AF%DA%A9%D9%86%DB%8C-%D9%85%D8%AA%D9%81%D8%A7%D9%88%D8%AA-%D8%A7%D8%B3%D8%AA%D8%9F)
 
 ---
 **Archive Date:** April 13, 2026  
 **Source:** Perplexity.ai Research History  
-**Total Links:** 20
+**Total Links:** 21
