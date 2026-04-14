@@ -92,6 +92,9 @@ For the diplomatic-history module and archive workflow, see:
 - [`Parthenogenesis-and-the-Nativity.md`](Parthenogenesis-and-the-Nativity.md) — a personal reflection on miracle narratives, earthly causality, and scientific possibility
 - [`Not-Anger.md`](Not-Anger.md) — institutional misnaming, dignity, and refusal
 - [`Baede-Az-To.md`](Baede-Az-To.md) — grief, fracture, and survival through art
+- [`Repo-Sapiens-Synthesis.md`](Repo-Sapiens-Synthesis.md) — comparative synthesis between this repo's systems narrative and Harari's civilizational model
+- [`AK-Final-Synthesis.md`](AK-Final-Synthesis.md) — one-page final doctrine combining Book, Sapiens, and parent portfolio operations
+- [`AK-Final-Synthesis-FA.md`](AK-Final-Synthesis-FA.md) — Persian one-page final doctrine companion
 
 ## Repository Hygiene
 
