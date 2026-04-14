@@ -1,0 +1,2 @@
+# Optimizing Optimization
+Peing under the table skip smoking skip deny ignore curse etc . all are optimizatios to lable a bug as shit so vague so vast can be everything and openended depnds on prespective which is a sharedmodel shit in boa means one thing than dod than chse thenan morgan stanley this shit is cxo shit that is dir shit that is shittiing hr and leagal shit and shareholders rights and this shit and that shit
