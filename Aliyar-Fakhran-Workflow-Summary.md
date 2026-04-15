@@ -47,6 +47,13 @@ This file tracks the working research flow for public historical documentation o
 - Hero set finalized (8 assets) for cross-channel consistency
 - Caption set integrated into `Aliyar-Fakhran-EN.md` and `Aliyar-Fakhran-FA.md`
 
+### AAK image-language and media sync (2026-04-14)
+
+- `AAK-NEW-IMAGES-STORY.md` was redone as the narrative and catch-all image coverage layer
+- Visual-language rules were made explicit so image order can drive later soundtrack and video work
+- Music, narration, and video handoff guidance was synced into `AAK-VISUAL-OPS.md` and `Aliyar-Fakhran-Media-Collateral.md`
+- Placeholder `media/audio/`, `media/music/`, and `media/videos/` directories were added for the next phase
+
 ### TODO
 
 - [ ] Send archive requests to **Spain**, **Iran**, **Russia**, and **Türkiye**
@@ -66,6 +73,7 @@ This file tracks the working research flow for public historical documentation o
 - [x] Media collateral and sync policy documented
 - [ ] Publication rights and archive response tracking
 - [ ] Final FA/EN editorial convergence on late memoir sections
+- [ ] Build the first soundtrack and narration placeholders for the AAK media rollout
 
 ### DONE
 

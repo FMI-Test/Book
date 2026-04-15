@@ -98,6 +98,23 @@ Use **original, licensed, or royalty-safe** audio only. Do not rely on copyright
 - Keep narration stems under `media/audio/`
 - Publish shorts or reels first as **private/unlisted**, then review
 
+### Image-language handoff
+
+- Let the image sequence define the soundtrack mood changes.
+- Score transitions between identity, governance, diplomacy, memory, and lineage instead of scoring single pictures in isolation.
+- Keep narration short wherever an image already carries the point on its own.
+- Treat quarantined visuals as ineligible for soundtrack briefing or edit timelines until released.
+
+### Video catch-all rule
+
+When the project moves into full explanation mode, package the work as a video catch-all:
+
+1. open with the hero image set;
+2. add restrained soundtrack from `media/music/`;
+3. layer narration stems from `media/audio/`;
+4. export review copies to `media/videos/`;
+5. preserve evidence-tag caution language in captions and voiceover.
+
 ---
 
 ## 5) Channels and publication environment
@@ -208,12 +225,14 @@ This is the same design logic behind scalable services: do not repeat a solved p
 ## 10) Next publication steps
 
 ### Immediate
+
 - [ ] Fill final channel URLs after creation
-- [ ] Add soundtrack placeholders under `media/music/`
+- [x] Add placeholder media directories under `media/music/`, `media/audio/`, and `media/videos/`
 - [ ] Add blog slug and landing page outline for `tomwiz.io/aliyar-fakhran`
 - [ ] Add citation-backed archive results into FA/EN pages
 
 ### After archive confirmation
+
 - [ ] Publish one canonical biography page
 - [ ] Publish a short YouTube history reel
 - [ ] Publish a newsletter issue with the timeline and honors map

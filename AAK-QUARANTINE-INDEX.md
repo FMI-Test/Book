@@ -8,6 +8,8 @@ Purpose: Hold low-confidence or non-biography assets outside the public-history 
 - Keep items here if origin is unclear, context is not Aliyar Fakhran, or naming is noise-heavy.
 - Do not use quarantined items in public biography pages.
 - Promote only after source/provenance is documented.
+- Quarantined items may still appear in the full intake index for repository discoverability, but that catch-all listing does not authorize public use.
+- Exclude quarantined items from soundtrack selection, narration planning, and video assembly until released.
 
 ## Quarantined Assets (Initial Pass)
 
@@ -46,5 +48,6 @@ Quarantine registry was reviewed during the all-root AAK auto pass.
 
 - Existing hold set remains in place; no assets were promoted in this pass.
 - Quarantine policy language remains aligned with the visual evidence tag workflow.
+- Catch-all image indexing remains separate from public-use eligibility.
 
 **AAK QUARANTINE AUTO SYNC:** Completed with no promotion changes.

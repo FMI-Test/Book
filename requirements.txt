@@ -1,10 +1,10 @@
 # Core automation dependency
-PyYAML>=6.0
+PyYAML>=6.0.2
 
 # Optional Google integrations used by `src/gemini_yt_creator.py`
 # and `src/youtube_uploader.py`
-google-generativeai>=0.8.0
-google-api-python-client>=2.0.0
-google-auth>=2.0.0
-google-auth-oauthlib>=1.2.0
+google-generativeai>=0.8.5
+google-api-python-client>=2.169.0
+google-auth>=2.39.0
+google-auth-oauthlib>=1.2.2
 google-auth-httplib2>=0.2.0

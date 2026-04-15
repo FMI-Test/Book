@@ -1,7 +1,7 @@
 # AAK Visual Ops Registry
 
 Date: 2026-04-13
-Scope: Curated chapter-level visual set for Aliyar Fakhran publication flow.
+Scope: Curated chapter-level visual set for Aliyar Fakhran publication flow, anchored as the image-first stage of the broader media pipeline.
 
 ## Evidence Tags
 
@@ -9,6 +9,14 @@ Scope: Curated chapter-level visual set for Aliyar Fakhran publication flow.
 - `inferred`: historically plausible representation tied to known timeline/person/place.
 - `reconstructed`: explicit AI/context reconstruction used for narrative continuity.
 - `symbolic`: thematic support image, not documentary evidence.
+
+## Visual Language Rules
+
+- Treat promoted images as argument-bearing assets, not decoration.
+- Sequence images so they move from identity, to office, to diplomacy, to memory, to lineage.
+- Let captions clarify role and caution level; do not let captions overclaim what the evidence tag does not support.
+- Keep the public visual arc clean enough that later soundtrack and video work can inherit it without re-sorting the whole intake.
+- Anything that cannot carry biography, chronology, or memory should stay in quarantine or remain in the catch-all index only.
 
 ## Curated Promotion Set (30 assets)
 
@@ -115,6 +123,17 @@ Required before external publication claim hardening:
 2. Attach decree or registry citation metadata.
 3. Keep caption language as "context reference" unless confirmed.
 
+## Music and Video Handoff
+
+The visual registry is the control surface for the next media layers.
+
+1. Music selection should follow the visual chapter order, not the other way around.
+2. Narration should explain only what the current evidence tags can support.
+3. Video assembly should inherit the hero set, chapter captions, and provenance cautions from this file.
+4. The intended assembly path is `media/music/` for score, `media/audio/` for narration stems, and `media/videos/` for final catch-all outputs.
+
+Operationally, this means the image registry decides what is eligible for full-explanation video packaging.
+
 ## 2026-04-14 Automation Sync
 
 Visual ops registry was rechecked during the all-root AAK auto workflow.
@@ -124,5 +143,6 @@ Visual ops registry was rechecked during the all-root AAK auto workflow.
 - Curated promotion set and evidence-tag taxonomy remain unchanged.
 - Provenance requirements for Russia/Caucasus and Spain chapters remain enforced.
 - No confidence-tag promotions were made in this pass.
+- Image-language sequencing and media-handoff guidance were added without changing evidence levels.
 
 **AAK VISUAL OPS AUTO SYNC:** Completed with policy continuity preserved.

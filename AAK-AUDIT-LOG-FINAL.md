@@ -1,5 +1,3 @@
-> **Reading Level:** 🟠 Advanced  |  **Grade:** 10  |  **Words:** 138
-
 # AAK Audit Log (Final)
 
 ![AAK Audit Log (Final)](images/REPOSITORY-OPEN-GRAPH-TEMPLATE.webp)
@@ -7,7 +5,6 @@
 **Date:** 2026-03-11  
 **Repository:** `FMI-Test/Book`  
 **Branch:** `Master`
-
 
 ## Scope
 
@@ -21,7 +18,7 @@ Finalization pass for README consistency, naming hygiene, and documentation stru
 2. Naming references inside advanced README content were inconsistent.
 3. Main `README.md` had mixed layers (standard guidance + onboarding extension), but remained structurally valid.
 
-## Actions Completed
+## README Actions Completed
 
 1. Restored `README-SIMPLE.md` as the concise beginner variant.
 2. Standardized advanced variant naming to `README-COMPLICATED.md`.
@@ -89,7 +86,7 @@ User-provided Persian content was ingested for log tracking under AAK sync workf
 
 Repository image intake was normalized under the AAK review workflow.
 
-### Actions Completed
+### Image Consolidation Actions Completed
 
 1. Consolidated all assets from `img.new/` into the canonical `images/` directory.
 2. Removed legacy `img.new/` after transfer.
@@ -106,7 +103,7 @@ Repository image intake was normalized under the AAK review workflow.
 
 Post-consolidation context pass completed to ensure imported assets are documented and usable from markdown.
 
-### Actions Completed
+### Full Image Context Actions Completed
 
 1. Created `AAK-NEW-IMAGES-STORY.md` as the intake narrative and index for newly migrated assets.
 2. Added explicit markdown references for all previously unreferenced images in the canonical `images/` directory.
@@ -123,15 +120,34 @@ Post-consolidation context pass completed to ensure imported assets are document
 
 All-root AAK automation pass executed in `auto` mode for markdown review and tracker expansion.
 
-### Actions Completed
+### Auto Review Actions Completed
 
 1. Reviewed all root `AAK-*.md` documents for typo/grammar hygiene and structural consistency.
 2. Expanded AAK operational trackers for audit, quarantine, and visual-ops traceability.
 3. Registered the reusable workflow skill at `.github/skills/aak-md-review-pr-automation/SKILL.md` for repeatable automation.
 
-### Scope Note
+### Auto Review Scope Note
 
 - Review was constrained to clarity and correctness without changing historical claims.
 - No destructive repository operations were performed.
 
 **AAK AUTO LOG SYNC:** Completed for all-root AAK review automation and tracker updates.
+
+## 2026-04-14 Image Story and Media Handoff Addendum
+
+Image-story documentation was redone to better explain curation logic and the next media phase.
+
+### Media Handoff Actions Completed
+
+1. Rewrote `AAK-NEW-IMAGES-STORY.md` to remove duplicated prose and clarify the visual narrative arc.
+2. Added explicit guidance that images operate as a language with their own sequencing and caution logic.
+3. Synced the operational handoff from images to music, narration, and video packaging across AAK tracking files.
+4. Refreshed shared dependency minimums in `requirements.txt` for the current Python automation stack.
+5. Created placeholder media directories for `media/audio/`, `media/music/`, and `media/videos/`.
+
+### Media Handoff Scope Note
+
+- The full intake index remains the catch-all discoverability layer for the image repository.
+- Public-use eligibility still depends on visual-ops curation and quarantine status.
+
+**AAK MEDIA HANDOFF SYNC:** Completed for image-language documentation, media-path clarity, and dependency refresh.

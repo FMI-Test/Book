@@ -1,5 +1,3 @@
-> **Reading Level:** 🟠 Advanced  |  **Grade:** 10  |  **Words:** 950
-
 # AAK Author Visual Context Story
 
 **Date:** 2026-04-13
@@ -8,15 +6,32 @@
 
 This file is the narrative bridge between raw asset intake and meaningful publication context.
 
-It serves two functions:
+It serves four functions:
 
 1. Tells the author-centered visual story in a curated sequence.
-2. Guarantees repository-wide usage coverage by indexing all newly imported assets below.
+2. Explains how the image set works as a language, not just as decoration.
+3. Defines the handoff from image selection to music, narration, and video assembly.
+4. Guarantees repository-wide catch-all coverage by indexing the image intake below.
 
 ## The Author Story Through Visual Context
 
-Aliyar Fakhran's story is not just a timeline of postings. It is a visual arc from identity, to state service, to border diplomacy, to intergenerational memory. The images are used here as contextual anchors so readers can move through that arc with continuity.
-Aliyar Fakhran's story is not just a timeline of postings. It is a visual arc from identity to state service, border diplomacy, and intergenerational memory. The images are used here as contextual anchors so readers can move through that arc with continuity.
+Aliyar Fakhran's story is not just a list of postings. It is a visual arc from identity to office, from office to diplomacy, and from diplomacy to inheritance. The images here are not filler. They are contextual anchors that let the reader move through that arc with continuity.
+
+The editorial rule for this pass is simple: every promoted image should either explain a historical role, frame a transition, preserve a memory, or carry lineage forward. If it does not do one of those things, it belongs in quarantine or in the catch-all intake layer rather than in the public-facing biography sequence.
+
+## Images Have Their Own Language
+
+Images speak before the caption does. They establish rank, atmosphere, distance, dignity, pressure, and memory in a fraction of a second.
+
+For AAK, that visual language is built from five recurring signals:
+
+1. Title and naming signals: dress, posture, insignia, and document-facing composition.
+2. State signals: office interiors, protocol framing, administrative furniture, and center-periphery authority.
+3. Diplomatic signals: embassy facades, ceremony, border-city atmosphere, and external legitimacy.
+4. Memory signals: domestic ritual, calligraphy, dinner order, villa space, and family continuity.
+5. Lineage signals: trees, descendants, and intergenerational inheritance.
+
+This means the image set already contains a grammar. The order of images determines whether the story feels bureaucratic, diplomatic, intimate, or memorial. The image story therefore has to be curated like prose, not dumped like a folder listing.
 
 ### 1) Identity and title architecture
 
@@ -24,61 +39,52 @@ The beginning is semantic and political: how one person can carry a full adminis
 
 ![Mirza Agha Khan Mumtahen-ul-Mulk - Name and Title Context](images/Kargozar-Titles.webp)
 
-This frame complements the naming analysis in [Aliyar-Fakhran-EN.md](Aliyar-Fakhran-EN.md) and [Aliyar-Fakhran-FA.md](Aliyar-Fakhran-FA.md): Mirza, Khan, Mumtahen-ul-Mulk, Aliyar, Fakhran.
-This frame complements the naming analysis in [Aliyar-Fakhran-EN.md](Aliyar-Fakhran-EN.md) and [Aliyar-Fakhran-FA.md](Aliyar-Fakhran-FA.md): Mirza, Khan, Mumtahen-ul-Mulk, Aliyar, and Fakhran.
+This frame complements the naming analysis in [Aliyar-Fakhran-EN.md](Aliyar-Fakhran-EN.md) and [Aliyar-Fakhran-FA.md](Aliyar-Fakhran-FA.md): Mirza, Khan, Mumtahen-ul-Mulk, Aliyar, and Fakhran. It gives the title stack a visual body so the opening sections read as social architecture rather than as a glossary only.
 
 ### 2) The transition state: Qajar to Pahlavi
 
-The second layer is historical pressure. The author biography lives inside a regime transition, not outside it.
 The second layer is historical pressure. The biography lives within a regime transition, not outside it.
 
 ![Qajar to Pahlavi Transition Context](images/Qajar-vs-Pahlavi-Era.webp)
 ![Reza Shah Reform Era Context](images/Ali-Yar-Fakhran-Reza-Shah-Era.webp)
 
-These visuals support the reform narrative, title collapse, and bureaucratic restructuring discussed in the main biography files.
-These visuals support the reform narrative, title collapse, and bureaucratic restructuring discussed in the core biography files.
+These visuals support the reform narrative, title collapse, and bureaucratic restructuring discussed in the core biography files. They are the pressure layer of the story: the environment that changes what titles mean, how office operates, and what public legitimacy looks like.
 
 ### 3) Formation: education and administrative capability
 
-Before becoming a diplomatic operator, Aliyar had to be shaped by institutions that produced modern statecraft.
 Before becoming a diplomatic operator, Aliyar was shaped by institutions that produced modern statecraft.
 
 ![Dar al-Fonun as Foundational Education Context](images/Ali-Yar-Fakhran-Dar-Al-Fonun.webp)
 
-This image complements the argument that his later posts were built on educational and linguistic preparation.
-This image supports the argument that his later posts were built on educational and linguistic preparation.
+This image supports the argument that his later posts were built on educational and linguistic preparation. It lets the reader see formation as infrastructure, not as a footnote.
 
 ### 4) The Kargozar function: governance in contested zones
 
-The author's office was not symbolic. It was operational and legal.
 The office was not symbolic. It was operational and legal.
 
 ![Governor Role in Bojnourd Context](images/Ali-Yar-Fakhran-Bujnurd-Governor.webp)
 ![Office Service Context](images/Ali-Yar-Fakhran-Office.webp)
 
-Together, these images map to the governance role: legal protection, administrative enforcement, and center-periphery state presence.
-Together, these images map the governance role: legal protection, administrative enforcement, and center-periphery state presence.
+Together, these images map the governance role: legal protection, administrative enforcement, and center-periphery state presence. They are the clearest visual answer to the question of what a Kargozar actually did.
 
 ### 5) Diplomatic theater and external legitimacy
 
-Aliyar's trajectory into Russian and Caucasus missions is visualized as ceremony plus hard-state representation.
 Aliyar's trajectory into Russian and Caucasus missions is presented as both ceremonial and hard-state representation.
 
 ![Service in Russia Context](images/Ali-Yar-Fakhran-Russia.webp)
 ![Petersburg Embassy Context](images/Ali-Yar-Fakhran-Petersburg-Embassy.webp)
 ![Leningrad Ambassador Context](images/Ali-Yar-Fakhran-Leningrad-Ambassador.webp)
 
-These assets complement the chapter sections on Batumi, Tbilisi, St. Petersburg, and Leningrad.
+These assets complement the chapter sections on Batumi, Tbilisi, St. Petersburg, and Leningrad. They shift the story from provincial authority to outward-facing legitimacy and show how protocol becomes part of biography.
 
 ### 6) Honors and recognition layer
 
-The medal imagery should be treated as visual context and documentary support direction, not standalone proof claims.
 The medal imagery should be treated as visual context and documentary support direction, not as standalone proof.
 
 ![Lion and Sun Medal Context](images/Ali-Yar-Fakhran-Lion-Sun-Medal.webp)
 ![Spain Honor Period Context](images/Ali-Yar-Fakhran-Full-Spain.webp)
 
-This supports the honors timeline while preserving archival caution language used elsewhere in the project.
+This supports the honors timeline while preserving archival caution language used elsewhere in the project. In the visual language of the repo, honors images are not verdicts. They are directional markers that tell the reader where the archive must later become explicit.
 
 ### 7) Memory, inheritance, and family continuity
 
@@ -90,7 +96,36 @@ The final movement is intergenerational: from state actor to lineage memory.
 ![Genealogy Context](images/Ali-Yar-Fakhran-Genealogy-Tree.webp)
 ![Family Tree Context](images/FRIENDS-N-FAMILY-TREE.webp)
 
-This closes the author story as a continuity system: language, discipline, public service, memory, and descendants.
+This closes the author story as a continuity system: language, discipline, public service, memory, and descendants. The biography stops being only about one officeholder and becomes a continuity system carried by family memory.
+
+### 8) What the image layer does before music or video
+
+The image layer establishes the silent version of the work.
+
+- It decides pace through sequence.
+- It decides tone through contrast.
+- It decides trust through evidence tags and quarantine boundaries.
+- It decides whether the reader experiences the material as archive, memoir, or cinematic reconstruction.
+
+That is why the image pass comes first. Music should score the image logic, not replace it, and video should sequence the image logic, not flatten it.
+
+### 9) Next media: music, narration, and the video catch-all
+
+The next expansion is not more random imagery. It is media layering.
+
+1. Images provide the visual grammar.
+2. Music provides emotional continuity and pacing.
+3. Narration provides argument and chronology.
+4. Video provides the catch-all packaging layer for reels, shorts, and long-form explainers.
+
+In practical repo terms, the path is:
+
+- curated image selection in `AAK-VISUAL-OPS.md`
+- public-use boundary and hold logic in `AAK-QUARANTINE-INDEX.md`
+- soundtrack and narration direction in `Aliyar-Fakhran-Media-Collateral.md`
+- final assembly path through `media/music/`, `media/audio/`, and `media/videos/`
+
+The catch-all video layer should be treated as full explanation mode: image sequence, title cards, short voice segments, low-risk soundtrack, and archival caution language whenever evidence remains inferred or reconstructed.
 
 ## AAK TODOs (Gap Check)
 
@@ -102,6 +137,8 @@ This closes the author story as a continuity system: language, discipline, publi
 6. [x] Created an 8-image hero set for cross-channel consistency in `AAK-VISUAL-OPS.md`.
 7. [x] Added provenance notes for sensitive Russia/Spain scenes in `AAK-VISUAL-OPS.md`.
 8. [x] Synced this narrative layer into `Aliyar-Fakhran-Workflow-Summary.md` as the official AAK visual arc.
+9. [x] Documented the image-language rule set so curation decisions can be explained, not just executed.
+10. [x] Documented the handoff from image language to music, narration, and video packaging.
 
 ### AAK Completion Artifacts
 
@@ -109,13 +146,14 @@ This closes the author story as a continuity system: language, discipline, publi
 - `AAK-QUARANTINE-INDEX.md` (low-confidence and non-biographical hold list)
 - `Aliyar-Fakhran-EN.md` and `Aliyar-Fakhran-FA.md` (caption set integration)
 - `Aliyar-Fakhran-Workflow-Summary.md` (official visual arc sync)
+- `Aliyar-Fakhran-Media-Collateral.md` (music direction, narration, and channel packaging)
 
 ## Intake Coverage
 
-- Total assets in images: 988
-- Assets already referenced in other markdown files before this story pass: 85
-- Newly contextualized by this file: 903
-- Current repository markdown usage coverage: 100%
+- Current files under `images/`: 970
+- This file remains the catch-all markdown coverage layer for repository image discoverability.
+- Curated publication use is still controlled by `AAK-VISUAL-OPS.md` and `AAK-QUARANTINE-INDEX.md`.
+- Full index coverage below does not imply public-use approval, provenance confirmation, or publication priority.
 
 ## Full Intake Index (Coverage Layer)
 
