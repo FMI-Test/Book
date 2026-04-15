@@ -10,7 +10,17 @@ import os
 import time
 import argparse
 
-def generate_video(image_path, output_dir="media/videos"):
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+REPO_ROOT = os.path.abspath(os.path.join(SCRIPT_DIR, ".."))
+
+
+def resolve_repo_path(path_value):
+    if os.path.isabs(path_value):
+        return path_value
+    return os.path.join(REPO_ROOT, path_value.lstrip("./"))
+
+
+def generate_video(image_path, output_dir=os.path.join(REPO_ROOT, "media", "videos")):
     os.makedirs(output_dir, exist_ok=True)
     
     # Extract base name
@@ -34,18 +44,21 @@ def main():
     parser.add_argument("-i", "--images_dir", default="images", help="Directory containing source images.")
     parser.add_argument("-o", "--output_dir", default="media/videos", help="Output directory for generated videos.")
     args = parser.parse_args()
-    
-    if not os.path.exists(args.images_dir):
-        print(f"Error: {args.images_dir} does not exist.")
+
+    images_dir = resolve_repo_path(args.images_dir)
+    output_dir = resolve_repo_path(args.output_dir)
+
+    if not os.path.exists(images_dir):
+        print(f"Error: {images_dir} does not exist.")
         return
-        
-    images = [f for f in os.listdir(args.images_dir) if f.endswith(".png") or f.endswith(".jpg")]
+
+    images = [f for f in os.listdir(images_dir) if f.endswith(".png") or f.endswith(".jpg")]
     print(f"Found {len(images)} images to process.")
-    
+
     for img in images:
-        generate_video(os.path.join(args.images_dir, img), args.output_dir)
-        
-    print(f"Video generation complete! Files saved to {args.output_dir}.")
+        generate_video(os.path.join(images_dir, img), output_dir)
+
+    print(f"Video generation complete! Files saved to {output_dir}.")
 
 if __name__ == "__main__":
     main()

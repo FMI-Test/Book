@@ -1,36 +1,67 @@
-# Nano Banana API - Image Generation Scripts
+# Automation Scripts
 
-This directory contains a standalone script `nano_banana_api.py` designed to manage local bulk and parallel generation of Nano Banana images based on `.yaml` or `::` delimited text files.
+This directory contains the repo's local automation tooling for image generation, video generation, metadata extraction, and upload workflows.
 
-## Prerequisites
+## Shared dependencies
 
-- Python 3.8+
-- PyYAML `pip install pyyaml`
-
-## Running the Script
-
-### Single Prompt Generation
-
-Execute a single prompt via the command line:
+Install the common Python dependencies from the repo root:
 
 ```bash
-python nano_banana_api.py --prompt "Prometheus on the rock" --output "../images"
+pip install -r requirements.txt
 ```
 
-### Multi Prompt via Text File (:: Delimited)
+### Optional secrets / credentials
+
+- `../.GEMINI_KEY` (or `GEMINI_API_KEY`) for Gemini asset generation
+- `../client_secret.json` for YouTube OAuth upload
+
+> Secrets stay outside the repo root by design.
+
+## Main scripts
+
+| Script | Purpose |
+| --- | --- |
+| `nano_banana_api.py` | Bulk or single image generation from prompt text or YAML |
+| `nano_banana.sh` | Shell wrapper for `nano_banana_api.py` |
+| `generate_yaml.py` | Convert `::` prompt lists into YAML |
+| `gemini_yt_creator.py` | Generate 16:9 Gemini/Imagen assets |
+| `gemini_yt_creator.sh` | Shell wrapper for Gemini asset generation |
+| `generate_videos_api.py` | Generate mock short-form videos from images |
+| `youtube_uploader.py` | Upload generated videos to YouTube with metadata |
+| `youtube_uploader.sh` | Shell wrapper for YouTube uploads |
+
+## Typical usage
+
+Run these commands from the **repo root**:
+
+### Single prompt generation
 
 ```bash
-python nano_banana_api.py --file "../Nano-Banana-Prompts-CP.md" --format "delimited"
+python src/nano_banana_api.py --prompt "Prometheus on the rock"
 ```
 
-### Multi Prompt via YAML File
+### Batch generation from a `::` markdown file
 
 ```bash
-./nano_banana.sh --file "../inputs/nano-prompts.yml" --format "yaml"
+./src/nano_banana.sh --file "Nano-Banana-Prompts-CP.md" --format delimited --workers 10
 ```
 
-## How It Works
+### Batch generation from the canonical YAML file
 
-1. **Parsing**: It reads the file and grabs the prompts. In `.md` files like `Nano-Banana-Prompts-CP.md`, it grabs the text before the `::` delimiter as the input name/prompt.
-2. **Parallel Execution**: Uses Python's `ThreadPoolExecutor` to speed up remote/local AI image generations in parallel.
-3. **Storage & Formatting**: The tool saves generated files correctly mapping their filenames to the original prompt, transforming them into Capital-Camel-Case with dashes (e.g. `The-Test-Case.png`). It also handles renaming UUID-generated output files from APIs automatically. They are placed inside your chosen `--output` directory (default: `../images/`).
+```bash
+./src/nano_banana.sh --file "inputs/nano-prompts-full.yml" --format yaml --section Fakhran
+```
+
+### Gemini / YouTube helpers
+
+```bash
+python src/gemini_yt_creator.py --help
+python src/youtube_uploader.py --help
+```
+
+## Notes
+
+1. Paths are resolved from the repo root so the commands behave consistently.
+2. Existing outputs are skipped unless you pass `--overwrite`.
+3. The wrappers expose the most common options for day-to-day runs.
+

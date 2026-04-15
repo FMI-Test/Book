@@ -6,3 +6,6 @@ images/
 *.key
 .DS_Store
 token.json\n*.mp4\n
+# local private/legal working notes
+private/
+

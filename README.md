@@ -2,7 +2,7 @@
 
 # Book Writing Style
 
-![Book Writing Style](images/COVER.png)
+![Book Writing Style](images/COVER.webp)
 
 This repository preserves raw multilingual drafts that may contain cipher-like phrasing, mixed tone, and layered context. The editorial goal is to preserve the original signal while publishing readable, audience-aware versions.
 
@@ -50,6 +50,12 @@ Each transformed chapter should be published in four sections, in this order:
 
 ## Tools & Scripts
 
+Install shared Python dependencies before using the automation tooling:
+
+```bash
+pip install -r requirements.txt
+```
+
 All automation scripts live in the `src/` directory:
 
 | Script | Purpose |
@@ -64,6 +70,27 @@ All automation scripts live in the `src/` directory:
 | `src/youtube_uploader.py` | Bulk upload videos to YouTube |
 
 > See [src/README.md](src/README.md) for detailed usage and [Quick-Start.md](Quick-Start.md) for setup instructions.
+
+## Aliyar Fakhran Research Index
+
+For the diplomatic-history module and archive workflow, see:
+
+- [`Aliyar-Fakhran-FA.md`](Aliyar-Fakhran-FA.md) — Persian biography
+- [`Aliyar-Fakhran-EN.md`](Aliyar-Fakhran-EN.md) — English biography
+- [`Aliyar-Fakhran-Comparative-Context-FA.md`](Aliyar-Fakhran-Comparative-Context-FA.md) — Persian comparative note on concentrated power, security, and historical memory
+- [`Aliyar-Fakhran-Comparative-Context-EN.md`](Aliyar-Fakhran-Comparative-Context-EN.md) — English companion note for the comparative module
+- [`Fakhran-Dynasty.md`](Fakhran-Dynasty.md) — structured dynasty, family-tree, and forward/backward research map
+- [`Aliyar-Fakhran-Todo.md`](Aliyar-Fakhran-Todo.md) — ongoing research notes
+- [`Aliyar-Fakhran-Official-Request-Kit.md`](Aliyar-Fakhran-Official-Request-Kit.md) — official archive request letters
+- [`Aliyar-Fakhran-Workflow-Summary.md`](Aliyar-Fakhran-Workflow-Summary.md) — TODO / WIP / DONE tracker and multilingual map
+- [`Aliyar-Fakhran-Media-Collateral.md`](Aliyar-Fakhran-Media-Collateral.md) — media usage index, sync rules, tooling notes, and publication plan
+
+## Selected Reflection Modules
+
+- [`Evolution-Sexual-Dimorphism.md`](Evolution-Sexual-Dimorphism.md) — biological variance, reproduction, and evolutionary framing
+- [`Parthenogenesis-and-the-Nativity.md`](Parthenogenesis-and-the-Nativity.md) — a personal reflection on miracle narratives, earthly causality, and scientific possibility
+- [`Not-Anger.md`](Not-Anger.md) — institutional misnaming, dignity, and refusal
+- [`Baede-Az-To.md`](Baede-Az-To.md) — grief, fracture, and survival through art
 
 ## Repository Hygiene
 

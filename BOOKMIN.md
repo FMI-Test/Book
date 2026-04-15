@@ -2,7 +2,7 @@
 
 # BookMin
 
-![BookMin](images/TRANSFORMATIONS.png)
+![BookMin](images/TRANSFORMATIONS.webp)
 
 Three compact versions of Prince of Persia in English and Persian.
 
