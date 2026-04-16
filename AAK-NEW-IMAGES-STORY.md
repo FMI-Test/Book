@@ -148,6 +148,18 @@ The catch-all video layer should be treated as full explanation mode: image sequ
 - `Aliyar-Fakhran-Workflow-Summary.md` (official visual arc sync)
 - `Aliyar-Fakhran-Media-Collateral.md` (music direction, narration, and channel packaging)
 
+## 2026-04-14 Automation Sync
+
+Image-story documentation was validated during the all-root AAK automation pass.
+
+### Outcome
+
+- Full intake index and editorial narrative arc remain unchanged.
+- Cross-file handoff guidance to music, narration, and video layers was rechecked and remains accurate.
+- Visual language rules and the TODO checklist remain aligned with the current AAK trackers.
+
+**AAK STORY AUTO SYNC:** Completed with narrative continuity preserved.
+
 ## Intake Coverage
 
 - Current files under `images/`: 970

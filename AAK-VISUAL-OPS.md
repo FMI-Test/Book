@@ -38,7 +38,6 @@ Scope: Curated chapter-level visual set for Aliyar Fakhran publication flow, anc
 | `images/Ali-Yar-Fakhran-Full-Spain.webp` | Honors chapter | Spain-linked honor period representation | historical order context | Spain | Medium | symbolic |
 | `images/La-Orden-de-Isabel-la-Catolica.webp` | Honors appendix | Order of Isabella the Catholic reference plate | order reference | Spain | Medium | symbolic |
 | `images/La-Orden-de-Isabel-la-Catolica-Banner.webp` | Honors appendix | Order insignia banner reference | order reference | Spain | Medium | symbolic |
-| `images/La-Orden-de-Isabel-la-Católica.webp` | Honors appendix | Alternate file variant pending normalization | order reference | Spain | Medium | symbolic |
 | `images/Ali-Yar-Fakhran-Calligraphy-Wall.webp` | Memory chapter | Calligraphy memory and discipline inheritance | memoir context | Iran | Medium | reconstructed |
 | `images/Ali-Yar-Fakhran-Dinner-Protocol.webp` | Memory chapter | Dinner protocol and hierarchy ritual | memoir context | Iran | Medium | reconstructed |
 | `images/Ali-Yar-Fakhran-Bamdad-Heritage.webp` | Legacy chapter | Intergenerational continuity and oral legacy | memoir context | Iran | Medium | reconstructed |
