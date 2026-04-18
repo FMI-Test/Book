@@ -1,0 +1,3 @@
+# Optimizing Optimization
+
+Peeing under the table, skipping rules, smoking, denial, ignoring, cursing, and similar behavior are often treated as "optimizations" to relabel a bug as something vague. The term becomes so broad and open-ended that it can mean anything, depending on perspective inside a shared model. In one context (for example, Bank of America), it means one thing; in another (DoD, CHS, or Morgan Stanley), it means something else. One group calls it executive-level "issue" management, another calls it director-level "issue" handling, and another pushes it to HR, legal, or shareholder-rights framing. This "optimization" label can become a catch-all that hides accountability.
