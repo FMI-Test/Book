@@ -1,6 +1,6 @@
 # AAK Audit Log (Final)
 
-![AAK Audit Log (Final)](images/REPOSITORY-OPEN-GRAPH-TEMPLATE.png)
+![AAK Audit Log (Final)](images/REPOSITORY-OPEN-GRAPH-TEMPLATE.webp)
 
 **Date:** 2026-04-14 (last update from all-root automation sync)  
 **Repository:** `FMI-Test/Book`  
@@ -169,3 +169,21 @@ Image-story documentation was redone to better explain curation logic and the ne
 - Public-use eligibility still depends on visual-ops curation and quarantine status.
 
 **AAK MEDIA HANDOFF SYNC:** Completed for image-language documentation, media-path clarity, and dependency refresh.
+
+## 2026-04-23 Image Integrity Fix Addendum
+
+User requested an all-image repair pass with commit, push, and PR delivery under the AAK workflow.
+
+### Image Fix Actions Completed
+
+1. Ran repository markdown image-link validation (`python3 test_images.py`) and captured two broken local references.
+2. Fixed `Aliyar-Fakhran-EN.md` image link from `images/Aliyar-Fakhran-Bamdad-Heritage.webp` to `images/Ali-Yar-Fakhran-Bamdad-Heritage.webp`.
+3. Fixed `AAK-AUDIT-LOG-FINAL.md` image link from `images/REPOSITORY-OPEN-GRAPH-TEMPLATE.png` to `images/REPOSITORY-OPEN-GRAPH-TEMPLATE.webp`.
+4. Re-ran image-link validation and confirmed no remaining broken local image references.
+
+### Outcome
+
+- All currently scanned markdown-local image references resolve successfully.
+- Changes are minimal, traceable, and limited to link-integrity repair.
+
+**AAK IMAGE INTEGRITY SYNC:** Completed for all detected broken image links and revalidation.
