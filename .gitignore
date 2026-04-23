@@ -1,6 +1,5 @@
 *.pyc
 __pycache__/
-images/
 .env
 *KEY
 *.key
