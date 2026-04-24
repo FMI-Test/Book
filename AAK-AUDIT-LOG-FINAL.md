@@ -169,3 +169,20 @@ Image-story documentation was redone to better explain curation logic and the ne
 - Public-use eligibility still depends on visual-ops curation and quarantine status.
 
 **AAK MEDIA HANDOFF SYNC:** Completed for image-language documentation, media-path clarity, and dependency refresh.
+
+## 2026-04-23 AAK Intake and Staging Addendum
+
+Current repository staging includes a large image intake and one input filename normalization event.
+
+### Intake Actions Logged
+
+1. Added a broad set of new assets under `images/` for downstream curation.
+2. Recorded input filename normalization from `inputs/ Caspian-Persian-Cusine-Catering.png` to `inputs/_Caspian-Persian-Cusine-Catering.png`.
+3. Preserved AAK policy boundary between intake/discoverability and public-use promotion.
+
+### Scope Note
+
+- This log entry records intake and naming traceability only.
+- Public-use eligibility for newly added assets remains governed by `AAK-QUARANTINE-INDEX.md` and `AAK-VISUAL-OPS.md`.
+
+**AAK INTAKE STAGING SYNC:** Logged for traceable commit/PR handoff.

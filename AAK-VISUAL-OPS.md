@@ -145,3 +145,20 @@ Visual ops registry was rechecked during the all-root AAK auto workflow.
 - Image-language sequencing and media-handoff guidance were added without changing evidence levels.
 
 **AAK VISUAL OPS AUTO SYNC:** Completed with policy continuity preserved.
+
+## 2026-04-23 Intake Classification Update
+
+Visual-ops review recognized new intake assets added to `images/`.
+
+### Outcome
+
+- Current curated promotion set remains unchanged.
+- No confidence-tag upgrades were applied to newly added assets in this pass.
+- New intake assets remain outside chapter promotion flow until they receive evidence tags.
+
+### Operational Reminder
+
+- Music/narration/video handoff should continue to use the existing curated set.
+- Newly added intake assets require provenance and confidence tagging before chapter inclusion.
+
+**AAK VISUAL OPS INTAKE SYNC:** Completed with promotion freeze maintained for new intake.
