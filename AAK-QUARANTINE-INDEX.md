@@ -51,3 +51,15 @@ Quarantine registry was reviewed during the all-root AAK auto pass.
 - Catch-all image indexing remains separate from public-use eligibility.
 
 **AAK QUARANTINE AUTO SYNC:** Completed with no promotion changes.
+
+## 2026-04-23 Intake Holding Update
+
+Bulk image intake was detected under `images/` during AAK staging.
+
+### Outcome
+
+- Newly added intake assets are treated as `Pending Review` by default.
+- No newly added image was promoted to the curated public arc in this pass.
+- Existing quarantined assets remain in `Hold` state with unchanged release criteria.
+
+**AAK QUARANTINE INTAKE SYNC:** Completed with default hold policy preserved.
