@@ -177,7 +177,7 @@ Current repository staging includes a large image intake and one input filename 
 ### Intake Actions Logged
 
 1. Added a broad set of new assets under `images/` for downstream curation.
-2. Recorded input filename normalization from `inputs/ Caspian-Persian-Cusine-Catering.png` to `inputs/_Caspian-Persian-Cusine-Catering.png`.
+2. Recorded input filename normalization from `inputs/Caspian-Persian-Cusine-Catering.png` to `inputs/_Caspian-Persian-Cusine-Catering.png`.
 3. Preserved AAK policy boundary between intake/discoverability and public-use promotion.
 
 ### Scope Note
