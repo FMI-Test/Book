@@ -52,14 +52,14 @@ Quarantine registry was reviewed during the all-root AAK auto pass.
 
 **AAK QUARANTINE AUTO SYNC:** Completed with no promotion changes.
 
-## 2026-04-23 Intake Holding Update
+## 2026-04-25 Image-Reference Scan Sync
 
-Bulk image intake was detected under `images/` during AAK staging.
+Quarantine registry reviewed after PR #29 markdown image-reference audit.
 
 ### Outcome
 
-- Newly added intake assets are treated as `Pending Review` by default.
-- No newly added image was promoted to the curated public arc in this pass.
-- Existing quarantined assets remain in `Hold` state with unchanged release criteria.
+- All 16 quarantined assets remain on hold; none appeared in the missing-reference list from the scan.
+- Quarantine policy is unaffected by the missing-asset report.
+- No promotions or removals made in this pass.
 
-**AAK QUARANTINE INTAKE SYNC:** Completed with default hold policy preserved.
+**AAK QUARANTINE IMAGE SCAN SYNC:** Completed with no status changes.

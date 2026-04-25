@@ -99,6 +99,26 @@ Repository image intake was normalized under the AAK review workflow.
 
 **AAK IMAGE REVIEW SYNC:** Completed for image directory consolidation and link integrity.
 
+## 2026-04-25 Image-Reference Audit (PR #29)
+
+Markdown image-reference scan completed under PR #29: "AAK: scan markdown image refs and report missing assets" on branch `aak-image-fix-clean`.
+
+### Scan Summary
+
+- Scan run: 2026-04-23.
+- Result: all markdown-referenced image paths were identified; no source files were found in the working tree for any referenced path.
+- Missing references archived in `images/MISSING-MD-IMAGE-REFERENCES.txt`.
+- Two reference formats were scanned: `./images/` prefixed and bare `images/` prefixed paths.
+- AAK-VISUAL-OPS.md curated-set asset count corrected from 30 to 29.
+
+### Files Touched
+
+- `AAK-VISUAL-OPS.md` — asset count fix and sync entry added.
+- `AAK-QUARANTINE-INDEX.md` — sync entry added.
+- `AAK-AUDIT-LOG-FINAL.md` — this entry.
+
+**AAK IMAGE SCAN FINALIZE:** PR #29 audit logged. Missing-asset list is the authoritative reference for the next image-population pass.
+
 ## 2026-04-18 AAK Review and Alignment Pass
 
 Comprehensive review of all AAK markdown files for content alignment, typos, grammar, and structural consistency.
@@ -169,23 +189,6 @@ Image-story documentation was redone to better explain curation logic and the ne
 - Public-use eligibility still depends on visual-ops curation and quarantine status.
 
 **AAK MEDIA HANDOFF SYNC:** Completed for image-language documentation, media-path clarity, and dependency refresh.
-
-## 2026-04-23 AAK Intake and Staging Addendum
-
-Current repository staging includes a large image intake and one input filename normalization event.
-
-### Intake Actions Logged
-
-1. Added a broad set of new assets under `images/` for downstream curation.
-2. Recorded input filename normalization from `inputs/Caspian-Persian-Cusine-Catering.png` to `inputs/_Caspian-Persian-Cusine-Catering.png`.
-3. Preserved AAK policy boundary between intake/discoverability and public-use promotion.
-
-### Scope Note
-
-- This log entry records intake and naming traceability only.
-- Public-use eligibility for newly added assets remains governed by `AAK-QUARANTINE-INDEX.md` and `AAK-VISUAL-OPS.md`.
-
-**AAK INTAKE STAGING SYNC:** Logged for traceable commit/PR handoff.
 
 ## 2026-04-23 Image Integrity Fix Addendum
 
