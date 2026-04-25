@@ -18,7 +18,7 @@ Scope: Curated chapter-level visual set for Aliyar Fakhran publication flow, anc
 - Keep the public visual arc clean enough that later soundtrack and video work can inherit it without re-sorting the whole intake.
 - Anything that cannot carry biography, chronology, or memory should stay in quarantine or remain in the catch-all index only.
 
-## Curated Promotion Set (30 assets)
+## Curated Promotion Set (29 assets)
 
 | Asset | Chapter use | Short caption | Date | Place | Confidence | Tag |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -146,19 +146,16 @@ Visual ops registry was rechecked during the all-root AAK auto workflow.
 
 **AAK VISUAL OPS AUTO SYNC:** Completed with policy continuity preserved.
 
-## 2026-04-23 Intake Classification Update
+## 2026-04-25 Image-Reference Scan Sync
 
-Visual-ops review recognized new intake assets added to `images/`.
+Visual ops registry reviewed after PR #29 markdown image-reference audit (scan date: 2026-04-23).
 
 ### Outcome
 
-- Current curated promotion set remains unchanged.
-- No confidence-tag upgrades were applied to newly added assets in this pass.
-- New intake assets remain outside chapter promotion flow until they receive evidence tags.
+- Scan confirmed all 29 curated-promotion-set assets are referenced in markdown but are not yet present in the working tree.
+- Missing-asset list archived in `images/MISSING-MD-IMAGE-REFERENCES.txt`.
+- Asset count corrected from "30" to "29" in the curated set header (one duplicate count removed).
+- No confidence-tag promotions made; provenance requirements for Russia/Caucasus and Spain chapters remain enforced.
+- Next action: populate missing `.webp` files or adjust markdown references to match available assets.
 
-### Operational Reminder
-
-- Music/narration/video handoff should continue to use the existing curated set.
-- Newly added intake assets require provenance and confidence tagging before chapter inclusion.
-
-**AAK VISUAL OPS INTAKE SYNC:** Completed with promotion freeze maintained for new intake.
+**AAK VISUAL OPS IMAGE SCAN SYNC:** Completed. Missing-asset report logged; count corrected.
