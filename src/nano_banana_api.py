@@ -14,12 +14,16 @@ REPO_ROOT = os.path.abspath(os.path.join(SCRIPT_DIR, ".."))
 WORKSPACE_PARENT = os.path.abspath(os.path.join(REPO_ROOT, ".."))
 
 # Load API key from the parent workspace directory to keep it out of the repo.
-API_KEY_PATH = os.path.join(WORKSPACE_PARENT, ".NANO_BANANA_KEY")
-NANO_BANANA_API_KEY = os.environ.get("NANO_BANANA_KEY")
+# Uses the shared Gemini key (same as gen_missing_images.py and gemini_yt_creator.py).
+API_KEY_PATH = os.path.join(WORKSPACE_PARENT, ".GEMINI_KEY")
+NANO_BANANA_API_KEY = os.environ.get("GEMINI_API_KEY", "")
 
-if os.path.exists(API_KEY_PATH):
+if not NANO_BANANA_API_KEY and os.path.exists(API_KEY_PATH):
     with open(API_KEY_PATH, "r") as f:
         NANO_BANANA_API_KEY = f.read().strip()
+
+if not NANO_BANANA_API_KEY:
+    print("Warning: No API key found. Set GEMINI_API_KEY or create ../.GEMINI_KEY")
 
 
 def resolve_input_path(path_value):
@@ -86,7 +90,7 @@ def generate_image(item, output_dir="images", overwrite=False):
 
     with open(filepath, "w") as f:
         f.write(f"Image generated for Prompt: {prompt}\n")
-        f.write(f"API Key available: {bool(NANO_BANANA_API_KEY)}\n")
+        f.write(f"API Key available: {bool(NANO_BANANA_API_KEY)}\n")  # GEMINI_API_KEY / .GEMINI_KEY
 
     return title
 

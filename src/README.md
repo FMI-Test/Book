@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 ### Optional secrets / credentials
 
-- `../.GEMINI_KEY` (or `GEMINI_API_KEY`) for Gemini asset generation
+- `../.GEMINI_KEY` (or `GEMINI_API_KEY`) for Gemini asset generation and Nano Banana image generation
 - `../client_secret.json` for YouTube OAuth upload
 
 > Secrets stay outside the repo root by design.

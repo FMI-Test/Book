@@ -95,6 +95,9 @@ For the diplomatic-history module and archive workflow, see:
 - [`Repo-Sapiens-Synthesis.md`](Repo-Sapiens-Synthesis.md) — comparative synthesis between this repo's systems narrative and Harari's civilizational model
 - [`AK-Final-Synthesis.md`](AK-Final-Synthesis.md) — one-page final doctrine combining Book, Sapiens, and parent portfolio operations
 - [`AK-Final-Synthesis-FA.md`](AK-Final-Synthesis-FA.md) — Persian one-page final doctrine companion
+- [`Hollywood-Power-Structure.md`](Hollywood-Power-Structure.md) — cultural insularity, media concentration, the $35 pastrami, and the historical feedback loop of power without redistribution
+- [`Domain-Authority-Trap.md`](Domain-Authority-Trap.md) — why expertise is domain-specific, the Persian judiciary fallacy, the Oscar pulpit problem, and the correct way to read authority claims
+- [`Ungrateful-Witness.md`](Ungrateful-Witness.md) — forensic labor, digital evidence, the cost of doing the right thing correctly, misestimation vs. conspiracy, and the accounting that is always eventually paid
 
 ## Repository Hygiene
 
