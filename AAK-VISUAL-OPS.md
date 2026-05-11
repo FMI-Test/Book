@@ -159,3 +159,21 @@ Visual ops registry reviewed after PR #29 markdown image-reference audit (scan d
 - Next action: populate missing `.webp` files or adjust markdown references to match available assets.
 
 **AAK VISUAL OPS IMAGE SCAN SYNC:** Completed. Missing-asset report logged; count corrected.
+
+## 2026-05-11 AAK TODO Sync
+
+Visual ops registry rechecked after the repository-wide WebP fill and guardrail updates.
+
+### Current State
+
+- Curated promotion set remains at 29 assets.
+- Confidence/evidence tags remain unchanged in this pass.
+- Publication hardening requirements for Russia/Caucasus and Spain scenes remain open until citations are attached.
+
+### Open TODOs
+
+1. [ ] Attach archive citation pointer(s) for Russia/Caucasus scenes before confidence promotion.
+2. [ ] Attach decree/registry metadata for Spain honors scenes before claim hardening.
+3. [ ] Keep naming normalization active for Catolica accent/variant duplicates.
+
+**AAK VISUAL OPS TODO SYNC:** Completed with policy continuity preserved.

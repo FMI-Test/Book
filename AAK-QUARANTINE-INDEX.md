@@ -63,3 +63,20 @@ Quarantine registry reviewed after PR #29 markdown image-reference audit.
 - No promotions or removals made in this pass.
 
 **AAK QUARANTINE IMAGE SCAN SYNC:** Completed with no status changes.
+
+## 2026-05-11 AAK TODO Sync
+
+Quarantine registry was revalidated against the current `images/` tree.
+
+### Current State
+
+- Policy rules remain valid and unchanged.
+- Several legacy quarantine references are not present in the current working tree.
+
+### Open TODOs
+
+1. [ ] Rebuild quarantine asset table from currently available files only.
+2. [ ] Move absent legacy entries to an archival note section (history) instead of active hold list.
+3. [ ] Keep quarantine exclusion rules enforced for soundtrack, narration, and video assembly.
+
+**AAK QUARANTINE TODO SYNC:** Completed for revalidation and cleanup planning.

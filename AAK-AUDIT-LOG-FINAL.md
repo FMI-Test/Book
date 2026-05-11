@@ -315,3 +315,34 @@ Counterweight pass applied to the top escalation-leaning doctrine/system files, 
 - `AAK-AUDIT-LOG-FINAL.md` (this entry)
 
 **AAK REBALANCE SYNC:** Completed for five doctrine files plus root index traceability.
+
+## 2026-05-11 AAK TODO Tracker Refresh
+
+Triggered by: `todos go aak`
+
+### Scope
+
+Refresh AAK TODO metadata and tracker accuracy after recent image-generation and guardrail passes.
+
+### Actions Completed
+
+1. Updated `AAK-NEW-IMAGES-STORY.md` TODO wording from "30" to "29" curated assets.
+2. Updated `AAK-NEW-IMAGES-STORY.md` image-count metadata from `970` to `176` based on current repo tree.
+3. Added a new dated TODO sync section to `AAK-NEW-IMAGES-STORY.md` with next actionable tasks.
+4. Added a new dated TODO sync section to `AAK-VISUAL-OPS.md` with open citation/normalization tasks.
+5. Added a new dated TODO sync section to `AAK-QUARANTINE-INDEX.md` documenting stale-reference cleanup tasks.
+
+### Outcome
+
+- AAK tracker TODOs now reflect current repository state and pending work categories.
+- No confidence-tag promotions were made in this pass.
+- Publication-use boundaries and quarantine rules remain unchanged.
+
+### Files Touched
+
+- `AAK-NEW-IMAGES-STORY.md`
+- `AAK-VISUAL-OPS.md`
+- `AAK-QUARANTINE-INDEX.md`
+- `AAK-AUDIT-LOG-FINAL.md` (this entry)
+
+**AAK TODO SYNC:** Completed for tracker accuracy and next-action clarity.

@@ -4,5 +4,13 @@
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true,
     "python.analysis.extraPaths": ["./src"],
-    "chat.tools.autoApprove": true
+    "chat.tools.terminal.autoApprove": {
+        "git status": true,
+        "git log": true,
+        "git diff": true,
+        "/^python3 test_images\\.py$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
 }

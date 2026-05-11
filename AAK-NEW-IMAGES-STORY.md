@@ -129,7 +129,7 @@ The catch-all video layer should be treated as full explanation mode: image sequ
 
 ## AAK TODOs (Gap Check)
 
-1. [x] Curated 30 strongest non-duplicate images for chapter-level promotion in `AAK-VISUAL-OPS.md`.
+1. [x] Curated 29 strongest non-duplicate images for chapter-level promotion in `AAK-VISUAL-OPS.md`.
 2. [x] Added short caption set (date, place, confidence level) in FA/EN pages and linked to `AAK-VISUAL-OPS.md`.
 3. [x] Split low-confidence or unknown-origin assets into `AAK-QUARANTINE-INDEX.md`.
 4. [x] Added archive-evidence tag system (`confirmed`, `inferred`, `reconstructed`, `symbolic`) in `AAK-VISUAL-OPS.md`.
@@ -162,10 +162,22 @@ Image-story documentation was validated during the all-root AAK automation pass.
 
 ## Intake Coverage
 
-- Current files under `images/`: 970
+- Current files under `images/`: 176
 - This file remains the catch-all markdown coverage layer for repository image discoverability.
 - Curated publication use is still controlled by `AAK-VISUAL-OPS.md` and `AAK-QUARANTINE-INDEX.md`.
 - Full index coverage below does not imply public-use approval, provenance confirmation, or publication priority.
+
+## 2026-05-11 AAK TODO Sync
+
+Gap-check refresh completed after guardrail and image-placeholder passes.
+
+### Current TODO Focus
+
+1. [ ] Rebuild this file's full intake index from the current `images/` tree so index coverage matches active assets.
+2. [ ] Reconcile catch-all listing against `AAK-QUARANTINE-INDEX.md` to remove references to assets no longer present.
+3. [ ] Keep publication-use boundary unchanged: only assets promoted in `AAK-VISUAL-OPS.md` should be used externally.
+
+**AAK TODO STORY SYNC:** Completed for count correction and next-action clarity.
 
 ## Full Intake Index (Coverage Layer)
 
