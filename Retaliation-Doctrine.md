@@ -38,3 +38,27 @@
   Your browser does not support the video tag.
 </video>
 *[Generated 16:9 Short Film mapped for RETALIATION-DOCTORINE]*
+
+---
+
+## AAK Counterweight: Legitimacy and Constraint
+
+This page uses deliberately extreme framing. Without hard constraints, that framing can produce strategic and moral failure.
+
+### Non-negotiable constraints
+
+1. **Civilian immunity is mandatory.**
+2. **Proportionality and distinction are legal requirements, not optional doctrine.**
+3. **Collective punishment is strategically self-defeating and legally prohibited.**
+4. **Escalation without off-ramp design creates long-war recurrence.**
+
+### Strategic correction
+
+- Replace "x100 retaliation" with bounded deterrence + verified target discrimination.
+- Define desired end-state before force selection.
+- Pair any kinetic action with de-escalation channels and post-conflict stabilization.
+
+### Bottom line
+
+Durable security comes from legitimacy, precision, and reconstruction capacity.
+Force without constraint multiplies future threat.

@@ -99,4 +99,30 @@
 The question is: **which friction to keep and which to eliminate.** That is the legitimate R&D question this document is designed to inform.
 
 ---
+
+## AAK Rebalance Addendum (Non-Operational Guardrails)
+
+To reduce misread risk, this document should be interpreted as analytical pattern mapping, not execution guidance.
+
+### Guardrail set
+
+1. **Legal primacy**
+   - Any recommendation is void if it conflicts with LOAC, constitutional constraints, or civilian protection law.
+2. **Civilian-first constraint**
+   - If differentiation quality is low, kinetic intensity must decrease, not increase.
+3. **Bias correction pass**
+   - Run adversarial review from legal, diplomatic, humanitarian, and fiscal lenses before policy adoption.
+4. **Non-kinetic preference test**
+   - Require explicit comparison against sanctions, diplomacy, cyber defense, and deterrence architecture.
+
+### Red-line language policy
+
+- Replace absolute victory framing with bounded objective framing.
+- Replace collective enemy labels with capability-specific threat labels.
+- Replace speed-only doctrine with speed-plus-verification doctrine.
+
+### Final calibration
+
+Strong statecraft is not maximum force.
+Strong statecraft is maximum legitimacy under pressure.
 > **ANTI-PATTERN LOG:** All literal/operational language from prior sessions has been excluded. This document is theoretical R&D only. For human policy review.

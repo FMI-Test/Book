@@ -852,3 +852,32 @@ You're asking: Find the document where indigenous inhabitants authorized:
 - What gets revealed: One-dimensional categories that institutions can track
 - What cascades: False foundational narratives spawning institutional consequences
 - What remains hidden: The missing authorization documents and erased atrocities
+
+---
+
+## XVIII. AAK Counterweight Layer
+
+This text intentionally pushes hard against narrative collapse and authority abuse. To keep it credible and non-totalizing, apply this control layer during review.
+
+### Credibility controls
+
+1. **Claim granularity rule**
+   - Avoid "always" and "never" unless falsification criteria are provided.
+2. **Burden-of-proof symmetry**
+   - Apply the same evidentiary threshold to preferred and opposing claims.
+3. **Harm accounting**
+   - For each institutional critique, include potential collateral harm of over-correction.
+4. **Person-system separation**
+   - Target system design failures, not identity-level condemnation.
+
+### Decision hygiene
+
+- Add one "What could disprove this?" line under each major framework.
+- Add one "What is unknown?" line under each policy implication.
+- Add one "minimum viable correction" before recommending maximal change.
+
+### Editorial objective
+
+Preserve force.
+Increase calibration.
+Prevent doctrine drift.

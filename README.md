@@ -99,6 +99,16 @@ For the diplomatic-history module and archive workflow, see:
 - [`Domain-Authority-Trap.md`](Domain-Authority-Trap.md) — why expertise is domain-specific, the Persian judiciary fallacy, the Oscar pulpit problem, and the correct way to read authority claims
 - [`Ungrateful-Witness.md`](Ungrateful-Witness.md) — forensic labor, digital evidence, the cost of doing the right thing correctly, misestimation vs. conspiracy, and the accounting that is always eventually paid
 
+## AAK Guardrail Index
+
+These sections add counterweight controls to high-intensity doctrine and systems chapters. Use them as calibration layers during review and before publication.
+
+- [`Complexity-Taxonomy.md`](Complexity-Taxonomy.md) — Section `XVIII. AAK Rebalance Protocol (Counterweight)`
+- [`Scarf.md`](Scarf.md) — Section `XVIII. AAK Counterweight Layer`
+- [`RD-Analysis-Patterns-AntiPatterns.md`](RD-Analysis-Patterns-AntiPatterns.md) — Section `AAK Rebalance Addendum (Non-Operational Guardrails)`
+- [`Domain-Authority-Trap.md`](Domain-Authority-Trap.md) — Section `AAK Rebalance Note`
+- [`Retaliation-Doctrine.md`](Retaliation-Doctrine.md) — Section `AAK Counterweight: Legitimacy and Constraint`
+
 ## Repository Hygiene
 
 - Remove obsolete temporary folders such as `Book.worktrees/` after merge completion.

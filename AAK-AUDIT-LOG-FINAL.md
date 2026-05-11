@@ -280,3 +280,38 @@ New reflection chapter `sexart.md` added to the repository root.
 - `sexart.md` — philosophical reflection on desire, ego, and accountability.
 
 **AAK INTAKE SYNC:** Completed — `sexart.md` committed and pushed to Master via PR.
+
+## 2026-05-10 AAK Guardrail Rebalance and Index Sync
+
+Triggered by: `go do it` and follow-up phase-2 request (`y pls`)
+
+### Scope
+
+Counterweight pass applied to the top escalation-leaning doctrine/system files, then indexed in the root README for discoverability and review discipline.
+
+### Actions Completed
+
+1. Appended a rebalance protocol to `Complexity-Taxonomy.md` (`XVIII. AAK Rebalance Protocol (Counterweight)`).
+2. Appended a counterweight layer to `Scarf.md` (`XVIII. AAK Counterweight Layer`).
+3. Appended non-operational guardrails to `RD-Analysis-Patterns-AntiPatterns.md` (`AAK Rebalance Addendum`).
+4. Appended authority-balance checks to `Domain-Authority-Trap.md` (`AAK Rebalance Note`).
+5. Appended legitimacy-and-constraint guardrails to `Retaliation-Doctrine.md` (`AAK Counterweight`).
+6. Added a root-level `AAK Guardrail Index` section in `README.md` linking all new sections.
+
+### Outcome
+
+- Rebalance content added without removing original author framing.
+- Guardrails now codified for uncertainty handling, legal constraints, and anti-absolutist review.
+- Root README now exposes a single navigation layer for all counterweight sections.
+
+### Files Touched
+
+- `Complexity-Taxonomy.md`
+- `Scarf.md`
+- `RD-Analysis-Patterns-AntiPatterns.md`
+- `Domain-Authority-Trap.md`
+- `Retaliation-Doctrine.md`
+- `README.md`
+- `AAK-AUDIT-LOG-FINAL.md` (this entry)
+
+**AAK REBALANCE SYNC:** Completed for five doctrine files plus root index traceability.

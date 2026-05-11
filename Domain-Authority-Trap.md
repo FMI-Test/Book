@@ -109,3 +109,31 @@ The child got worse.
 The locksmith was not a bad person. He was a locksmith in the wrong room.
 
 The lesson is not that experts are useless outside their domain. The lesson is that expertise has edges. The wisest expert is the one who can see the edge and say: *this is where I stop.*
+
+---
+
+## AAK Rebalance Note
+
+This essay critiques authority transfer error. To avoid reverse-error (blanket anti-authority), apply the following checks.
+
+### Balance checks
+
+1. **Do not collapse all cross-domain speech into invalid speech.**
+   - Domain outsiders can still contribute if claims are evidence-based and falsifiable.
+2. **Distinguish platform misuse from person invalidation.**
+   - The critique targets mechanism and context, not dignity of speaker.
+3. **Separate confidence from competence.**
+   - Loud certainty is not proof; silence is not disproof.
+4. **Require claim-level review, not identity-level dismissal.**
+   - Evaluate arguments by evidence quality and causal clarity.
+
+### Practical review rule
+
+For each criticized authority claim, include:
+- one line stating what is valid,
+- one line stating what exceeds domain bounds,
+- one line stating what evidence would settle the dispute.
+
+### Intent lock
+
+Defend epistemic boundaries without creating a new orthodoxy of dismissal.

@@ -475,3 +475,33 @@ That is not an accident. That is the system working exactly as tuned.
   Your browser does not support the video tag.
 </video>
 *[Generated 16:9 Short Film mapped for Type-II-Complexity]*
+
+---
+
+## XVIII. AAK Rebalance Protocol (Counterweight)
+
+This document maps failure and sovereignty pressure with high intensity language. To prevent analytical overreach, apply these checks before using any conclusion in policy, writing, or operations.
+
+### Four mandatory constraints
+
+1. **Counter-hypothesis first**
+  - For every primary claim, write one plausible alternative explanation.
+2. **Evidence confidence labeling**
+  - Tag each major claim as: High, Medium, or Low confidence.
+3. **Scope boundary**
+  - Explicitly separate diagnosis of system patterns from judgment of persons.
+4. **Reversibility test**
+  - Prefer interventions that can be rolled back if assumptions are wrong.
+
+### Escalation brake
+
+- If three consecutive sections intensify threat framing, insert one synthesis section with:
+  - uncertainty,
+  - costs of overreaction,
+  - and at least one non-coercive alternative.
+
+### Net objective
+
+Keep analytical force.
+Reduce rhetorical absolutism.
+Maximize truth under uncertainty.
