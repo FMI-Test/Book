@@ -3,5 +3,10 @@
     "terminal.integrated.defaultProfile.windows": "Git Bash",
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true,
-    "python.analysis.extraPaths": ["./src"]
+    "python.analysis.extraPaths": [
+        "./src"
+    ],
+    "chat.tools.terminal.autoApprove": {
+        "git fetch": true
+    }
 }
