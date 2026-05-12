@@ -13,6 +13,14 @@ This repository preserves raw multilingual drafts that may contain cipher-like p
 3. Clarify context without flattening the author's voice.
 4. Deliver multiple narrative layers for different readers.
 
+## Editorial Workflow and Standards
+
+For comprehensive guidance on the editorial process, change management, and diff/explanation standards, see **[Editorial-Workflow-and-Standards.md](Editorial-Workflow-and-Standards.md)**. This document defines:
+- How raw multilingual drafts are transformed through the four-section pipeline
+- Transparency standards for presenting editorial changes
+- Quality assurance and author confirmation workflows
+- Multilingual alignment and cross-reference validation
+
 ## Required Chapter Structure
 
 Each transformed chapter should be published in four sections, in this order:

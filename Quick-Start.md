@@ -4,6 +4,8 @@ Welcome to the Book repository quick start guide.
 
 **Note:** This guide covers automation setup and script usage. For conceptual material on systems initialization and context, see [Start.md](Start.md).
 
+**Editorial standards:** For change transparency, section-by-section diff expectations, and author approval workflow, see [Editorial-Workflow-and-Standards.md](Editorial-Workflow-and-Standards.md).
+
 ## Working with Nano Banana Prompts
 
 The repository contains extensive lists of "Nano Banana" prompts which can be executed efficiently in parallel using the automation scripts in `src/`.
