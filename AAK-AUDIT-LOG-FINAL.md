@@ -1,6 +1,6 @@
 # AAK Audit Log (Final)
 
-![AAK Audit Log (Final)](images/REPOSITORY-OPEN-GRAPH-TEMPLATE.png)
+![AAK Audit Log (Final)](images/Aliyar-Fakhran-Batumi-Consulate.png)
 
 **Date:** 2026-04-14 (last update from all-root automation sync)  
 **Repository:** `FMI-Test/Book`  

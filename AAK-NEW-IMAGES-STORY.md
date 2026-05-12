@@ -29,7 +29,7 @@ For AAK, that visual language is built from five recurring signals:
 2. State signals: office interiors, protocol framing, administrative furniture, and center-periphery authority.
 3. Diplomatic signals: embassy facades, ceremony, border-city atmosphere, and external legitimacy.
 4. Memory signals: domestic ritual, calligraphy, dinner order, villa space, and family continuity.
-5. Lineage signals: trees, descendants, and intergenerational inheritance.
+5. Lineage signals: trees, descendants, and inter-generational inheritance.
 
 This means the image set already contains a grammar. The order of images determines whether the story feels bureaucratic, diplomatic, intimate, or memorial. The image story therefore has to be curated like prose, not dumped like a folder listing.
 
@@ -37,7 +37,7 @@ This means the image set already contains a grammar. The order of images determi
 
 The beginning is semantic and political: how one person can carry a full administrative era in a single name.
 
-![Mirza Agha Khan Mumtahen-ul-Mulk - Name and Title Context](images/Kargozar-Titles.webp)
+![Mirza Agha Khan Mumtahen-ul-Mulk - Name and Title Context](images/ali-wiz-titles.jpg)
 
 This frame complements the naming analysis in [Aliyar-Fakhran-EN.md](Aliyar-Fakhran-EN.md) and [Aliyar-Fakhran-FA.md](Aliyar-Fakhran-FA.md): Mirza, Khan, Mumtahen-ul-Mulk, Aliyar, and Fakhran. It gives the title stack a visual body so the opening sections read as social architecture rather than as a glossary only.
 
