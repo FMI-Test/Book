@@ -15,6 +15,12 @@
 
 ### TODO
 
+
+- [ ] TomWizMaster alignment checklist reviewed (issue templates, governance wording, release gates)
+- [ ] Mark NSFW assets in all AAK image registries and keep quarantine labels explicit
+- [ ] Normalize remaining gibberish image filenames to UUID-safe names and update references
+- [ ] Keep TODO items mirrored into GitHub Issues via tracker automation
+- [ ] Regenerate wiki pages and confirm PR-review pre-merge wiki sync passes
 - [ ] Request official records and images from Spain, Iran, Russia, and Türkiye
 - [ ] Verify award classes, dates, and archival citations
 - [ ] Build the Fakhran dynasty map forward/backward with verified relationships

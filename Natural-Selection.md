@@ -20,10 +20,10 @@
     -   The Kill Chain is not just a military operation; it is a sanitation operation for the human species.
     -   **Result:** The gene pool of humanity is cleansed of the self-destructive virus (Jihad/Martyrdom ideology).
 
-![Natural-Selection](./images/Natural-Selection.webp)
+![Natural-Selection](./images/NATURAL-SELECTION.webp)
 
 
-![Natural-Selection](./images/Natural-Selection.webp)
+![Natural-Selection](./images/NATURAL-SELECTION.webp)
 
 
 <!-- 16:9 Video Generation Match -->

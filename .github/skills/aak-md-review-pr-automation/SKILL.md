@@ -22,6 +22,8 @@ Use this skill when the request includes any of these intents:
 - Expand or append AAK operational logs
 - Prepare or execute commit + PR flow
 - "Auto" run of the whole AAK pipeline
+- Mark NSFW assets explicitly and update quarantine traces when detected
+- Keep TODO/WIP entries aligned with issue tracking and wiki sync automation
 
 ## Inputs
 Accept natural language input, then normalize into:

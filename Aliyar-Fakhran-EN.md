@@ -13,18 +13,18 @@
 
 Primary registry: `AAK-VISUAL-OPS.md`
 
-- `images/Kargozar-Titles.png` - Name/title architecture context; date: c. 1900-1935; place: Iran; confidence: medium; tag: reconstructed.
+- `images/Kargozar-Titles.webp` - Name/title architecture context; date: c. 1900-1935; place: Iran; confidence: medium; tag: reconstructed.
 - `images/Ali-Yar-Fakhran-Russia.png` - Diplomatic service in Russia context; date: early 20th c. context; place: Russia; confidence: medium; tag: inferred.
-- `images/Aliyar-Fakhran-Petersburg-Embassy.png` - Embassy-facing diplomatic context; date: early 20th c. context; place: Saint Petersburg; confidence: medium; tag: inferred.
-- `images/Aliyar-Fakhran-Leningrad-Ambassador.png` - Leningrad ambassadorial context; date: early Soviet-era context; place: Leningrad; confidence: medium; tag: inferred.
-- `images/Aliyar-Fakhran-Lion-Sun-Medal.png` - Honors reference context; date: historical order context; place: Iran; confidence: medium; tag: symbolic.
+- `images/Aliyar-Fakhran-Petersburg-Embassy.webp` - Embassy-facing diplomatic context; date: early 20th c. context; place: Saint Petersburg; confidence: medium; tag: inferred.
+- `images/Aliyar-Fakhran-Leningrad-Ambassador.webp` - Leningrad ambassadorial context; date: early Soviet-era context; place: Leningrad; confidence: medium; tag: inferred.
+- `images/Aliyar-Fakhran-Lion-Sun-Medal.webp` - Honors reference context; date: historical order context; place: Iran; confidence: medium; tag: symbolic.
 - `images/Ali-Yar-Fakhran-Full-Spain.png` - Spain honors period context; date: historical order context; place: Spain; confidence: medium; tag: symbolic.
 - `images/Aliyar-Fakhran-Dinner-Protocol.png` - Family protocol memory context; date: memoir context; place: Iran; confidence: medium; tag: reconstructed.
 - `images/Aliyar-Fakhran-Genealogy-Tree.png` - Lineage continuity context; date: lineage context; place: Iran; confidence: medium; tag: reconstructed.
 
 ## Deciphering the Name and Titles
 
-![Mirza Agha Khan Mumtahen-ul-Mulk — Deciphering the Name and Titles](images/Kargozar-Titles.png)
+![Mirza Agha Khan Mumtahen-ul-Mulk — Deciphering the Name and Titles](images/Kargozar-Titles.webp)
 *Mirza Agha Khan Mumtahen-ul-Mulk Aliyar Fakhran — Deciphering the Name and Titles*
 
 The full name and title — **Mirza Agha Khan Mumtahen-ul-Mulk Aliyar Fakhran** — is a layered artifact of Qajar-era Persian nomenclature. Each element carried specific meaning in 19th- and early 20th-century Iran.
@@ -107,7 +107,7 @@ A name of Turkic-Persian origin meaning **"Friend of Ali"** or **"Helper of Ali"
 
 Derived from *Fakhr* (فخر), meaning **"Pride"** or **"Honor."** Adopted as a permanent family surname during the 1935 reforms, marking a lineage of established noble standing. The name signifies "The Proud Ones" or "The Honored Ones."
 
-![Mirza Agha Khan — Qajar Diplomat](images/Kargozar-Titles.png)
+![Mirza Agha Khan — Qajar Diplomat](images/Kargozar-Titles.webp)
 *AI illustration: Mirza Agha Khan in formal Qajar diplomatic attire*
 
 ---
@@ -124,7 +124,7 @@ Reza Shah's 1935 decree was a radical break: all men became *Agha* (Mr.), all wo
 
 The reform's promise, however, diverged sharply from practice. Economic inequality persisted. The landlord-peasant structure remained largely intact. Mohammad Reza Shah's later reforms — land redistribution, industrialization, currency stabilization — accelerated development but deepened internal contradictions. By 1979, these erupted in the Iranian Revolution, overthrowing a monarchy tracing its lineage 2,500 years through civilizations spanning 7,000 years. The irony: Reza Shah's egalitarian vision of "all Iranians as equals" could not survive the very modernization that birthed it.
 
-![Reza Shah Era](images/Aliyar-Fakhran-Reze-Shah-Diplomat.png)
+![Reza Shah Era](images/Aliyar-Fakhran-Reze-Shah-Diplomat.webp)
 *AI illustration: The transition from Qajar to Pahlavi era*
 
 ---
@@ -188,7 +188,7 @@ Based on the family genealogy document (*shajare-nameh*):
 ![Order of Isabella the Catholic — Spain](images/Ali-Yar-Fakhran-Full-Spain.png)
 *Mirza Agha Khan Mumtahen-ul-Mulk — After receiving the Order of Isabella the Catholic from Spain (1319 AH / 1901 AD)*
 
-![Lion and Sun Medal](images/Aliyar-Fakhran-Lion-Sun-Medal.png)
+![Lion and Sun Medal](images/Aliyar-Fakhran-Lion-Sun-Medal.webp)
 *AI illustration: The Lion and Sun Medal — one of Iran's highest state honors*
 
 ---
@@ -204,10 +204,10 @@ His final and highest diplomatic posting was as **Ambassador Plenipotentiary** (
 - **Protection of Iranians:** As a trained *Kargozar*, he was responsible for the legal protection of thousands of Iranian merchants and workers in the Caucasus and Russia.
 - **Multilingualism:** To serve as Ambassador in Leningrad, he was fluent in **Russian**, **French** (the language of international diplomacy), and likely **Turkic dialects** from his years in Tbilisi and Batumi.
 
-![Leningrad Ambassador](images/Aliyar-Fakhran-Leningrad-Ambassador.png)
+![Leningrad Ambassador](images/Aliyar-Fakhran-Leningrad-Ambassador.webp)
 *AI illustration: The Iranian Ambassador's residence in Leningrad*
 
-![Petersburg Embassy](images/Aliyar-Fakhran-Petersburg-Embassy.png)
+![Petersburg Embassy](images/Aliyar-Fakhran-Petersburg-Embassy.webp)
 *AI illustration: The Iranian Embassy in St. Petersburg/Leningrad*
 
 ### Connection to Dar al-Fonun
@@ -394,7 +394,7 @@ Later, my father find **Colonel Dadras** — head of the Mashhad and Bojnourd Ge
 
 When we visited Bojnourd, I discovered that my father bore the nickname "The Prophet" — because he was a man of prayer and fasting, touched neither alcohol nor women. For a while, he half-heartedly smoked cigarettes; under my influence, he even drank with me once. Until he went to Mecca and declared: *"I've become a Hajji and that's that, my son."* My father never drank not with me not ever.
 
-![Reza Shah Diplomat](images/Aliyar-Fakhran-Reze-Shah-Diplomat.png)
+![Reza Shah Diplomat](images/Aliyar-Fakhran-Reze-Shah-Diplomat.webp)
 *AI illustration: The diplomatic world of the Reza Shah era*
 
 ---
@@ -407,7 +407,7 @@ I have beautiful nights and happy memories from that place. Sometimes we'd get t
 
 Bahman Joon had pride and dignity. He was the Shah's court physician. Later Dr. Ardebili came and opinions varied, but Bahman Joon was a cardiologist, and as a physician he made no distinction between patients. It was not in the interest of *Pars-Sara* to antagonize the established regime, and I understood that well. He had no pretensions — spoke frankly — and his diagnostic skill was extraordinary.
 
-![Fakhransara Villa](images/Fakhran-Sara-Villa.png)
+![Fakhransara Villa](images/Fakhran-Sara-Villa.webp)
 *AI illustration: Fakhransara — the Fakhran family villa on the Caspian shore*
 
 ---
@@ -431,13 +431,13 @@ As Bahman Joon would honestly say: *"Mammadjan, Bamdad's tongue and literature a
 
 ## Family Tree
 
-![Family Tree of Fakhran's Friends and Family](images/FRIENDS-N-FAMILY-TREE.png)
+![Family Tree of Fakhran's Friends and Family](images/FRIENDS-N-FAMILY-TREE.webp)
 *Family tree and connections — Fakhran Family*
 
 ![Genealogy Tree](images/Aliyar-Fakhran-Genealogy-Tree.png)
 *AI illustration: The Fakhran genealogy — spanning generations from Qajar diplomacy to the modern era*
 
-![Dr. Fakhran, Bahman, Pars, Maryam Fakhran](images/DR-FAKHRAN-BAHMAN-PARS-MARYAM-FAKHRAN.png)
+![Dr. Fakhran, Bahman, Pars, Maryam Fakhran](images/DR-FAKHRAN-BAHMAN-PARS-MARYAM-FAKHRAN.webp)
 *The Fakhran family — Dr. Fakhran, Bahman, Pars, and Maryam Fakhran*
 
 > For a cleaner forward/backward lineage map and open research questions, see [`Fakhran-Dynasty.md`](Fakhran-Dynasty.md).

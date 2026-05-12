@@ -1,0 +1,68 @@
+name: Wiki + TODO Sync on PR Review
+
+on:
+  pull_request_review:
+    types: [submitted, edited]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+  pull-requests: read
+
+jobs:
+  sync:
+    if: github.event_name == 'workflow_dispatch' || github.event.review.state == 'approved' || github.event.review.state == 'commented'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout PR head
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha || github.sha }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Generate wiki pages
+        run: python src/generate_wiki.py
+
+      - name: Sync TODO issue
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const body = fs.readFileSync('wiki/Home.md', 'utf8');
+            const title = 'AAK TODO/Wiki Sync Tracker';
+            const {owner, repo} = context.repo;
+            const issues = await github.paginate(github.rest.issues.listForRepo, {owner, repo, state: 'open', per_page: 100});
+            const existing = issues.find(i => i.title === title);
+            if (existing) {
+              await github.rest.issues.update({owner, repo, issue_number: existing.number, body});
+              core.info(`Updated issue #${existing.number}`);
+            } else {
+              const created = await github.rest.issues.create({owner, repo, title, body, labels: ['documentation', 'tracking']});
+              core.info(`Created issue #${created.data.number}`);
+            }
+
+      - name: Publish wiki
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          git clone "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.wiki.git" /tmp/repo-wiki || {
+            echo "Wiki clone failed; wiki may be disabled."
+            exit 0
+          }
+          cp wiki/*.md /tmp/repo-wiki/
+          cd /tmp/repo-wiki
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          if git diff --cached --quiet; then
+            echo "No wiki changes."
+            exit 0
+          fi
+          git commit -m "chore: sync wiki on PR review"
+          git push

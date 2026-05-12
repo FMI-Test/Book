@@ -28,8 +28,10 @@ Purpose: Hold low-confidence or non-biography assets outside the public-history 
 | `images/1773504368Lucy-and-2B---Set-1---008.jpg.jpg` | Non-biographical unrelated content | Hold |
 | `images/1773504382Lucy-and-2B---Set-1---020.jpg.jpg` | Non-biographical unrelated content | Hold |
 | `images/1920px-Twin_Peaks_Summer_Bikini_Contest_(6043000035).jpg` | Non-biographical unrelated content | Hold |
-| `images/girl-beautiful-swimsuit-sunbathing-on-260nw-755081506.webp` | Non-biographical unrelated content | Hold |
-| `images/seductive-brunette-sunbathing-on-deck-260nw-2292008719.webp` | Non-biographical unrelated content | Hold |
+| `images/nsfw-2f2b2b37-44a3-4f33-a45d-e63f2f0f6d10.webp` | Non-biographical unrelated content (NSFW) | Hold |
+| `images/nsfw-8fd4ef95-377f-4927-8c01-d3be44740ec2.webp` | Non-biographical unrelated content (NSFW) | Hold |
+| `images/nsfw-a6c45a85-3103-4eeb-9840-9886f395a380.webp` | Non-biographical unrelated content (NSFW) | Hold |
+| `images/nsfw-cf2a6b77-1388-4022-90f5-c6f713e0e667.webp` | Non-biographical unrelated content (NSFW) | Hold |
 | `images/thinking-chair-woman-beach-sunset-holiday-vacation-weekend-getaway-sea-relax-sunshine-thinking-chair-445712013.webp` | Non-biographical unrelated content | Hold |
 
 ## Release Criteria
@@ -80,3 +82,25 @@ Quarantine registry was revalidated against the current `images/` tree.
 3. [ ] Keep quarantine exclusion rules enforced for soundtrack, narration, and video assembly.
 
 **AAK QUARANTINE TODO SYNC:** Completed for revalidation and cleanup planning.
+
+
+## 2026-05-12 NSFW Label + UUID Rename Sync
+
+Quarantine naming and labeling pass executed for explicit NSFW assets.
+
+### Outcome
+
+- Explicit NSFW assets were renamed to UUID-safe filenames.
+- Markdown references were updated to renamed UUID assets.
+- NSFW status was marked directly in the quarantine table for affected entries.
+
+### Renamed NSFW Assets
+
+| Previous name | UUID-safe name | Status |
+| --- | --- | --- |
+| `images/fashion-model-girl-long-sexy-legs-yellow-jacket-white-bra-interior-beautiful-young-woman-fashion-model-176616360.webp` | `images/nsfw-2f2b2b37-44a3-4f33-a45d-e63f2f0f6d10.webp` | Hold (NSFW) |
+| `images/girl-beautiful-swimsuit-sunbathing-on-260nw-755081506.webp` | `images/nsfw-8fd4ef95-377f-4927-8c01-d3be44740ec2.webp` | Hold (NSFW) |
+| `images/seductive-brunette-sunbathing-on-deck-260nw-2292008719.webp` | `images/nsfw-a6c45a85-3103-4eeb-9840-9886f395a380.webp` | Hold (NSFW) |
+| `images/2402155-ai-nude-photos-full-body-teddy-set-ai-girls-photo-studio.webp` | `images/nsfw-cf2a6b77-1388-4022-90f5-c6f713e0e667.webp` | Hold (NSFW) |
+
+**AAK NSFW UUID SYNC:** Completed with quarantine hold preserved.

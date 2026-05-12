@@ -177,3 +177,10 @@ Visual ops registry rechecked after the repository-wide WebP fill and guardrail 
 3. [ ] Keep naming normalization active for Catolica accent/variant duplicates.
 
 **AAK VISUAL OPS TODO SYNC:** Completed with policy continuity preserved.
+
+
+## 2026-05-12 NSFW Governance Sync
+
+- NSFW assets were explicitly marked in quarantine tracking.
+- Selected gibberish NSFW filenames were normalized to UUID-safe names.
+- Public-facing curated promotion set remains unchanged; no NSFW assets were promoted.

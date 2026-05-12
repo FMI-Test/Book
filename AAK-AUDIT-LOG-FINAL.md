@@ -346,3 +346,23 @@ Refresh AAK TODO metadata and tracker accuracy after recent image-generation and
 - `AAK-AUDIT-LOG-FINAL.md` (this entry)
 
 **AAK TODO SYNC:** Completed for tracker accuracy and next-action clarity.
+
+
+## 2026-05-12 TODO/Instruction/Wiki Automation Sync
+
+Triggered by: `update todo wip .prompt .instruction and other ai agents`
+
+### Actions Completed
+
+1. Updated TODO/WIP trackers with TomWizMaster alignment, NSFW governance, issue-sync, and wiki-sync tasks.
+2. Updated `.github` instruction and AAK skill guidance to include NSFW marking, UUID naming normalization, and wiki/issue synchronization expectations.
+3. Fixed currently broken markdown image references and normalized selected explicit NSFW filenames to UUID-safe names.
+4. Added wiki generation tooling and a PR-review workflow for pre-merge wiki synchronization and TODO issue sync.
+
+### Outcome
+
+- Broken markdown image references are remediated for the known failing links.
+- Explicit NSFW assets now have UUID-safe names and quarantine labeling.
+- Wiki and issue sync automation now executes on PR review events as a pre-merge control.
+
+**AAK TODO/WIKI SYNC:** Completed with alignment and automation updates.

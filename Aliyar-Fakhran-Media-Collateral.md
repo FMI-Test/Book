@@ -50,7 +50,7 @@ Use these normalization rules to keep Persian and English versions aligned.
 | Asset | Used where | Context | Reverse prompt seed |
 | --- | --- | --- | --- |
 | `images/Ali-Yar-Fakhran-Russia.png` | FA + EN intro | Diplomatic service in Russia | `Qajar-era Iranian diplomat in imperial Russia, formal attire, archival portrait realism, dignified pose` |
-| `images/Kargozar-Titles.png` | FA + EN titles section | Decoding titles and identity | `Qajar statesman in formal court/diplomatic clothing, studio portrait, high-detail historical realism` |
+| `images/Kargozar-Titles.webp` | FA + EN titles section | Decoding titles and identity | `Qajar statesman in formal court/diplomatic clothing, studio portrait, high-detail historical realism` |
 | `images/Qajar-vs-Pahlavi-Era.png` | FA + EN historical context | Transition from Qajar to Pahlavi | `split composition, late Qajar vs early Pahlavi modernization, historical contrast panel` |
 | `images/Ali-Yar-Fakhran-Reza-Shah-Era.png` | FA + EN | Reza Shah reform era | `Iran transition era, Reza Shah modernization atmosphere, archival-style civic scene` |
 | `images/Ali-Yar-Fakhran-Dar-Al-Fonun.png` | FA + EN | Dar al-Fonun education | `Dar al-Fonun courtyard, 19th-century Tehran, scholarly atmosphere, historic educational institution` |
@@ -70,11 +70,11 @@ Use these normalization rules to keep Persian and English versions aligned.
 | `images/Ali-Yar-Fakhran-Calligraphy-Wall.png` | FA + EN memoir | Dariush and the wall | `child writing calligraphy on fresh white wall, strict elder appears, courtyard scene` |
 | `images/Ali-Yar-Fakhran-Dinner-Protocol.png` | FA + EN memoir | Rank/order at dinner table | `formal Persian family dinner arranged by lineage and rank, indoor evening scene` |
 | `images/Ali-Yar-Fakhran-Bamdad-Heritage.png` | FA + EN memoir/reflection | Heritage across generations | `multi-generational Fakhran lineage, visual bridge from diplomacy to modern era` |
-| `images/FRIENDS-N-FAMILY-TREE.png` | FA + EN | Family/friends tree | diagram / family network asset |
+| `images/FRIENDS-N-FAMILY-TREE.webp` | FA + EN | Family/friends tree | diagram / family network asset |
 | `images/Ali-Yar-Fakhran-Genealogy-Tree.png` | FA + EN | Genealogy visualization | `stylized family tree, Persian genealogy, archival parchment aesthetic` |
-| `images/DR-FAKHRAN-BAHMAN-PARS-MARYAM-FAKHRAN.png` | FA + EN | Later generations | family continuity photo / composite asset |
+| `images/DR-FAKHRAN-BAHMAN-PARS-MARYAM-FAKHRAN.webp` | FA + EN | Later generations | family continuity photo / composite asset |
 | `images/Ali-Yar-Fakhran-Fakhran-Sara-Villa.png` | FA + EN | Fakhran Sara villa | `Caspian villa, terrace view, elegant family retreat, nostalgic coastal atmosphere` |
-| `images/Aliyar-Fakhran-Reze-Shah-Diplomat.png` | FA + EN late memoir | Broader Reza Shah diplomatic era | `Reza Shah-era diplomat, transitional modern state identity, formal portrait` |
+| `images/Aliyar-Fakhran-Reze-Shah-Diplomat.webp` | FA + EN late memoir | Broader Reza Shah diplomatic era | `Reza Shah-era diplomat, transitional modern state identity, formal portrait` |
 
 ---
 

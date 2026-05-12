@@ -56,6 +56,12 @@ This file tracks the working research flow for public historical documentation o
 
 ### TODO
 
+
+- [ ] TomWizMaster alignment checklist reviewed (issue templates, governance wording, release gates)
+- [ ] Mark NSFW assets in all AAK image registries and keep quarantine labels explicit
+- [ ] Normalize remaining gibberish image filenames to UUID-safe names and update references
+- [ ] Keep TODO items mirrored into GitHub Issues via tracker automation
+- [ ] Regenerate wiki pages and confirm PR-review pre-merge wiki sync passes
 - [ ] Send archive requests to **Spain**, **Iran**, **Russia**, and **Türkiye**
 - [ ] Confirm exact **class/rank** and conferment dates of each decoration
 - [ ] Request scans of decrees, citation texts, register entries, and medal records

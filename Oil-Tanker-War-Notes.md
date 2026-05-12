@@ -10,10 +10,10 @@
 - **Outcome:** They built them all.
 - **Connection:** Basis for the 'Kill Chain' concept.
 
-![Oil-Tanker-War-Notes](./images/Oil-Tanker-War-Notes.webp)
+![Oil-Tanker-War-Notes](./images/OIL-TANKER-WAR-NOTES.webp)
 
 
-![Oil-Tanker-War-Notes](./images/Oil-Tanker-War-Notes.webp)
+![Oil-Tanker-War-Notes](./images/OIL-TANKER-WAR-NOTES.webp)
 
 
 <!-- 16:9 Video Generation Match -->
