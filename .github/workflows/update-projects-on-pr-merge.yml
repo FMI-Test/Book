@@ -1,0 +1,228 @@
+name: Update Projects on PR Merge
+
+on:
+  pull_request:
+    types: [closed]
+
+permissions:
+  contents: read
+  issues: read
+  pull-requests: read
+  repository-projects: write
+
+jobs:
+  update-projects:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update project status for merged PR and linked issues
+        uses: actions/github-script@v7
+        env:
+          PROJECT_IDS: ${{ vars.PROJECT_IDS }}
+          STATUS_FIELD_NAME: ${{ vars.PROJECT_STATUS_FIELD_NAME || 'Status' }}
+          DONE_OPTION_NAME: ${{ vars.PROJECT_DONE_OPTION_NAME || 'Done' }}
+        with:
+          github-token: ${{ secrets.PROJECTS_TOKEN || github.token }}
+          script: |
+            const projectIds = (process.env.PROJECT_IDS || '')
+              .split(',')
+              .map((v) => v.trim())
+              .filter(Boolean)
+
+            if (projectIds.length === 0) {
+              core.warning('PROJECT_IDS is not configured. Skipping project updates.')
+              return
+            }
+
+            const owner = context.repo.owner
+            const repo = context.repo.repo
+            const pullNumber = context.payload.pull_request.number
+            const statusFieldName = process.env.STATUS_FIELD_NAME || 'Status'
+            const doneOptionName = process.env.DONE_OPTION_NAME || 'Done'
+
+            const prData = await github.graphql(
+              `query($owner: String!, $repo: String!, $pullNumber: Int!) {
+                repository(owner: $owner, name: $repo) {
+                  pullRequest(number: $pullNumber) {
+                    id
+                    url
+                    closingIssuesReferences(first: 100) {
+                      nodes {
+                        id
+                        number
+                        url
+                      }
+                    }
+                  }
+                }
+              }`,
+              { owner, repo, pullNumber }
+            )
+
+            const pr = prData.repository.pullRequest
+            const contents = [
+              { id: pr.id, url: pr.url, kind: 'PR' },
+              ...pr.closingIssuesReferences.nodes.map((issue) => ({
+                id: issue.id,
+                url: issue.url,
+                kind: 'Issue',
+              })),
+            ]
+
+            async function getProjectStatusField(projectId) {
+              const projectData = await github.graphql(
+                `query($projectId: ID!) {
+                  node(id: $projectId) {
+                    ... on ProjectV2 {
+                      id
+                      title
+                      fields(first: 100) {
+                        nodes {
+                          ... on ProjectV2SingleSelectField {
+                            id
+                            name
+                            options {
+                              id
+                              name
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }`,
+                { projectId }
+              )
+
+              const project = projectData.node
+              if (!project) {
+                throw new Error(`Project not found: ${projectId}`)
+              }
+
+              const statusField = project.fields.nodes.find(
+                (field) => field.name === statusFieldName
+              )
+
+              if (!statusField) {
+                throw new Error(
+                  `Field "${statusFieldName}" not found in project ${project.title} (${projectId})`
+                )
+              }
+
+              const doneOption = statusField.options.find(
+                (option) => option.name === doneOptionName
+              )
+
+              if (!doneOption) {
+                throw new Error(
+                  `Option "${doneOptionName}" not found in field "${statusFieldName}" for project ${project.title} (${projectId})`
+                )
+              }
+
+              return {
+                projectTitle: project.title,
+                fieldId: statusField.id,
+                optionId: doneOption.id,
+              }
+            }
+
+            async function findProjectItemId(projectId, contentId) {
+              let cursor = null
+
+              while (true) {
+                const itemsData = await github.graphql(
+                  `query($projectId: ID!, $cursor: String) {
+                    node(id: $projectId) {
+                      ... on ProjectV2 {
+                        items(first: 100, after: $cursor) {
+                          pageInfo {
+                            hasNextPage
+                            endCursor
+                          }
+                          nodes {
+                            id
+                            content {
+                              __typename
+                              ... on PullRequest {
+                                id
+                              }
+                              ... on Issue {
+                                id
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }`,
+                  { projectId, cursor }
+                )
+
+                const items = itemsData.node?.items
+                const match = items?.nodes?.find((item) => item.content?.id === contentId)
+                if (match) {
+                  return match.id
+                }
+
+                if (!items?.pageInfo?.hasNextPage) {
+                  return null
+                }
+
+                cursor = items.pageInfo.endCursor
+              }
+            }
+
+            async function ensureProjectItem(projectId, contentId) {
+              const existingItemId = await findProjectItemId(projectId, contentId)
+              if (existingItemId) {
+                return existingItemId
+              }
+
+              const added = await github.graphql(
+                `mutation($projectId: ID!, $contentId: ID!) {
+                  addProjectV2ItemById(input: { projectId: $projectId, contentId: $contentId }) {
+                    item {
+                      id
+                    }
+                  }
+                }`,
+                { projectId, contentId }
+              )
+
+              return added.addProjectV2ItemById.item.id
+            }
+
+            for (const projectId of projectIds) {
+              const { projectTitle, fieldId, optionId } = await getProjectStatusField(projectId)
+
+              for (const content of contents) {
+                const itemId = await ensureProjectItem(projectId, content.id)
+
+                await github.graphql(
+                  `mutation($projectId: ID!, $itemId: ID!, $fieldId: ID!, $optionId: String!) {
+                    updateProjectV2ItemFieldValue(
+                      input: {
+                        projectId: $projectId
+                        itemId: $itemId
+                        fieldId: $fieldId
+                        value: { singleSelectOptionId: $optionId }
+                      }
+                    ) {
+                      projectV2Item {
+                        id
+                      }
+                    }
+                  }`,
+                  {
+                    projectId,
+                    itemId,
+                    fieldId,
+                    optionId,
+                  }
+                )
+
+                core.info(
+                  `Updated ${content.kind} ${content.url} in project "${projectTitle}" to ${doneOptionName}.`
+                )
+              }
+            }
