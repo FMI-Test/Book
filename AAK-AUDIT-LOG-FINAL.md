@@ -350,7 +350,7 @@ Refresh AAK TODO metadata and tracker accuracy after recent image-generation and
 
 ## 2026-05-12 TODO/Instruction/Wiki Automation Sync
 
-Triggered by: `update todo wip .prompt .instruction and other ai agents`
+Triggered by: `update todo wip .prompt .instruction and other AI agents`
 
 ### Actions Completed
 

@@ -1,6 +1,6 @@
 # Book Wiki Home
 
-_Last generated: 2026-05-12 02:10 UTC_
+_Last generated: 2026-05-12 02:13 UTC_
 
 ## Alignment
 
@@ -49,10 +49,6 @@ _Last generated: 2026-05-12 02:10 UTC_
 | `images/nsfw-8fd4ef95-377f-4927-8c01-d3be44740ec2.webp` | Non-biographical unrelated content (NSFW) | Hold |
 | `images/nsfw-a6c45a85-3103-4eeb-9840-9886f395a380.webp` | Non-biographical unrelated content (NSFW) | Hold |
 | `images/nsfw-cf2a6b77-1388-4022-90f5-c6f713e0e667.webp` | Non-biographical unrelated content (NSFW) | Hold |
-| `images/fashion-model-girl-long-sexy-legs-yellow-jacket-white-bra-interior-beautiful-young-woman-fashion-model-176616360.webp` | `images/nsfw-2f2b2b37-44a3-4f33-a45d-e63f2f0f6d10.webp` | Hold (NSFW) |
-| `images/girl-beautiful-swimsuit-sunbathing-on-260nw-755081506.webp` | `images/nsfw-8fd4ef95-377f-4927-8c01-d3be44740ec2.webp` | Hold (NSFW) |
-| `images/seductive-brunette-sunbathing-on-deck-260nw-2292008719.webp` | `images/nsfw-a6c45a85-3103-4eeb-9840-9886f395a380.webp` | Hold (NSFW) |
-| `images/2402155-ai-nude-photos-full-body-teddy-set-ai-girls-photo-studio.webp` | `images/nsfw-cf2a6b77-1388-4022-90f5-c6f713e0e667.webp` | Hold (NSFW) |
 
 ## Source Index
 

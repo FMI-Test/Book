@@ -96,7 +96,9 @@ Quarantine naming and labeling pass executed for explicit NSFW assets.
 
 ### Renamed NSFW Assets
 
-| Previous name | UUID-safe name | Status |
+UUID values were generated with standard UUIDv4 random IDs and reserved under the `images/nsfw-<uuid>.ext` naming convention to avoid collisions.
+
+| Previous name | New UUID-safe name | Status |
 | --- | --- | --- |
 | `images/fashion-model-girl-long-sexy-legs-yellow-jacket-white-bra-interior-beautiful-young-woman-fashion-model-176616360.webp` | `images/nsfw-2f2b2b37-44a3-4f33-a45d-e63f2f0f6d10.webp` | Hold (NSFW) |
 | `images/girl-beautiful-swimsuit-sunbathing-on-260nw-755081506.webp` | `images/nsfw-8fd4ef95-377f-4927-8c01-d3be44740ec2.webp` | Hold (NSFW) |

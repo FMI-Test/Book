@@ -46,15 +46,19 @@ jobs:
               core.info(`Created issue #${created.data.number}`);
             }
 
+      - name: Checkout wiki repository
+        id: checkout_wiki
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ github.repository }}.wiki
+          token: ${{ secrets.GITHUB_TOKEN }}
+          path: /tmp/repo-wiki
+        continue-on-error: true
+
       - name: Publish wiki
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        if: ${{ steps.checkout_wiki.outcome == 'success' }}
         run: |
           set -euo pipefail
-          git clone "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.wiki.git" /tmp/repo-wiki || {
-            echo "Wiki clone failed; wiki may be disabled."
-            exit 0
-          }
           cp wiki/*.md /tmp/repo-wiki/
           cd /tmp/repo-wiki
           git config user.name "github-actions[bot]"

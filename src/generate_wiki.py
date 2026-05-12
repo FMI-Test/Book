@@ -8,6 +8,7 @@ import re
 REPO_ROOT = Path(__file__).resolve().parent.parent
 WIKI_DIR = REPO_ROOT / "wiki"
 HOME_MD = WIKI_DIR / "Home.md"
+MAX_TODO_ITEMS = 15
 
 
 def read(path: str) -> str:
@@ -15,6 +16,7 @@ def read(path: str) -> str:
 
 
 def unchecked_todos(text: str) -> list[str]:
+    """Extract unchecked checklist entries formatted as '- [ ] item'."""
     return [m.group(1).strip() for m in re.finditer(r"^- \[ \] (.+)$", text, re.MULTILINE)]
 
 
@@ -25,7 +27,7 @@ def build_home() -> str:
 
     nsfw_rows = []
     for line in quarantine.splitlines():
-        if "(NSFW)" in line and line.strip().startswith("|"):
+        if "(NSFW)" in line and line.strip().startswith("| `images/nsfw-"):
             nsfw_rows.append(line)
 
     ts = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
@@ -42,9 +44,9 @@ def build_home() -> str:
         "## Open TODOs (Aliyar-Fakhran-Todo.md)",
         "",
     ]
-    lines += [f"- {item}" for item in todo[:15]] or ["- None"]
+    lines += [f"- {item}" for item in todo[:MAX_TODO_ITEMS]] or ["- None"]
     lines += ["", "## Open TODOs (Workflow Summary)", ""]
-    lines += [f"- {item}" for item in workflow[:15]] or ["- None"]
+    lines += [f"- {item}" for item in workflow[:MAX_TODO_ITEMS]] or ["- None"]
     lines += ["", "## NSFW Quarantine Entries", ""]
     if nsfw_rows:
         lines += ["| Asset | Reason | Status |", "| --- | --- | --- |"]
