@@ -303,3 +303,20 @@ User requested an all-image repair pass with commit, push, and PR delivery under
 - Changes are minimal, traceable, and limited to link-integrity repair.
 
 **AAK IMAGE INTEGRITY SYNC:** Completed for all detected broken image links and revalidation.
+
+## 2026-05-17 Draft Intake Normalization Addendum
+
+User requested to continue the AAK pass on branch `dev` with pending markdown intake files.
+
+### Intake Actions Completed
+
+1. Normalized `media/videos/driver.md` from a rough fragment into a readable draft with requirements and evaluation baseline.
+2. Initialized `KB/heaven-hurst.md` from empty state into a structured intake placeholder aligned with repository chapter format.
+3. Preserved public-safe language and removed low-clarity fragments.
+
+### Outcome
+
+- Both pending markdown drafts are now structurally usable.
+- AAK traceability is updated for this intake pass.
+
+**AAK DRAFT INTAKE SYNC:** Completed for draft normalization and audit logging.
